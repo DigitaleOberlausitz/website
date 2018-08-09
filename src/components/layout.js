@@ -8,6 +8,8 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import PageHeader from "./page-header"
 import PageFooter from "./page-footer"
 
+import "../style/style.css"
+
 const Layout = ({ children, data }) => {
   return (
     <StaticQuery

@@ -2,7 +2,6 @@ const { createFilePath } = require("gatsby-source-filesystem")
 const createPaginatedPage = require("gatsby-paginate")
 
 const path = require("path")
-const slugify = require("slugify")
 
 exports.onCreateNode = params => {
   const { node, getNode } = params
@@ -34,14 +33,11 @@ const createSlug = ({ node, getNode, actions, basePath, prefix }) => {
 
   const path = createFilePath({ node, getNode, basePath })
 
-  const slug = slugify(path, {
-    lower: true,
-  })
 
   createNodeField({
     node,
     name: "slug",
-    value: prefix ? `/${prefix}/${slug}` : slug,
+    value: prefix ? `/${prefix}${path}` : path,
   })
 }
 
@@ -49,9 +45,10 @@ exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
   const createNewsPagesPromise = createNewsPages({ createPage, graphql })
+  const createEventPagesPromise = createEventPages({ createPage, graphql })
   const createStaticPagesPromise = createStaticPages({ createPage, graphql })
 
-  return Promise.all([createNewsPagesPromise, createStaticPagesPromise])
+  return Promise.all([createNewsPagesPromise, createEventPagesPromise, createStaticPagesPromise])
 }
 
 const createNewsPages = ({ createPage, graphql }) => {
@@ -93,6 +90,47 @@ const createNewsPages = ({ createPage, graphql }) => {
         createPage({
           path: node.fields.slug,
           component: path.resolve("./src/templates/news-page.js"),
+          context: {
+            slug: node.fields.slug,
+          },
+        })
+      })
+
+      resolve()
+    })
+  })
+}
+
+const createEventPages = ({ createPage, graphql }) => {
+  return new Promise((resolve, reject) => {
+    graphql(`
+      {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: DESC }
+          filter: { fields: { sourceName: { eq: "events" } } }
+        ) {
+          edges {
+            node {
+              id
+              frontmatter {
+                title
+                date
+              }
+              html
+              fields {
+                slug
+              }
+            }
+          }
+        }
+      }
+    `).then(result => {
+      const edges = result.data.allMarkdownRemark.edges
+
+      edges.forEach(({ node }) => {
+        createPage({
+          path: node.fields.slug,
+          component: path.resolve("./src/templates/event-page.js"),
           context: {
             slug: node.fields.slug,
           },
