@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Digitale Oberlausitz e.V.",
-    description: "Webseite des Vereins Digitale Oberlausitz e.V.",
+    title: "Digitale Oberlausitz e. V.",
+    description: "Website des Vereins Digitale Oberlausitz e. V.",
     siteUrl: "https://digitale-oberlausitz.eu",
   },
   plugins: [
