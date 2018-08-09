@@ -1,6 +1,6 @@
 import React from "react"
 
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 
@@ -13,13 +13,16 @@ export default ({ data }) => {
         const {
           id,
           html,
+          fields: { slug },
           frontmatter: { title, date },
         } = edge.node
 
         return (
           <article key={id}>
             <header>
-              <h1>{title}</h1>
+              <h1>
+                <Link to={slug}>{title}</Link>
+              </h1>
               <strong>
                 <time dateTime={date}>{date}</time>
               </strong>
@@ -41,6 +44,9 @@ export const query = graphql`
       edges {
         node {
           id
+          fields {
+            slug
+          }
           frontmatter {
             title
             date

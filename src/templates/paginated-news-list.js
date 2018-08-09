@@ -24,9 +24,11 @@ const PaginatedNewsList = ({ data, pageContext }) => {
             fields: { slug },
           } = node
           return (
-            <article key={id}>
+            <article className="news-article" key={id}>
               <header>
-                <h1>{title}</h1>
+                <h1>
+                  <Link to={slug}>{title}</Link>
+                </h1>
                 <strong>
                   <time dateTime={date}>{date}</time>
                 </strong>
@@ -37,7 +39,7 @@ const PaginatedNewsList = ({ data, pageContext }) => {
                 }}
               />
 
-              <Link to={slug}>more...</Link>
+              <Link to={slug}>mehr anzeigen...</Link>
             </article>
           )
         })}
