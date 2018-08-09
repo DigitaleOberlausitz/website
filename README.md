@@ -1,1 +1,1 @@
-# Webseite des Vereins "Digitale Oberlausitz e.V."
+# Website des Vereins "Digitale Oberlausitz e. V."
