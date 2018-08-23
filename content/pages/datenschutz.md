@@ -2,7 +2,6 @@
 title: "Datenschutz"
 ---
 
-
 <h2>Die Datenschutzerklärung</h2>
 <p>Auf dem Aufnahmeantrag und auf der zukünftigen Homepage müssen wir auf die hier folgende Datenschutzerklärung verweisen und die <a href="https://cloud.digitale-oberlausitz.eu/index.php/s/jwXXpHFq0K51Qvg" title="Einwilligungserklärung">Einwilligungserklärung</a> einholen.
 </p><p>Unser Verein verarbeitet Personenbezogene Daten insbesondere zum Zwecke der Kommunikation. Es ist nicht vorgesehen, die personenbezogenen Daten ohne Deine Einwilligung an Dritte weiter zu geben. Der Verein ist jedoch gezwungen, personenbezogene Daten weiterzugeben, wenn dies durch Rechtsvorschriften ausdrücklich verlangt wird, bzw. dies durch ein öffentliches Gericht angeordnet wird.
