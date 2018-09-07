@@ -40,7 +40,9 @@ const Layout = ({ children, data }) => {
 
           <div className="container main-content">{children}</div>
 
-          <PageFooter />
+          <div className="container">
+            <PageFooter/>
+          </div>
         </>
       )}
     />

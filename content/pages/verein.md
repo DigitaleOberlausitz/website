@@ -6,6 +6,10 @@ title: "Der Verein"
 
 ## Beschreibung des Vereins, Zweck, Tätigkeiten usw.
 
+
+## Vorstand
+
+
 ## Mitglied werden
 
 * [Satzung](/satzung)

@@ -3,19 +3,19 @@ title: Satzung
 ---
 ## Satzung des Digitale Oberlausitz e. V.
 
-### Präambel
+<h3 id="präambel">Präambel</h3>
 
 Die Digitalisierung und die zunehmende Durchdringung des Alltags mit Informationstechnologie verändern die Gesellschaft. Um dieser Entwicklung nicht nur als passiver Konsument ausgeliefert zu sein, sondern diese stattdessen aktiv und kreativ gestalten zu können, sind Kompetenzen, Wissen und Fähigkeiten aus den Bereichen Informatik und Technik erforderlich.
 Um dieser Herausforderung gerecht zu werden, sind Strukturen und Räume notwendig, welche die Vernetzung und den interdisziplinären Austausch von Interessierten, sowie den schöpferisch-kritischen Umgang mit Technologie ermöglichen – unabhängig von Wissensstand, Herkunft, Alter und Geschlecht.
 Der Verein möchte dazu beitragen, diese Vision in der Region Görlitz zu verwirklichen.
 
-### § 1 Name, Sitz und Geschäftsjahr
+<h3 id="1">§ 1 Name, Sitz und Geschäftsjahr</h3>
 
 1.  Der Verein führt den Namen "Digitale Oberlausitz". Er soll in das Vereinsregister eingetragen werden und führt nach der Eintragung den Zusatz "e.V." im Namen.
 2.  Der Vereinssitz ist Görlitz.
 3.  Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
-### § 2 Zweck, Aufgaben, Gemeinnützigkeit des Vereins
+<h3 id="2">§ 2 Zweck, Aufgaben, Gemeinnützigkeit des Vereins</h3>
 
 Zweck des Verein ist die Förderung der Volksbildung im Sinne der Präambel. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
 
@@ -34,25 +34,25 @@ Schaffung der räumlichen Voraussetzungen zur Entwicklung und Realisierung gemei
 
 Generell gilt: Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "steuerbegünstigte Zwecke" der Abgabenordnung in der jeweils gültigen Fassung. Er darf keine Gewinne erzielen, er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mittel des Vereins werden ausschließlich und unmittelbar zu den satzungsgemäßen Zwecken verwendet. Die Mitglieder erhalten keine Zuwendung aus den Mitteln des Vereins. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-### § 3 Mitgliedschaft
+<h3 id="3">§ 3 Mitgliedschaft</h3>
 
 1.  Mitglied des Vereins kann jede natürliche Person und jede juristische Person werden. Juristische Personen können nur als Fördermitglied ohne Stimmrecht aufgenommen werden.
 2.  Die Aufnahme in den Verein ist schriftlich beim Vorstand zu beantragen. Der Vorstand entscheidet über den Aufnahmeantrag. Will er dem Antrag nicht stattgeben, entscheidet hierüber die nächste ordentliche Mitgliederversammlung.
 3.  Für die Mitgliedschaft im Verein können Mitgliedsbeiträge erhoben werden, deren Höhe und Fälligkeit von einer Beitragsordnung festgelegt werden. Diese wird auf Vorschlag des Vorstandes von der Mitgliederversammlung beschlossen und ist nicht Teil der Satzung.
 4.  Mit Ausnahme der Fördermitglieder haben alle Mitglieder das Stimmrecht in der Mitgliederversammlung.
 
-### § 4 Beendigung der Mitgliedschaft
+<h3 id="4">§ 4 Beendigung der Mitgliedschaft</h3>
 
 1.  Der Austritt aus dem Verein ist jederzeit zulässig. Er muss schriftlich (auch elektronisch) gegenüber dem Vorstand erklärt werden.
 2.  Ein Mitglied kann aus dem Verein ausgeschlossen werden, wenn sein Verhalten in grober Weise gegen die Interessen des Vereins verstößt oder wenn trotz erfolgter zweimaliger Mahnung mit einer Fristsetzung von jeweils 3 Wochen das Mitglied seinen Zahlungsverpflichtungen nicht nachkommt. Über den Ausschluss entscheidet die Mitgliederversammlung. 
 3.  Die Mitgliedschaft endet mit dem Tod des Mitglieds (bei juristischen Personen mit deren Erlöschen).
 4.  Das ausgetretene oder ausgeschlossene Mitglied hat keinen Anspruch gegenüber dem Vereinsvermögen.
 
-### § 5 Organe des Vereins
+<h3 id="5">§ 5 Organe des Vereins</h3>
 
 Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
-### § 6 Vorstand
+<h3 id="6">§ 6 Vorstand</h3>
 
 1.  Der Vorstand des Vereins im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden und dem Schatzmeister.
 2.  Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; er bleibt jedoch so lange im Amt, bis eine Neuwahl erfolgt ist. Scheidet ein Mitglied des Vorstandes während der Amtsdauer aus, kann der Vorstand für die restliche Amtsdauer des Ausgeschiedenen ein Ersatzmitglied bestellen.
@@ -61,7 +61,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 5.  Die Haftung des Vorstands gegenüber dem Verein wird auf Schäden beschränkt, die auf vorsätzlichen oder grob fahrlässigen Verletzungen seiner Geschäftsführungspflichten beruhen.
 6.  Der Verein stellt den Vorstand von Schadensersatzansprüchen Dritter frei, soweit diese nicht Schäden zum Gegenstand haben, welche durch den Vorstand vorsätzlich (oder grob fahrlässig) verursacht wurden.
 
-### § 7 Aufgaben des Vorstandes
+<h3 id="7">§ 7 Aufgaben des Vorstandes</h3>
 
 Der Vorstand ist verantwortlich für die ordnungsgemäße Verwaltung aller Ämter und die
 satzungsgemäße Erfüllung der Aufgaben des Vereins. Er ist gesetzlicher Vertreter im Sinne des §26 BGB.
@@ -81,7 +81,7 @@ Ausgaben. Er muss hierüber jederzeit Rechenschaft ablegen können.
 Der Vorstand kann einzelne Aufgaben ganz oder teilweise auf einzelne Vereinsmitglieder
 Übertragen.
 
-### § 8 Mitgliederversammlung
+<h3 id="8">§ 8 Mitgliederversammlung</h3>
 
 1.  Die ordentliche Mitgliederversammlung findet mindestens einmal jährlich statt. Außerdem muss eine Mitgliederversammlung einberufen werden, wenn das Interesse des Vereins es erfordert oder wenn mindestens 1⁄5 der Mitglieder die Einberufung schriftlich unter Angabe des Zwecks und der Gründe verlangt.
 2.  Jede Mitgliederversammlung ist vom Vorstand schriftlich (per Post oder E-Mail) unter Einhaltung einer Einladungsfrist von 14 Tagen und unter Angabe der Tagesordnung einzuberufen.
@@ -92,7 +92,8 @@ Der Vorstand kann einzelne Aufgaben ganz oder teilweise auf einzelne Vereinsmitg
 7.  Jedes erschienene, stimmberechtigte Mitglied hat eine Stimme. Die Übertragung des Stimmrechts an ein anderes stimmberechtigtes Mitglied ist mittels schriftlicher Vollmacht zulässig.
 8.  Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das vom Versammlungsleiter und dem Schriftführer zu unterschreiben ist.
 
-### § 9 Auflösung
+
+<h3 id="9">§ 9 Auflösung</h3>
 
 1.  Die Auflösung des Vereins kann nur in einer Mitgliederversammlung, in welcher mindestens die Hälfte der stimmberechtigten, volljährigen Mitglieder anwesend sind, von ebendiesen mit einer Mehrheit von 3⁄4 beschlossen werden.
 2.  Kann die Auflösung des Vereins in der ersten Auflösungsversammlung aufgrund zu geringer Teilnehmeranzahl nicht beschlossen werden, muss eine zweite Versammlung einberufen werden. In der Einladung zu dieser zweiten Auflösungsversammlung muss darauf hingewiesen werden, dass eine einfache Mehrheit der Anwesenden, unabhängig von deren Anzahl, zur Beschlussfassung ausreichend ist.

@@ -50,6 +50,7 @@ class PageHeader extends React.Component {
               <LinkItem to="/projekte">Projekte</LinkItem>
               <LinkItem to="/mitmachen">Mitmachen</LinkItem>
               <LinkItem to="/foerdermitglieder">Fördermitglieder</LinkItem>
+              <LinkItem to="/kontakt">Kontakt</LinkItem>
             </Nav>
           </Collapse>
         </Navbar>
