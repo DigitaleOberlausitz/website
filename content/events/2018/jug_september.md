@@ -1,7 +1,11 @@
 ---
-title: "JUG-Vortrag: Java APIs - the missing manual"
+title: "Abgesagt/Verschoben: JUG-Vortrag: Java APIs - the missing manual"
 date: "2018-09-26"
 ---
+
+**Hinweis**: Die Veranstaltung muss aus Krankheitsgründen leider ausfallen. 
+Stattdessen treffen wir uns zur angegebenen Zeit und machen ein Coding-Dojo.
+
 
 Datum: 26.09.2018 - 19:00 Uhr  
 Ort: CIDEON Software GmbH & Co. KG, Untermarkt 25, 02826 Görlitz  
