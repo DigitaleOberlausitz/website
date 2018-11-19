@@ -8,7 +8,7 @@ Auf dieser Seite finden sie eine Liste von Projekten und Veranstaltungen, die de
 
 ---
 
-![Logo der JUG](https://www.jug-gr.de/images/logo.png)
+![Logo der JUG](../images/jug_logo.png)
 
 
 **[Java User Group Görlitz](/projekte/jug)**. Die JUG Görlitz organisiert monatlich kostenfreie Vortragsabende zu Themen
