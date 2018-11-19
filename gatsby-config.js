@@ -27,7 +27,26 @@ module.exports = {
         path: `${__dirname}/content/pages`,
       },
     },
-    "gatsby-transformer-remark",
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "images",
+        path: `${__dirname}/content/images`
+      }
+    },
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              maxWidth: 600
+            }
+          }
+        ]
+      }
+    },
     "gatsby-remark-source-name",
     "gatsby-plugin-catch-links",
   ],
