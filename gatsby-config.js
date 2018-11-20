@@ -52,7 +52,7 @@ module.exports = {
     {
       resolve: "gatsby-source-atom",
       options: {
-        source: "http://localhost:8080/atom.xml",
+        source: "https://www.jug-gr.de/atom.xml",
       }
     }
   ],
