@@ -49,5 +49,11 @@ module.exports = {
     },
     "gatsby-remark-source-name",
     "gatsby-plugin-catch-links",
+    {
+      resolve: "gatsby-source-atom",
+      options: {
+        source: "http://localhost:8080/atom.xml",
+      }
+    }
   ],
 }

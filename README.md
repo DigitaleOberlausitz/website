@@ -38,6 +38,17 @@ Als Beispiel:
     Dieser Teil ist in der Übersicht zu sehen.
     <!--more-->
     Dieser Teil nicht mehr.
+    
+    
+#### Sonderfall Java-User-Group
+
+Events der [JUG Görlitz](https://jug-gr.de) werden automatisch als Events aufgenommen, ohne dass dazu hier Markdown-Dateien
+ergänzt werden müssen. 
+Die Informationen zur den Events werden aus dem [Atom-Feed](https://jug-gr.de/atom.xml) geladen.
+Dies passiert jedoch, wie bei Gatsby üblich, zum Build-Zeitpunkt.
+Wurde ein neues Event auf der JUG-Seite ergänzt, wird dieses also nicht unmittelbar auch auf dieser Webseite hier erscheinen.
+Damit die JUG-Events auch auf der Vereinsseite erscheinen, muss die Vereinsseite neu gebaut werden.
+
 
 ### Neue statische Seiten ergänzen
 
