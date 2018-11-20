@@ -7,6 +7,12 @@ import moment from "moment"
 
 import Layout from "../components/layout"
 
+/**
+ * This date is used to limit JUG talks. Only those talks which are after this date are used
+ * in the website.
+ */
+const JUG_EVENT_LIMIT = moment("2018-01-01")
+
 const DefaultEvent = ({event}) => {
     const {
       html,
@@ -61,11 +67,22 @@ export default ({ data }) => {
     type: "defaultEvent",
     node: node,
   })) : []
-  const jugEvents = data.jugEvents ? data.jugEvents.edges.map(edge => edge.node).map(node => ({
-    date: node.date,
-    type: "jugEvent",
-    node: node,
-  })) : []
+
+  const jugEvents = data.jugEvents ? data.jugEvents.edges
+    .map(edge => edge.node)
+    .map(node => {
+      return {
+        date: node.date,
+        type: "jugEvent",
+        node: node,
+      }
+    })
+    .filter(node => {
+      const nodeDate = moment(node.date)
+
+      return nodeDate.isAfter(JUG_EVENT_LIMIT)
+    })
+    : []
 
   const allEvents = R.reverse(R.sortBy(eventNode => eventNode.date)([...events, ...jugEvents]))
 
