@@ -52,11 +52,15 @@ const JugEvent = ({event}) => {
         <strong>
           <time dateTime={date}>{formattedDate}</time>
         </strong>
-        <p>
-          <a href={{link}}>Link zum Vortrag</a>
-        </p>
       </header>
-      <div dangerouslySetInnerHTML={{__html: description}}/>
+      <div>
+        <p>
+        Vortrag der Java-User-Group zum Thema <strong>{title}</strong>.
+        </p>
+        <p>
+        Weitere Infos finden Sie auf der Webseite der JUG unter:<br/> <a href={{link}}>{link}</a>.
+        </p>
+      </div>
     </article>
   )
 }
@@ -90,14 +94,22 @@ export default ({ data }) => {
     <Layout>
       {allEvents.map((event, i) => {
         switch(event.type) {
-          case "defaultEvent": return <DefaultEvent key={i} event={event.node}/>
-          case "jugEvent": return <JugEvent key={i} event={event.node}/>
+          case "defaultEvent": return <ListEntry><DefaultEvent key={i} event={event.node}/></ListEntry>
+          case "jugEvent": return <ListEntry><JugEvent key={i} event={event.node}/></ListEntry>
           default: return null
         }
       })}
     </Layout>
   )
 }
+
+const ListEntry = ({children}) => (
+  <div style={{marginBottom: "4em", marginTop:"1em"}}>
+    {children}
+    <hr/>
+  </div>
+)
+
 
 export const query = graphql`
   query {
