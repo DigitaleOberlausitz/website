@@ -4,7 +4,7 @@ title: "Java User Group Görlitz"
 
 # Java User Group Görlitz
 
-![Logo der JUG](https://www.jug-gr.de/images/logo.png)
+![Logo der JUG](../../images/jug_logo.png)
 
 Die Java User Group Görlitz, kurz JUG, veranstaltet seit 2011 monatliche Vorträge zu Programmierung und Software-Entwicklung.
 Zu den kostenfreien Veranstaltungen sind alle Interessierten herzlich eingeladen.
