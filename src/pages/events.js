@@ -58,7 +58,7 @@ const JugEvent = ({event}) => {
         Vortrag der Java-User-Group zum Thema <strong>{title}</strong>.
         </p>
         <p>
-        Weitere Infos finden Sie auf der Webseite der JUG unter:<br/> <a href={{link}}>{link}</a>.
+        Weitere Infos finden Sie auf der Webseite der JUG unter:<br/> <a href={link}>{link}</a>.
         </p>
       </div>
     </article>
@@ -94,8 +94,8 @@ export default ({ data }) => {
     <Layout>
       {allEvents.map((event, i) => {
         switch(event.type) {
-          case "defaultEvent": return <ListEntry><DefaultEvent key={i} event={event.node}/></ListEntry>
-          case "jugEvent": return <ListEntry><JugEvent key={i} event={event.node}/></ListEntry>
+          case "defaultEvent": return <ListEntry key={i}><DefaultEvent event={event.node}/></ListEntry>
+          case "jugEvent": return <ListEntry key={i}><JugEvent event={event.node}/></ListEntry>
           default: return null
         }
       })}
