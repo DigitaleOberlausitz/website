@@ -22,7 +22,7 @@ Schatzmeister
 
 ## E-Mail
 
-[vorstand@digitale-oberlausitz.eu](mailto:vorstand@digitale-oberlausitz.eu)
+<obfuscate email="vorstand@digitale-oberlausitz.eu"/>
 
 
 ## Persönlich bei lokalen Veranstaltungen
@@ -32,5 +32,5 @@ Wenn du uns persönlich treffen möchtest, komm einfach bei einer unserer [Veran
 
 ## Soziale Medien
 
-- Twitter
+- [Twitter: @DigitaleOL](https://twitter.com/DigitaleOL)
 - Facebook
