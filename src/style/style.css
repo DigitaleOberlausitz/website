@@ -1,7 +1,19 @@
+@import url(./header.css);
 
+body {
+  color: #222;
+}
+
+a {
+  color: #0848a5;
+}
+
+.main-content {
+  padding-top: 1rem;
+}
 
 .news-article {
-    margin-top: 1rem;
-    margin-bottom: 2rem;
-    border-bottom: solid 1px #eee;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: solid 1px #eee;
 }

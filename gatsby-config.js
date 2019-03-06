@@ -31,8 +31,8 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "images",
-        path: `${__dirname}/content/images`
-      }
+        path: `${__dirname}/content/images`,
+      },
     },
     {
       resolve: "gatsby-transformer-remark",
@@ -41,11 +41,11 @@ module.exports = {
           {
             resolve: "gatsby-remark-images",
             options: {
-              maxWidth: 600
-            }
-          }
-        ]
-      }
+              maxWidth: 600,
+            },
+          },
+        ],
+      },
     },
     "gatsby-remark-source-name",
     "gatsby-plugin-catch-links",
@@ -53,7 +53,15 @@ module.exports = {
       resolve: "gatsby-source-atom",
       options: {
         source: "https://www.jug-gr.de/atom.xml",
-      }
-    }
+      },
+    },
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-plugin-typography",
+      options: {
+        pathToConfigModule: "src/utils/typography.js",
+      },
+    },
   ],
 }
