@@ -1,0 +1,34 @@
+.navbar > .navbar-brand > img {
+  max-width: 12rem;
+}
+
+.navbar {
+  padding-bottom: 0;
+  border-bottom: 1px solid #eee;
+}
+
+.navbar .nav-item {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  .navbar .nav-item {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar .nav-item {
+    font-size: 1.2rem;
+  }
+}
+
+.navbar .nav-item > a {
+  margin-bottom: 5px;
+}
+.navbar .nav-item .active {
+  margin-bottom: 0;
+  border-bottom: #0848a5 5px solid;
+}
