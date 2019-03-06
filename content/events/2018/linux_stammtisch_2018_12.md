@@ -1,6 +1,10 @@
 ---
 title: "Linux-Stammtisch Dezember"
 date: "2018-12-14"
+ical: 'linux-stammtisch'
+location: "Sushi Yama, Weberstraße 11, 02826 Görlitz"
+startTime: "19:00"
+endTime: "21:30"
 ---
 
 Liebe Linuxer,

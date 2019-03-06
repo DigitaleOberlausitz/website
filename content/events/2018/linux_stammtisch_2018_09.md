@@ -1,6 +1,10 @@
 ---
 title: "Linux-Stammtisch August"
 date: "2018-09-14"
+ical: 'linux-stammtisch'
+location: "Daszyńskiego 17, 59-900 Zgorzelec, Polen"
+startTime: "19:00"
+endTime: "21:30"
 ---
 
 Am 14. September 2018 um 19 Uhr geht es mit dem Linux-Stammtisch ins Miódmaliny in Zgorzelec!

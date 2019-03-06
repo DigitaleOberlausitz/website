@@ -1,6 +1,10 @@
 ---
 title: "Linux-Stammtisch November"
 date: "2018-11-09"
+ical: 'linux-stammtisch'
+location: "Café Kugel, Weberstraße 10, 02826 Görlitz"
+startTime: "19:00"
+endTime: "21:30"
 ---
 
 Liebe Linuxer,

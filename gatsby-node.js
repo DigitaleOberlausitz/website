@@ -1,6 +1,8 @@
 const { createFilePath } = require("gatsby-source-filesystem")
 const createPaginatedPage = require("gatsby-paginate")
 
+const { createIcal } = require("./src/utils/create-ical")
+
 const path = require("path")
 
 exports.onCreateNode = params => {
@@ -32,7 +34,6 @@ const createSlug = ({ node, getNode, actions, basePath, prefix }) => {
   const { createNodeField } = actions
 
   const path = createFilePath({ node, getNode, basePath })
-
 
   createNodeField({
     node,
@@ -172,4 +173,10 @@ const createStaticPages = ({ createPage, graphql }) => {
       resolve()
     })
   })
+}
+
+exports.onPostBuild = async ({ graphql }) => {
+  const icalName = "linux-stammtisch"
+  const icalTargetPath = "./public/projekte/linux-stammtisch/linux-stammtisch-goerlitz.ics"
+  return createIcal({ icalName, icalTargetPath, graphql })
 }

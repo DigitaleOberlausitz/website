@@ -1,6 +1,10 @@
 ---
 title: "Linux-Stammtisch März"
 date: "2019-03-08"
+ical: 'linux-stammtisch'
+location: "Dreibeiniger Hund, Büttnerstr. 13, 02826 Görlitz"
+startTime: "19:00"
+endTime: "21:30"
 ---
 
 Liebe Linuxer,
