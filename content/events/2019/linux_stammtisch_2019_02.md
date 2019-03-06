@@ -1,6 +1,10 @@
 ---
 title: "Linux-Stammtisch Februar"
 date: "2019-02-08"
+ical: 'linux-stammtisch'
+location: "Destille, Nikolaistraße 6, 02826 Görlitz"
+startTime: "19:00"
+endTime: "21:30"
 ---
 
 Liebe Linuxer!

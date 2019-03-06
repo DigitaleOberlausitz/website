@@ -50,6 +50,29 @@ Wurde ein neues Event auf der JUG-Seite ergänzt, wird dieses also nicht unmitte
 Damit die JUG-Events auch auf der Vereinsseite erscheinen, muss die Vereinsseite neu gebaut werden.
 
 
+#### Sonderfall Linux-Stammtisch Görlitz
+
+Events des Linux-Stammtisch Görlitz werden als normale Events angelegt. 
+Zusätzlich ist Vorgesehen, dass aus den Events eine ICAL/ICS-Datei mit den Events erzeugt wird. 
+Dazu sind zusätzliche Felder im Header der Markdown-Datei notwendig:
+
+	---
+    title: "Linux-Stammtisch März"
+    date: "2019-03-08"
+    ical: "linux-stammtisch"
+    location: "Dreibeiniger Hund, Büttnerstr. 13, 02826 Görlitz"
+    startTime: "19:00"
+    endTime: "21:30"
+    ---
+
+Neu sind die Optionen:
+
+- 'ical': Dies bestimmt den Kalender, in welchem der Termin eingetragen ist. Für den Linux-Stammtisch immer "linux-stammtisch" eintragen!
+- 'location': Der Ort für den Event. Jeder beliebige String ist möglich. Da einige Calendar-Apps aber einen Abgleich mit Google-Maps durchführen, 
+wäre ein kompatibler Such-String sinnvoll
+- 'startTime' / 'endTime': Die Start- und Ende-Zeit für das Event. Muss als String im Format "HH:MM" angegeben werden.
+
+
 ### Neue statische Seiten ergänzen
 
 Das Hinzufügen von statischen Seiten funktioniert äquivalent zu News und Events. Die entsprechenden Markdown-Dateien

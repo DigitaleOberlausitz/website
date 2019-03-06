@@ -1,6 +1,10 @@
 ---
 title: "Linux-Stammtisch Januar"
 date: "2019-01-11"
+ical: 'linux-stammtisch'
+location: "Siebenbürgen, Neißstraße 28, 02826 Görlitz"
+startTime: "19:00"
+endTime: "21:30"
 ---
 
 Liebe Linuxer,
