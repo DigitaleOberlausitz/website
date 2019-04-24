@@ -48,6 +48,7 @@ class PageHeader extends React.Component {
         <Navbar color="light" light expand="md">
           <NavbarBrand to="/" tag={props => <Link {...props} />} className="mr-auto">
             <img alt="Digitale Oberlausitz e.V." src={require("../../content/images/logo_transparent.png")} />
+            Digitale Oberlausitz e.V.
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
 
