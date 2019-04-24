@@ -9,7 +9,8 @@ a {
 }
 
 .main-content {
-  padding-top: 1rem;
+  padding-top: 2rem;
+    font-size: 1.2rem;
 }
 
 .news-article {

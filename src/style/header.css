@@ -1,10 +1,14 @@
 .navbar > .navbar-brand > img {
-  max-width: 12rem;
+  max-width: 3rem;
+  margin-bottom: .3em;
+  margin-right: .5em;
+  margin-top: .3em;
 }
 
 .navbar {
   padding-bottom: 0;
   border-bottom: 1px solid #eee;
+
 }
 
 .navbar .nav-item {
@@ -15,7 +19,7 @@
 
 @media (min-width: 768px) {
   .navbar .nav-item {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
   }
 }
 

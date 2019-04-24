@@ -113,7 +113,7 @@ export default ({ data }) => {
 }
 
 const ListEntry = ({ children, icon, date }) => (
-  <Container style={{ marginBottom: "4em", marginTop: "1em" }}>
+  <Container style={{ marginBottom: "3em", marginTop: "1em" }}>
     <Row>
       <Col
         md={2}
