@@ -18,18 +18,25 @@ const DefaultEvent = ({ event }) => {
   const {
     html,
     fields: { slug },
-    frontmatter: { title, date },
+    frontmatter: { title, date, location, startTime },
   } = event
 
   return (
     <article>
-      <header>
+      <header style={{ marginBottom: "1em" }}>
         <h2>
           <Link to={slug}>{title}</Link>
         </h2>
-        <strong>
-          <time dateTime={date}>{date}</time>
-        </strong>
+        {location && (
+          <p>
+            <strong>{location}</strong>
+          </p>
+        )}
+        {startTime && (
+          <p>
+            <strong>Start: {startTime}</strong>
+          </p>
+        )}
       </header>
       <div dangerouslySetInnerHTML={{ __html: html }} />
     </article>
@@ -94,7 +101,7 @@ export default ({ data }) => {
         switch (event.type) {
           case "defaultEvent":
             return (
-              <ListEntry key={i} date={event.node.frontmatter.date}>
+              <ListEntry icon={event.node.frontmatter.icon} key={i} date={event.node.frontmatter.date}>
                 <DefaultEvent event={event.node} />
               </ListEntry>
             )
@@ -171,6 +178,9 @@ export const query = graphql`
           frontmatter {
             title
             date
+            icon
+            location
+            startTime
           }
           html
         }
