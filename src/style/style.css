@@ -10,11 +10,15 @@ a {
 
 .main-content {
   padding-top: 2rem;
-    font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 .news-article {
   margin-top: 1rem;
   margin-bottom: 2rem;
   border-bottom: solid 1px #eee;
+}
+
+.news-article header {
+  margin-bottom: 1rem;
 }

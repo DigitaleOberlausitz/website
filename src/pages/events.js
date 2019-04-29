@@ -134,7 +134,7 @@ const ListEntry = ({ children, icon, date }) => (
       >
         {icon && (
           <div>
-            <img style={{ maxWidth: "6rem" }} alt="jug logo" src={require(`../../content/images/${icon}`)} />
+            <img style={{ maxWidth: "6rem" }} alt="logo" src={require(`../../content/images/${icon}`)} />
           </div>
         )}
 

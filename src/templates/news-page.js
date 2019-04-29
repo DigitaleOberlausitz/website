@@ -11,7 +11,7 @@ export default ({ data }) => {
 
   return (
     <Layout>
-      <article>
+      <article className="news-article">
         <header>
           <h1>{title}</h1>
           <strong>
