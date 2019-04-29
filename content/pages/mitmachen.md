@@ -24,6 +24,11 @@ Vereinsmitglieder gestalten die Arbeit und die Ausrichtung des Vereins aktiv mit
 Gute Vereinsarbeit lebt auch von Diversität. 
 Daher ist jede und jeder Willkommen, der sich mit unseren [Vereinszielen](/satzung#2), der [Präamble](/satzung#präamble) unseres Vereins sowie der [Satzung im Allgemeinen](/satzung) identifizieren kann.
 
+### Links
+* [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](https://cloud.digitale-oberlausitz.eu/index.php/s/gALgbEUmIlkZFnf)
+* [Formular: Datenschutz Einwilligung + Widerrufserklärung](https://cloud.digitale-oberlausitz.eu/index.php/s/jwXXpHFq0K51Qvg)
+* [Formular: SEPA-Lastschrift Mandat](https://cloud.digitale-oberlausitz.eu/index.php/s/fLil1g6EUbsfxcj)
+
 
 
 ## Als Unternehmen: Werden Sie Fördermitglied
