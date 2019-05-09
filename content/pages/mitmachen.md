@@ -33,7 +33,7 @@ Daher ist jede und jeder Willkommen, der sich mit unseren [Vereinszielen](/satzu
 
 ## Als Unternehmen: Werden Sie Fördermitglied
 
-Unternehmen und Organisationen können unserem Verein als [Fördermitglied](/foerdermitglied) beitreten
+Unternehmen und Organisationen können unserem Verein als [Fördermitglied](/foerdermitglieder) beitreten
 und damit unsere Arbeit auch finanziell unterstützen.
 
 
