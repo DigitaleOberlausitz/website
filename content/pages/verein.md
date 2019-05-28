@@ -35,7 +35,7 @@ Dies ist die Chance für jeden Kontakte zu knüpfen und seinen Kenntnisstand zu 
 * Hilfestellung bei technischen Fragen: Bei unseren aktuellen Formaten, wie dem "Linux-Stammtisch", 
 der "Java User Group Görlitz" oder anderen Einzelveranstaltungen, 
 z. B. bei den Treffen der "Linux User Group Görlitz" (organisiert durch die Rabryka), 
-sind wir immer wieder präsent, sodass jeder Fragen zu stellen und Probleme mitbringen kann. 
+sind wir immer wieder präsent, sodass jeder Fragen stellen und Probleme mitbringen kann. 
 So finden sich ganz konkret bei solchen Treffen Menschen 
 mit konkreten Problemen und Menschen, die diese lösen können oder entsprechende Kontakte herstellen können.
 
