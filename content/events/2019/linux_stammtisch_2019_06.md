@@ -3,7 +3,7 @@ title: "Linux-Stammtisch Juni"
 date: "2019-06-21"
 ical: 'linux-stammtisch'
 location: "Salü, Schwarze Straße 7, 02826 Görlitz"
-startTime: "19:00"
+startTime: "19:30"
 endTime: "21:30"
 ---
 
@@ -15,3 +15,6 @@ Dieses Mal sind wir zu Gast im Salü, Schwarze Straße 7, 02826 Görlitz.
 Wenn ihr dabei sein mögt, tragt euch bitte in unser Doodle ein, damit wir ausreichend Plätze reservieren können.
 
 https://doodle.com/poll/xs5ex8x3fc3uaz6a
+
+Update vom 20.06.2019: 
+Wir starten dieses Mal erst 19:30 Uhr.
