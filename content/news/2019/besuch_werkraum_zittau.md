@@ -16,7 +16,7 @@ In einem anderen Raum befindet sich eine Holzwerkstatt und einige Treppen weiter
 Uns hat vor allem beeindruckt, wie sehr doch das Haus einen gewissen Gründergeist versprüht und
 voller Möglichkeiten zu stecken scheint.   
 
-Das Konzept eines "Wächerhauses" sieht vor, dass ein gemeinnütziger Träger ein ungenutztes Haus von der Stadt 
+Das Konzept eines "Wächterhauses" sieht vor, dass ein gemeinnütziger Träger ein ungenutztes Haus von der Stadt 
 zur Verfügung gestellt bekommt, zum einen um das Haus vor einem drohendem Verfall zu bewahren, vor allem aber auch,
 um es für sinnvolle Zwecke für die Allgemeinheit nutzbar zu machen. 
 Genau dieser Zweck wird durch den Freiraum Zittau e.V. umgesetzt.
