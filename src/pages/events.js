@@ -18,7 +18,7 @@ const DefaultEvent = ({ event }) => {
   const {
     html,
     fields: { slug },
-    frontmatter: { title, date, location, startTime },
+    frontmatter: { title, location, startTime },
   } = event
 
   return (
