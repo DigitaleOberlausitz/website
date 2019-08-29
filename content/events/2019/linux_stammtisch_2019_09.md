@@ -1,6 +1,6 @@
 ---
 title: "Linux-Stammtisch September"
-date: "2019-08-13"
+date: "2019-09-13"
 ical: 'linux-stammtisch'
 location: "Restaurant Schwibbogen, Obermarkt 34, 02826 Görlitz"
 startTime: "19:00"
