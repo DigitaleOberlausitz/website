@@ -82,4 +82,4 @@ die ähnliche Dinge machen, entstehen Synergien. Dies ist die Idee eines Hackers
 
 ### Tätigkeitsberichte
 
-* [2018](../../images/taetigkeitsbericht_2018.pdf)
+* [2018](/static/taetigkeitsberichte/taetigkeitsbericht_2018.pdf)
