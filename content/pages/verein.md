@@ -79,3 +79,7 @@ die ähnliche Dinge machen, entstehen Synergien. Dies ist die Idee eines Hackers
 * [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](https://cloud.digitale-oberlausitz.eu/index.php/s/gALgbEUmIlkZFnf)
 * [Formular: Datenschutz Einwilligung + Widerrufserklärung](https://cloud.digitale-oberlausitz.eu/index.php/s/jwXXpHFq0K51Qvg)
 * [Formular: SEPA-Lastschrift Mandat](https://cloud.digitale-oberlausitz.eu/index.php/s/fLil1g6EUbsfxcj)
+
+### Tätigkeitsberichte
+
+* [2018](../../images/taetigkeitsbericht_2018.pdf)
