@@ -80,6 +80,6 @@ die ähnliche Dinge machen, entstehen Synergien. Dies ist die Idee eines Hackers
 * [Formular: Datenschutz Einwilligung + Widerrufserklärung](https://cloud.digitale-oberlausitz.eu/index.php/s/jwXXpHFq0K51Qvg)
 * [Formular: SEPA-Lastschrift Mandat](https://cloud.digitale-oberlausitz.eu/index.php/s/fLil1g6EUbsfxcj)
 
-### Tätigkeitsberichte
+## Tätigkeitsberichte
 
-* [2018](/static/taetigkeitsberichte/taetigkeitsbericht_2018.pdf)
+* [2018](/taetigkeitsberichte/taetigkeitsbericht_2018.pdf)
