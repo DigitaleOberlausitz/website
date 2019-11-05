@@ -1,5 +1,5 @@
 ---
-title: "Linux-Stammtisch Oktober"
+title: "Linux-Stammtisch November"
 date: "2019-11-08"
 ical: 'linux-stammtisch'
 location: "Salü, Schwarze Straße 7, 02826 Görlitz"
