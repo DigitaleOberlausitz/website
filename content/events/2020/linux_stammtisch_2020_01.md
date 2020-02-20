@@ -2,7 +2,7 @@
 title: "Linux-Stammtisch Januar 2020"
 date: "2020-01-10"
 ical: 'linux-stammtisch'
-location: "Wirtshaus "Zur Altstadt", Elisabethstraße 16, 02826 Görlitz"
+location: "Wirtshaus „Zur Altstadt“, Elisabethstraße 16, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"
 ---
