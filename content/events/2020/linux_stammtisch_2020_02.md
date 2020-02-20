@@ -2,7 +2,7 @@
 title: "Linux-Stammtisch Februar 2020"
 date: "2020-02-21"
 ical: 'linux-stammtisch'
-location: "Ristorante Da Vinci", Demianiplatz 54, 02826 Görlitz"
+location: "Ristorante „Da Vinci“, Demianiplatz 54, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"
 ---
