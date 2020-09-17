@@ -7,7 +7,7 @@ title: "Datenschutz"
 </p><p>Unser Verein verarbeitet Personenbezogene Daten insbesondere zum Zwecke der Kommunikation. Es ist nicht vorgesehen, die personenbezogenen Daten ohne Deine Einwilligung an Dritte weiter zu geben. Der Verein ist jedoch gezwungen, personenbezogene Daten weiterzugeben, wenn dies durch Rechtsvorschriften ausdrücklich verlangt wird, bzw. dies durch ein öffentliches Gericht angeordnet wird.
 </p>
 <h3 id="Name_und_Anschrift_des_Verantwortlichen">Name und Anschrift des Verantwortlichen</h3>
-<p>Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze sowie sonstiger datenschutzrechtlicher Bestimmungen ist der:
+<p>Verantwortlich im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze sowie sonstiger datenschutzrechtlicher Bestimmungen ist der:
 </p><p>Digitale Oberlausitz e.V. <br />
 Manuel Mauky<br />
 Demianiplatz 34<br />
@@ -34,14 +34,14 @@ Website: www.digitale-oberlausitz.eu<br />
 <li> um Ansprüche, die der Verein gegenüber Deiner Person hat, durchzusetzen (siehe <a rel="nofollow" class="external text" href="https://www.gesetze-im-internet.de/bgb/__31b.html">§ 31b BGB, Haftung von Vereinsmitgliedern</a>),</li>
 <li> zum Eintragen in das Vereinsregister (<a rel="nofollow" class="external text" href="https://www.gesetze-im-internet.de/bgb/__64.html">§ 64 Inhalt der Vereinsregistereintragung</a>), solltest Du Verantwortung im Vorstand übernehmen.</li></ul>
 <h3>E-Mail Adresse</h3>
-<p>Für den schnellen und unkomplizierten Austausch von Informationen innerhalb der Vereinsmitglieder bevorzugen wir E-Mail. Du kannst uns Deine E-Mail Adresse mitteilen. Darüber erhältst Du Einladungen zu unseren Treffen.
+<p>Für den schnellen und unkomplizierten Austausch von Informationen der Vereinsmitglieder untereinander bevorzugen wir E-Mail. Du kannst uns Deine E-Mail Adresse mitteilen. Darüber erhältst Du Einladungen zu unseren Treffen.
 </p><p>Möchtest Du uns Deine E-Mail Adresse nicht mitteilen, erhältst Du per Post Einladungen zu unseren Mitgliederversammlungen. An unserem Vereinsleben kannst Du selbstverständlich teilhaben, musst Dich dann aber über unsere öffentlichen Quellen informieren oder direkt mit anderen Mitgliedern kommunizieren.
 </p>
 <h4>Webservices</h4>
 <p>Wenn Du an unseren internen Diensten, wie z.B. Wiki, Forum, Cloud teilnimmst, wird Deine E-Mail Adresse hinterlegt, um Dich bei administrativen Vorgängen, wie etwa das zurücksetzen Deines Passwortes, zu informieren. Auch kannst Du Dich bei den Diensten für verschiedene Ereignisse registrieren. Dann erhältst Du eine E-Mail, sobald dieses Ereignis eingetreten ist.
 </p>
 <h4>E-Mail Verteiler</h4>
-<p>Außerdem können wir Dich zu unserem E-Mail Verteiler hinzufügen. Schreibt ein Vereinsmitglied an diesen Verteiler eine E-Mail, so wird diese Nachricht an alle Teilnehmer versendet. Diese Möglichkeit kannst Du jederzeit wieder abbestellen.
+<p>Außerdem können wir Dich zu unserem E-Mail Verteiler hinzufügen. Schreibt ein Vereinsmitglied an diesen Verteiler eine E-Mail, so wird diese Nachricht an alle Teilnehmenden versendet. Diese Möglichkeit kannst Du jederzeit wieder abbestellen.
 </p>
 <h3>Bankverbindung</h3>
 <p>In unserer <a href="/beitragsordnung#Zahlungsweise" title="Beitragsordnung">Beitragsordnung</a> wird der Bankeinzug als Zahlungsweise bevorzugt. Möchtest Du den Mitgliedsbeitrag per Bankeinzug von Deinem Konto abgebucht bekommen, so müssen wir neben Deinem Namen auch die Daten zu Deiner Bankverbindung verarbeiten. Du kannst den Mitgliedsbeitrag jedoch auch ohne Angabe Deiner Bankverbindung an uns überweisen oder bar bezahlen. Bei allen Zahlungen werden wir jedoch Deinen Namen speichern, um den Zahlungseingang korrekt zu verbuchen.
@@ -54,7 +54,7 @@ Website: www.digitale-oberlausitz.eu<br />
 <p>Deine personenbezogenen Daten werden gelöscht oder gesperrt, sobald der oben aufgeführte Zweck der Speicherung entfällt. Die Daten können darüber hinaus gespeichert bleiben, wenn dies durch Gesetze vorgeschrieben ist. Deine Daten werden spätestens dann gelöscht, wenn auch eine  gesetzlich vorgeschriebene Speicherfrist abläuft.
 </p>
 <h3>Deine Rechte</h3>
-<p>Werden personenbezogene Daten von Dir verarbeitet, bist Du Betroffener im Sinne der DSGVO und es stehen Dir folgende Rechte gegenüber dem <a href="#Name_und_Anschrift_des_Verantwortlichen">Verantwortlichen</a> zu:
+<p>Werden personenbezogene Daten von Dir verarbeitet, bist Du Betroffene\*r im Sinne der DSGVO und es stehen Dir folgende Rechte gegenüber dem <a href="#Name_und_Anschrift_des_Verantwortlichen">Verantwortlichen</a> zu:
 </p>
 <h4>1.Auskunftsrecht</h4>
 <p>Du kannst von dem Verein eine Bestätigung darüber verlangen, ob personenbezogene Daten über Dich verarbeitet werden.
@@ -62,7 +62,7 @@ Liegt eine solche Verarbeitung vor, kannst Du von dem Verein über folgende Info
 </p>
 <ol><li>	die Zwecke, zu denen die personenbezogenen Daten verarbeitet werden;</li>
 <li>	die Kategorien von personenbezogenen Daten, welche verarbeitet werden;</li>
-<li>	die Empfänger bzw. die Kategorien von Empfängern, gegenüber denen die Dich betreffenden personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;</li>
+<li>	die Empfänger\*innen bzw. die Kategorien von Empfänger\*innen, gegenüber denen die Dich betreffenden personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;</li>
 <li>	die geplante Dauer der Speicherung der Dich betreffenden personenbezogenen Daten oder, falls konkrete Angaben hierzu nicht möglich sind, Kriterien für die Festlegung der Speicherdauer;</li>
 <li>	das Bestehen eines Rechts auf Berichtigung oder Löschung der Dich betreffenden personenbezogenen Daten, eines Rechts auf Einschränkung der Verarbeitung durch den Verein oder eines Widerspruchsrechts gegen diese Verarbeitung; </li>
 <li>	das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;</li>
@@ -91,7 +91,7 @@ Liegt eine solche Verarbeitung vor, kannst Du von dem Verein über folgende Info
 <li>	Die Löschung Deiner personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dnach den geltenden Gesetzen erforderlich.</li>
 <li>		Deine personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DSGVO erhoben.</li></ol>
 <h5>b)	Information an Dritte</h5>
-<p>Hat der Verein die Deine personenbezogenen Daten öffentlich gemacht und ist er gem. Art. 17 Abs. 1 DSGVO zu deren Löschung verpflichtet, so trifft er unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber zu informieren, dass Sie als betroffene Person von ihnen die Löschung aller Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt haben.
+<p>Hat der Verein die Deine personenbezogenen Daten öffentlich gemacht und ist er gem. Art. 17 Abs. 1 DSGVO zu deren Löschung verpflichtet, so trifft er unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber zu informieren, dass Du als betroffene Person von ihnen die Löschung aller Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt haben.
 </p>
 <h5>c)	Ausnahmen</h5>
 <p>Das Recht auf Löschung besteht nicht, soweit die Verarbeitung erforderlich ist
@@ -101,14 +101,14 @@ Liegt eine solche Verarbeitung vor, kannst Du von dem Verein über folgende Info
 <li>	aus Gründen des öffentlichen Interesses im Bereich der öffentlichen Gesundheit gemäß Art. 9 Abs. 2 lit. h und i sowie Art. 9 Abs. 3 DSGVO;</li>
 <li>	zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.</li></ol>
 <h4>5.	Recht auf Unterrichtung</h4>
-<p>Hast Du das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung gegenüber dem Verein geltend gemacht, ist dieser verpflichtet, allen Empfängern, denen die Sie betreffenden personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden.
-Ihnen steht gegenüber dem Verein das Recht zu, über diese Empfänger unterrichtet zu werden.
+<p>Hast Du das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung gegenüber dem Verein geltend gemacht, ist dieser verpflichtet, allen Empfänger\*innen, denen die Dich betreffenden personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden.
+Dir steht gegenüber dem Verein das Recht zu, über diese Empfänger\*innen unterrichtet zu werden.
 </p>
 <h4>6.	Recht auf Datenübertragbarkeit</h4>
-<p>Du hast das Recht, die Deine personenbezogenen Daten, die Du dem Verein bereitgestellt hast, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem hast Du das Recht diese Daten einem anderen Verantwortlichen ohne Behinderung durch den Verein, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern
+<p>Du hast das Recht, Deine personenbezogenen Daten, die Du dem Verein bereitgestellt hast, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem hast Du das Recht, diese Daten einer*m anderen Verantwortlichen ohne Behinderung durch den Verein, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern
 (1)	die Verarbeitung auf einer Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO oder Art. 9 Abs. 2 lit. a DSGVO oder auf einem Vertrag gem. Art. 6 Abs. 1 lit. b DSGVO beruht und
 (2)	die Verarbeitung mithilfe automatisierter Verfahren erfolgt.
-In Ausübung dieses Rechts hast Du ferner das Recht, zu erwirken, dass Deine personenbezogenen Daten direkt von einem Verantwortlichen einem anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.
+In Ausübung dieses Rechts hast Du ferner das Recht, zu erwirken, dass Deine personenbezogenen Daten direkt von einem*r Verantwortlichen einer*m anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.
 Das Recht auf Datenübertragbarkeit gilt nicht für eine Verarbeitung personenbezogener Daten, die für die Wahrnehmung einer Aufgabe erforderlich ist, die im öffentlichen Interesse liegt.
 </p>
 <h4>7.	Widerspruchsrecht</h4>
@@ -121,5 +121,5 @@ Du hast die Möglichkeit, im Zusammenhang mit der Nutzung von Diensten der Infor
 </p>
 <h4>10.	Recht auf Beschwerde bei einer Aufsichtsbehörde</h4>
 <p>Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Dir das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat Deines Aufenthaltsorts, Deines Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Du der Ansicht bist, dass die Verarbeitung der Dich betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
-Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet den Beschwerdeführer über den Stand und die Ergebnisse der Beschwerde einschließlich der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.
+Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet die*den Beschwerdeführer\*in über den Stand und die Ergebnisse der Beschwerde einschließlich der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.
 </p>
