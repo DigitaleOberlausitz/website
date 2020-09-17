@@ -105,10 +105,10 @@ Liegt eine solche Verarbeitung vor, kannst Du von dem Verein über folgende Info
 Dir steht gegenüber dem Verein das Recht zu, über diese Empfänger\*innen unterrichtet zu werden.
 </p>
 <h4>6.	Recht auf Datenübertragbarkeit</h4>
-<p>Du hast das Recht, Deine personenbezogenen Daten, die Du dem Verein bereitgestellt hast, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem hast Du das Recht, diese Daten einer*m anderen Verantwortlichen ohne Behinderung durch den Verein, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern
+<p>Du hast das Recht, Deine personenbezogenen Daten, die Du dem Verein bereitgestellt hast, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem hast Du das Recht, diese Daten einer\*m anderen Verantwortlichen ohne Behinderung durch den Verein, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern
 (1)	die Verarbeitung auf einer Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO oder Art. 9 Abs. 2 lit. a DSGVO oder auf einem Vertrag gem. Art. 6 Abs. 1 lit. b DSGVO beruht und
 (2)	die Verarbeitung mithilfe automatisierter Verfahren erfolgt.
-In Ausübung dieses Rechts hast Du ferner das Recht, zu erwirken, dass Deine personenbezogenen Daten direkt von einem*r Verantwortlichen einer*m anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.
+In Ausübung dieses Rechts hast Du ferner das Recht, zu erwirken, dass Deine personenbezogenen Daten direkt von einem\*r Verantwortlichen einer\*m anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.
 Das Recht auf Datenübertragbarkeit gilt nicht für eine Verarbeitung personenbezogener Daten, die für die Wahrnehmung einer Aufgabe erforderlich ist, die im öffentlichen Interesse liegt.
 </p>
 <h4>7.	Widerspruchsrecht</h4>
@@ -121,5 +121,5 @@ Du hast die Möglichkeit, im Zusammenhang mit der Nutzung von Diensten der Infor
 </p>
 <h4>10.	Recht auf Beschwerde bei einer Aufsichtsbehörde</h4>
 <p>Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Dir das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat Deines Aufenthaltsorts, Deines Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Du der Ansicht bist, dass die Verarbeitung der Dich betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
-Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet die*den Beschwerdeführer\*in über den Stand und die Ergebnisse der Beschwerde einschließlich der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.
+Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet die\*den Beschwerdeführer\*in über den Stand und die Ergebnisse der Beschwerde einschließlich der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.
 </p>
