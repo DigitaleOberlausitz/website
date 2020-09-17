@@ -22,7 +22,7 @@ Die beste Möglichkeit, uns zu unterstützen, ist Mitglied zu werden.
 Vereinsmitglieder gestalten die Arbeit und die Ausrichtung des Vereins aktiv mit und können sich auch mit eigenen Ideen einbringen.
 
 Gute Vereinsarbeit lebt auch von Diversität. 
-Daher sind alle willkommen, die sich mit unseren [Vereinszielen](/satzung#2), der [Präambel](/satzung#präamble) unseres Vereins sowie der [Satzung im Allgemeinen](/satzung) identifizieren könnn.
+Daher sind alle willkommen, die sich mit unseren [Vereinszielen](/satzung#2), der [Präambel](/satzung#präamble) unseres Vereins sowie der [Satzung im Allgemeinen](/satzung) identifizieren können.
 
 ### Links
 * [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](https://cloud.digitale-oberlausitz.eu/index.php/s/gALgbEUmIlkZFnf)
