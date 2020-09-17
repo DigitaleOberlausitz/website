@@ -9,8 +9,8 @@ title: "Java User Group Görlitz"
 Die Java User Group Görlitz, kurz JUG, veranstaltet seit 2011 monatliche Vorträge zu Programmierung und Software-Entwicklung.
 Zu den kostenfreien Veranstaltungen sind alle Interessierten herzlich eingeladen.
 
-In lockerer Athmosphäre lassen Vortragende die Besucherinnen und Besucher an ihrem Wissen und Erfahrungen zu einem Thema
-teilhaben. Im Anschluss an den Vortrag gibt es bei Getränken und einem kleinen Buffet die Gelegenheit, mit dem Vortragenden 
+In lockerer Athmosphäre lassen Vortragende die Besucher\*innen an ihrem Wissen und Erfahrungen zu einem Thema
+teilhaben. Im Anschluss an den Vortrag gibt es bei Getränken und einem kleinen Buffet die Gelegenheit, mit der\*m Vortragenden 
 in eine tiefere Diskussion einzusteigen.
 
 Die Vorträge finden in unterschiedlichen Locations in Görlitz statt. Lokale Software-Unternehmen und die Hochschule stellen uns dafür 
@@ -29,12 +29,9 @@ Phantasialand Brühl.
 
 ## Wie kann man sich einbringen?
 
-Wir freuen uns über jeden Besucher und jede Besucherin auf unseren Veranstaltungen. 
+Wir freuen uns jederzeit über Besuch auf unseren Veranstaltungen. 
 
 Um ein vielfältiges Vortragsangebot anbieten zu können, sind wir auf Vortragsvorschläge von möglichen Vortragenden angewiesen.
 
 Unternehmen können uns unterstützen, in dem sie ihre Räumlichkeiten zur Verfügung stellen. 
 Außerdem können Firmen uns mit Sachpreisen für Verlosungen auf den Veranstaltungen unterstützen.
-
-
- 
