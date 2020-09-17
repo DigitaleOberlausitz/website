@@ -44,7 +44,7 @@ Der Mitgliedsbeitrag wird jährlich zum 1. März (nachfolgend Fälligkeitstag) f
 Lastschrift eingezogen. Die Einwilligung zur Teilnahme am SEPA-Lastschriftverfahren ist vom eintretenden Mitglied beim
 Eintritt in den Verein zu erteilen. Mitglieder, die dieses Lastschriftverfahren ablehnen und dies gegenüber dem Vorstand
 bekunden, sind verpflichtet, den Jahresbetrag bis zum Fälligkeitstag auf das Bankkonto des Vereins zu überweisen oder
-vor dem Fälligkeitstag dem Schatzmeister bar in Euro gegen einen Zahlungsnachweis zu übergeben.
+vor dem Fälligkeitstag dem\*r Schatzmeister\*in bar in Euro gegen einen Zahlungsnachweis zu übergeben.
 
 ### Gültigkeit
 
