@@ -91,7 +91,7 @@ Liegt eine solche Verarbeitung vor, kannst Du von dem Verein über folgende Info
 <li>	Die Löschung Deiner personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dnach den geltenden Gesetzen erforderlich.</li>
 <li>		Deine personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DSGVO erhoben.</li></ol>
 <h5>b)	Information an Dritte</h5>
-<p>Hat der Verein die Deine personenbezogenen Daten öffentlich gemacht und ist er gem. Art. 17 Abs. 1 DSGVO zu deren Löschung verpflichtet, so trifft er unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber zu informieren, dass Du als betroffene Person von ihnen die Löschung aller Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt haben.
+<p>Hat der Verein Deine personenbezogenen Daten öffentlich gemacht und ist er gem. Art. 17 Abs. 1 DSGVO zu deren Löschung verpflichtet, so trifft er unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber zu informieren, dass Du als betroffene Person von ihnen die Löschung aller Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt haben.
 </p>
 <h5>c)	Ausnahmen</h5>
 <p>Das Recht auf Löschung besteht nicht, soweit die Verarbeitung erforderlich ist
