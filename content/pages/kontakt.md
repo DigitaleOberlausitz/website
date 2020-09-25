@@ -16,7 +16,7 @@ Zweiter Vorsitzender
 
 
 **Anja Schaffhirt**  
-Schatzmeister
+Schatzmeisterin
 
 
 
