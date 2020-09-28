@@ -3,7 +3,8 @@ title: "Datenschutz"
 ---
 
 <h2>Die Datenschutzerklärung</h2>
-<p>Auf dem Aufnahmeantrag und auf der zukünftigen Homepage müssen wir auf die hier folgende Datenschutzerklärung verweisen und die <a href="https://cloud.digitale-oberlausitz.eu/index.php/s/jwXXpHFq0K51Qvg" title="Einwilligungserklärung">Einwilligungserklärung</a> einholen.
+<p>Auf dem Aufnahmeantrag und auf der zukünftigen Homepage müssen wir auf die hier folgende Datenschutzerklärung verweisen und die <a href="https
+://cloud.digitale-oberlausitz.eu/index.php/s/jwXXpHFq0K51Qvg" title="Einwilligungserklärung">Einwilligungserklärung</a> einholen.
 </p><p>Unser Verein verarbeitet Personenbezogene Daten insbesondere zum Zwecke der Kommunikation. Es ist nicht vorgesehen, die personenbezogenen Daten ohne Deine Einwilligung an Dritte weiter zu geben. Der Verein ist jedoch gezwungen, personenbezogene Daten weiterzugeben, wenn dies durch Rechtsvorschriften ausdrücklich verlangt wird, bzw. dies durch ein öffentliches Gericht angeordnet wird.
 </p>
 <h3 id="Name_und_Anschrift_des_Verantwortlichen">Name und Anschrift des Verantwortlichen</h3>
@@ -54,7 +55,7 @@ Website: www.digitale-oberlausitz.eu<br />
 <p>Deine personenbezogenen Daten werden gelöscht oder gesperrt, sobald der oben aufgeführte Zweck der Speicherung entfällt. Die Daten können darüber hinaus gespeichert bleiben, wenn dies durch Gesetze vorgeschrieben ist. Deine Daten werden spätestens dann gelöscht, wenn auch eine  gesetzlich vorgeschriebene Speicherfrist abläuft.
 </p>
 <h3>Deine Rechte</h3>
-<p>Werden personenbezogene Daten von Dir verarbeitet, bist Du Betroffene\*r im Sinne der DSGVO und es stehen Dir folgende Rechte gegenüber dem <a href="#Name_und_Anschrift_des_Verantwortlichen">Verantwortlichen</a> zu:
+<p>Werden personenbezogene Daten von Dir verarbeitet, bist Du Betroffene&#42;r im Sinne der DSGVO und es stehen Dir folgende Rechte gegenüber dem <a href="#Name_und_Anschrift_des_Verantwortlichen">Verantwortlichen</a> zu:
 </p>
 <h4>1.Auskunftsrecht</h4>
 <p>Du kannst von dem Verein eine Bestätigung darüber verlangen, ob personenbezogene Daten über Dich verarbeitet werden.
@@ -62,7 +63,7 @@ Liegt eine solche Verarbeitung vor, kannst Du von dem Verein über folgende Info
 </p>
 <ol><li>	die Zwecke, zu denen die personenbezogenen Daten verarbeitet werden;</li>
 <li>	die Kategorien von personenbezogenen Daten, welche verarbeitet werden;</li>
-<li>	die Empfänger\*innen bzw. die Kategorien von Empfänger\*innen, gegenüber denen die Dich betreffenden personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;</li>
+<li>	die Empfänger&#42;innen bzw. die Kategorien von Empfänger&#42;innen, gegenüber denen die Dich betreffenden personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;</li>
 <li>	die geplante Dauer der Speicherung der Dich betreffenden personenbezogenen Daten oder, falls konkrete Angaben hierzu nicht möglich sind, Kriterien für die Festlegung der Speicherdauer;</li>
 <li>	das Bestehen eines Rechts auf Berichtigung oder Löschung der Dich betreffenden personenbezogenen Daten, eines Rechts auf Einschränkung der Verarbeitung durch den Verein oder eines Widerspruchsrechts gegen diese Verarbeitung; </li>
 <li>	das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;</li>
@@ -101,14 +102,14 @@ Liegt eine solche Verarbeitung vor, kannst Du von dem Verein über folgende Info
 <li>	aus Gründen des öffentlichen Interesses im Bereich der öffentlichen Gesundheit gemäß Art. 9 Abs. 2 lit. h und i sowie Art. 9 Abs. 3 DSGVO;</li>
 <li>	zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.</li></ol>
 <h4>5.	Recht auf Unterrichtung</h4>
-<p>Hast Du das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung gegenüber dem Verein geltend gemacht, ist dieser verpflichtet, allen Empfänger\*innen, denen die Dich betreffenden personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden.
-Dir steht gegenüber dem Verein das Recht zu, über diese Empfänger\*innen unterrichtet zu werden.
+<p>Hast Du das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung gegenüber dem Verein geltend gemacht, ist dieser verpflichtet, allen Empfänger&#42;innen, denen die Dich betreffenden personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden.
+Dir steht gegenüber dem Verein das Recht zu, über diese Empfänger&#42;innen unterrichtet zu werden.
 </p>
 <h4>6.	Recht auf Datenübertragbarkeit</h4>
-<p>Du hast das Recht, Deine personenbezogenen Daten, die Du dem Verein bereitgestellt hast, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem hast Du das Recht, diese Daten einer\*m anderen Verantwortlichen ohne Behinderung durch den Verein, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern
+<p>Du hast das Recht, Deine personenbezogenen Daten, die Du dem Verein bereitgestellt hast, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem hast Du das Recht, diese Daten einer&#42;m anderen Verantwortlichen ohne Behinderung durch den Verein, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern
 (1)	die Verarbeitung auf einer Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO oder Art. 9 Abs. 2 lit. a DSGVO oder auf einem Vertrag gem. Art. 6 Abs. 1 lit. b DSGVO beruht und
 (2)	die Verarbeitung mithilfe automatisierter Verfahren erfolgt.
-In Ausübung dieses Rechts hast Du ferner das Recht, zu erwirken, dass Deine personenbezogenen Daten direkt von einem\*r Verantwortlichen einer\*m anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.
+In Ausübung dieses Rechts hast Du ferner das Recht, zu erwirken, dass Deine personenbezogenen Daten direkt von einem&#42;r Verantwortlichen einer&#42;m anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.
 Das Recht auf Datenübertragbarkeit gilt nicht für eine Verarbeitung personenbezogener Daten, die für die Wahrnehmung einer Aufgabe erforderlich ist, die im öffentlichen Interesse liegt.
 </p>
 <h4>7.	Widerspruchsrecht</h4>
@@ -121,5 +122,5 @@ Du hast die Möglichkeit, im Zusammenhang mit der Nutzung von Diensten der Infor
 </p>
 <h4>10.	Recht auf Beschwerde bei einer Aufsichtsbehörde</h4>
 <p>Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Dir das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat Deines Aufenthaltsorts, Deines Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Du der Ansicht bist, dass die Verarbeitung der Dich betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
-Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet die\*den Beschwerdeführer\*in über den Stand und die Ergebnisse der Beschwerde einschließlich der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.
+Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet die&#42;den Beschwerdeführer&#42;in über den Stand und die Ergebnisse der Beschwerde einschließlich der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.
 </p>
