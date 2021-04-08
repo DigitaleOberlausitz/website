@@ -1,6 +1,6 @@
 ---
-title: "Virtueller Stammtisch (Chaostreff) Februar 2021"
-date: "2021-02-05"
+title: "Virtueller Stammtisch (Chaostreff) April 2021"
+date: "2021-04-09"
 ical: 'linux-stammtisch'
 location: "https://meet.digitale-oberlausitz.eu/chaostreff"
 startTime: "19:00"
