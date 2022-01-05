@@ -1,5 +1,5 @@
 ---
-title: "Virtueller Stammtisch (Chaostreff) September 2021"
+title: "Chaostreff September 2021"
 date: "2021-09-10"
 ical: 'linux-stammtisch'
 location: "Obermühle, An der Obermühle 5, 02826 Görlitz"
