@@ -1,5 +1,5 @@
 ---
-title: "Virtueller Stammtisch (Chaostreff) August 2021"
+title: "Chaostreff August 2021"
 date: "2021-08-06"
 ical: 'linux-stammtisch'
 location: "Krishna, Dr.-Friedrichs-Str. 3, 02826 Görlitz"

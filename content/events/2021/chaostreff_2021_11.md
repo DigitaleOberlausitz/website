@@ -1,5 +1,5 @@
 ---
-title: "Virtueller Stammtisch (Chaostreff) November 2021"
+title: "Chaostreff November 2021"
 date: "2021-11-05"
 ical: 'linux-stammtisch'
 location: "China-Thai-Restaurant, Promenadenstraße 99, 02728 Görlitz"

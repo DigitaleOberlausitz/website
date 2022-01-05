@@ -1,5 +1,5 @@
 ---
-title: "Virtueller Stammtisch (Chaostreff) Juli 2021"
+title: "Chaostreff Juli 2021"
 date: "2021-07-09"
 ical: 'linux-stammtisch'
 location: "Casa Nova, Untermarkt, 02826 Görlitz"
