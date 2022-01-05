@@ -7,7 +7,7 @@ startTime: "19:00"
 endTime: "21:30"
 ---
 
-Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - Start ist wie immer 19 uhr. 
+Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - Start ist wie immer 19 Uhr. 
 
 Ort: Casa Nova, Untermarkt, 02826 Görlitz
 

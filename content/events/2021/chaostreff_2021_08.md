@@ -7,7 +7,7 @@ startTime: "19:30"
 endTime: "21:30"
 ---
 
-Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - Start ist  dieses Mal 19:30 uhr. 
+Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - Start ist  dieses Mal 19:30 Uhr. 
 
 Ort: Krishna, Dr.-Friedrichs-Str. 3, 02826 Görlitz
 

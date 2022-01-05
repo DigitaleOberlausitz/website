@@ -7,7 +7,7 @@ startTime: "19:00"
 endTime: "21:30"
 ---
 
-Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - Start ist wie immer 19:00 uhr. 
+Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - Start ist wie immer 19:00 Uhr. 
 
 Ort: Xin Chao, Hildegard-Burjan-Platz 1, 02826 Görlitz
 

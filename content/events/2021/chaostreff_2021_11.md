@@ -7,7 +7,7 @@ startTime: "19:00"
 endTime: "21:30"
 ---
 
-Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - Start ist wie immer 19:00 uhr. 
+Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - Start ist wie immer 19:00 Uhr. 
 
 Ort: China-Thai-Restaurant, Promenadenstraße 99, 02728 Görlitz
 
