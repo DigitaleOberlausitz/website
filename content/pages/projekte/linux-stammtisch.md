@@ -12,7 +12,7 @@ Der Begriff "Linux" im Namen hat dabei eher historische Gründe. Tatsächlich si
 ob sie Linux nutzen oder nicht. Auch drehen sich die Gesprächsthemen in der Regel um alle möglichen Nerd- und Technik-Themen,
 die Wahrscheinlichkeit ist aber auch hoch, zu Spezialfragen den\*die richtigen Ansprechpartner\*in zu finden.
 
-Die Treffen finden in der Regel jeden 2. Freitag im Monat statt. 
+Die Treffen finden in der Regel jeden 1. Freitag im Monat statt. 
 Wir treffen uns dazu stets in einer anderen Gaststätte in Görlitz oder Zgorzelec.
 
 Zu den Stammtischen sind generell alle Besucher\*innen herzlich eingeladen. 
