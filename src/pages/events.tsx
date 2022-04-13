@@ -2,8 +2,7 @@ import React from "react"
 
 import * as R from "ramda"
 import { graphql, Link } from "gatsby"
-
-import moment from "moment"
+import { DateTime } from "luxon"
 
 import Layout from "../components/layout"
 import { Col, Container, Row } from "reactstrap"
@@ -12,7 +11,7 @@ import { Col, Container, Row } from "reactstrap"
  * This date is used to limit JUG talks. Only those talks which are after this date are used
  * in the website.
  */
-const JUG_EVENT_LIMIT = moment("2018-01-01")
+const JUG_EVENT_LIMIT = DateTime.fromISO("2018-01-01")
 
 const DefaultEvent = ({ event }) => {
   const {
@@ -67,8 +66,8 @@ const JugEvent = ({ event }) => {
 export default ({ data }) => {
   const events = data.events
     ? data.events.edges
-        .map(edge => edge.node)
-        .map(node => ({
+        .map((edge) => edge.node)
+        .map((node) => ({
           date: node.frontmatter.date,
           type: "defaultEvent",
           node: node,
@@ -77,22 +76,22 @@ export default ({ data }) => {
 
   const jugEvents = data.jugEvents
     ? data.jugEvents.edges
-        .map(edge => edge.node)
-        .map(node => {
+        .map((edge) => edge.node)
+        .map((node) => {
           return {
             date: node.date,
             type: "jugEvent",
             node: node,
           }
         })
-        .filter(node => {
-          const nodeDate = moment(node.date)
+        .filter((node) => {
+          const nodeDate = DateTime.fromISO(node.date)
 
-          return nodeDate.isAfter(JUG_EVENT_LIMIT)
+          return nodeDate > JUG_EVENT_LIMIT
         })
     : []
 
-  const allEvents = R.reverse(R.sortBy(eventNode => eventNode.date)([...events, ...jugEvents]))
+  const allEvents = R.reverse(R.sortBy((eventNode) => eventNode.date)([...events, ...jugEvents]))
 
   return (
     <Layout>
@@ -134,14 +133,14 @@ const ListEntry = ({ children, icon, date }) => (
       >
         {icon && (
           <div>
-            <img style={{ maxWidth: "6rem" }} alt="logo" src={require(`../../content/images/${icon}`)} />
+            <img style={{ maxWidth: "6rem" }} alt="logo" src={require(`../../content/images/${icon}`)?.default} />
           </div>
         )}
 
         {date && (
           <div>
             <strong>
-              <time dateTime={date}>{moment(date).format("YYYY-MM-DD")}</time>
+              <time dateTime={date}>{DateTime.fromISO(date).toFormat("yyy-MM-dd")}</time>
             </strong>
           </div>
         )}

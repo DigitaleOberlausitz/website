@@ -1,5 +1,5 @@
-const { createDate } = require("./create-ical")
-const moment = require("moment")
+import { createDate } from "./create-ical"
+import { DateTime } from "luxon"
 
 describe("Create ICAL", () => {
   describe("createDate", () => {
@@ -9,9 +9,9 @@ describe("Create ICAL", () => {
 
       const date = createDate(dateString, timeString)
 
-      const momentDate = moment(date)
+      const luxonDate = DateTime.fromJSDate(date)
 
-      expect(momentDate.format("YYYY-MM-DD HH:mm:ss")).toBe("2019-03-01 19:23:00")
+      expect(luxonDate.toFormat("yyyy-MM-dd HH:mm:ss")).toBe("2019-03-01 19:23:00")
     })
   })
 })

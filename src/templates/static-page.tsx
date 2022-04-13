@@ -9,18 +9,14 @@ import Layout from "../components/layout"
 export default ({ data }) => {
   const { htmlAst } = data.markdownRemark
 
-  return (
-    <Layout>
-      {renderAst(htmlAst)}
-    </Layout>
-  )
+  return <Layout>{renderAst(htmlAst)}</Layout>
 }
 
 export const query = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
-        htmlAst
+      htmlAst
       frontmatter {
         title
         date

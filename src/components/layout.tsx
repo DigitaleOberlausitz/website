@@ -1,5 +1,4 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React, { FC } from "react"
 import Helmet from "react-helmet"
 import { StaticQuery, graphql } from "gatsby"
 
@@ -10,7 +9,7 @@ import PageFooter from "./page-footer"
 
 import "../style/style.css"
 
-const Layout = ({ children, data }) => {
+const Layout: FC = ({ children }) => {
   return (
     <StaticQuery
       query={graphql`
@@ -23,7 +22,7 @@ const Layout = ({ children, data }) => {
           }
         }
       `}
-      render={data => (
+      render={(data) => (
         <>
           <Helmet
             title={data.site.siteMetadata.title}
@@ -41,16 +40,12 @@ const Layout = ({ children, data }) => {
           <div className="container main-content">{children}</div>
 
           <div className="container">
-            <PageFooter/>
+            <PageFooter />
           </div>
         </>
       )}
     />
   )
-}
-
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
 }
 
 export default Layout

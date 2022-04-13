@@ -1,5 +1,5 @@
-import React from "react"
-import { Link } from "gatsby"
+import React, { FC } from "react"
+import { Link, PageProps } from "gatsby"
 import { Pagination, PaginationItem, PaginationLink } from "reactstrap"
 import Layout from "../components/layout"
 
@@ -10,7 +10,27 @@ import * as R from "ramda"
 
 import extractExcerpt from "../utils/extract-excerpt"
 
-const PaginatedNewsList = ({ data, pageContext }) => {
+type Edge = {
+  node: {
+    id: string
+    frontmatter: {
+      title: string
+      date: string
+    }
+    fields: {
+      slug: string
+    }
+    html: string
+  }
+}
+
+type PageContext = {
+  group: Array<Edge>
+  index: number
+  pageCount: number
+}
+
+const PaginatedNewsList: FC<PageProps<object, PageContext>> = ({ data, pageContext }) => {
   const { group, index, pageCount } = pageContext
 
   return (
@@ -63,7 +83,7 @@ const generatePaginationItems = ({ pageCount, index }) => {
   // when on last page there is no next
   const nextUrl = last ? undefined : "/page/" + (index + 1)
 
-  const tagFunction = props => {
+  const tagFunction = (props) => {
     if (props.to) {
       return <Link {...props} />
     } else {
@@ -71,7 +91,7 @@ const generatePaginationItems = ({ pageCount, index }) => {
     }
   }
 
-  const paginationItems = R.range(1, pageCount + 1).map(i => {
+  const paginationItems = R.range(1, pageCount + 1).map((i) => {
     return (
       <PaginationItem key={i} disabled={i === index}>
         <PaginationLink aria-label={`navigate to page ${i}`} tag={tagFunction} to={i === 1 ? "/" : "/page/" + i}>

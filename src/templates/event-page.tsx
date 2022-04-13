@@ -36,7 +36,11 @@ export default ({ data }) => {
             <Row>
               <Col md={2}>
                 <div style={{ height: "100%", display: "flex", alignItems: "center", justifyContent: "center" }}>
-                  <img style={{ marginBottom: "0" }} alt="logo" src={require(`../../content/images/${icon}`)} />
+                  <img
+                    style={{ marginBottom: "0" }}
+                    alt="logo"
+                    src={require(`../../content/images/${icon}`)?.default}
+                  />
                 </div>
               </Col>
               <Col>{header}</Col>
@@ -53,7 +57,7 @@ export default ({ data }) => {
 }
 
 export const query = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {

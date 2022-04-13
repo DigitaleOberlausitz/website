@@ -1,4 +1,7 @@
-module.exports = {
+import type { GatsbyConfig } from "gatsby"
+import path from "path"
+
+const config: GatsbyConfig = {
   siteMetadata: {
     title: "Digitale Oberlausitz e. V.",
     description: "Website des Vereins Digitale Oberlausitz e. V.",
@@ -10,28 +13,28 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "news",
-        path: `${__dirname}/content/news`,
+        path: path.resolve("content/news"),
       },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "events",
-        path: `${__dirname}/content/events`,
+        path: path.resolve("content/events"),
       },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "pages",
-        path: `${__dirname}/content/pages`,
+        path: path.resolve("content/pages"),
       },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "images",
-        path: `${__dirname}/content/images`,
+        path: path.resolve("content/images"),
       },
     },
     {
@@ -47,7 +50,6 @@ module.exports = {
         ],
       },
     },
-    "gatsby-remark-source-name",
     "gatsby-plugin-catch-links",
     {
       resolve: "gatsby-source-atom",
@@ -56,12 +58,22 @@ module.exports = {
       },
     },
     "gatsby-transformer-sharp",
-    "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-plugin-sharp",
+      options: {
+        defaults: {
+          formats: ["webp", "auto"],
+          quality: 90,
+        },
+      },
+    },
     {
       resolve: "gatsby-plugin-typography",
       options: {
-        pathToConfigModule: "src/utils/typography.js",
+        pathToConfigModule: "src/utils/typography.ts",
       },
     },
   ],
 }
+
+export default config
