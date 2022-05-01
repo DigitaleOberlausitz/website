@@ -1,15 +1,14 @@
 ---
-title: Linux-Stammtisch
+title: Chaostreff
 ---
 
-# Linux-Stammtisch Görlitz
+# Chaostreff Görlitz
 
-Der Linux-Stammtisch ist regelmäßig stattfindender Stammtisch-Abend, zu dem sich Technik- und Informatik-Interessierte
+Der Chaostreff, hervorgegangen aus dem Linux-Stammtisch, ist regelmäßig stattfindender Stammtisch-Abend, zu dem sich Technik- und Informatik-Interessierte
 in lockerer Runde in einem Lokal in Görlitz zusammenfinden. 
 Dabei wird zu Getränken und Essen in entspannter Atmosphäre zu allem möglichen Themen diskutiert und gesprochen.
 
-Der Begriff "Linux" im Namen hat dabei eher historische Gründe. Tatsächlich sind alle eingeladen, egal 
-ob sie Linux nutzen oder nicht. Auch drehen sich die Gesprächsthemen in der Regel um alle möglichen Nerd- und Technik-Themen,
+Der Begriff "Chaostreff" ist dabei an das Konzept der Chaostreffs des Chaos Computer Clubs angelehnt. Alle sind eingeladen, sich zum Stammtisch dazu zu gesellen. Die Gesprächsthemen drehen sich in der Regel um alle möglichen Nerd- und Technik-Themen,
 die Wahrscheinlichkeit ist aber auch hoch, zu Spezialfragen den\*die richtigen Ansprechpartner\*in zu finden.
 
 Die Treffen finden in der Regel jeden 1. Freitag im Monat statt. 
