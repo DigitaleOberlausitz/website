@@ -31,7 +31,7 @@ bei denen Vorträge von Expert\*innen zu spezifischen Themen der Informatik und 
 Bei Nachfolgendem Buffet wird der Austausch zwischen Zuhörenden und Vortragenden ermöglicht. 
 Dies ist die Chance, Kontakte zu knüpfen und den eigenen Kenntnisstand zu bestimmten Themen zu erweitern.
 
-* Hilfestellung bei technischen Fragen: Bei unseren aktuellen Formaten, wie dem "Linux-Stammtisch", 
+* Hilfestellung bei technischen Fragen: Bei unseren aktuellen Formaten, wie dem "Chaostreff", 
 der "Java User Group Görlitz" oder anderen Einzelveranstaltungen, 
 z. B. bei den Treffen der "Linux User Group Görlitz" (organisiert durch die Rabryka), 
 sind wir immer wieder präsent. Bei solchen Treffen begegnen sich regelmäßig Menschen 

@@ -16,7 +16,7 @@ rund um Programmierung und Software-Entwicklung.
 
 ---
 
-**[Linux-Stammtisch](/projekte/linux-stammtisch)**. Der Linux-Stammtisch ist ein regelmäßig stattfindender Stammtisch, bei
+**[Chaostreff](/projekte/chaostreff)**. Der Chaostreff, hervorgegangen aus dem Linux-Stammtisch, ist ein regelmäßig stattfindender Stammtisch, bei
 dem sich Technik- und Informatik-Interessierte in wechselnden Gaststätten in Görlitz zum lockeren Austausch
 und geselligem Beisammensein treffen. Dazu sind aber nicht nur Linux-Benutzer\*innen sondern auch alle anderen herzlich
 eingeladen.
