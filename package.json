@@ -43,7 +43,7 @@
     "react-typography": "^0.16.20",
     "reactstrap": "^8.10.1",
     "rehype-react": "^7.0.4",
-    "sharp": "^0.30.3",
+    "sharp": "^0.30.5",
     "typography": "^0.16.21",
     "typography-theme-bootstrap": "^0.16.19",
     "unified": "^10.1.2"
