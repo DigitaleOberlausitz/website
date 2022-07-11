@@ -1,7 +1,6 @@
-import type { GatsbyConfig } from "gatsby"
-import path from "path"
+const path = require("path");
 
-const config: GatsbyConfig = {
+const config = {
   siteMetadata: {
     title: "Digitale Oberlausitz e. V.",
     description: "Website des Vereins Digitale Oberlausitz e. V.",
@@ -76,4 +75,4 @@ const config: GatsbyConfig = {
   ],
 }
 
-export default config
+module.exports = config;
