@@ -140,7 +140,7 @@ const ListEntry = ({ children, icon, date }) => (
         {date && (
           <div>
             <strong>
-              <time dateTime={date}>{DateTime.fromISO(date).toFormat("yyy-MM-dd")}</time>
+              <time dateTime={date}>{DateTime.fromISO(date).toFormat("yyyy-MM-dd")}</time>
             </strong>
           </div>
         )}
