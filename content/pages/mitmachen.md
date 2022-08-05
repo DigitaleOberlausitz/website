@@ -50,3 +50,7 @@ auch andere Gegenden und Orte mit einbeziehen. Dafür brauchen wir Ansprechpartn
 
 Wenn du also irgendwo anders in der Oberlausitz wohnst und gerne bei dir im Ort eine Veranstaltung mit uns zusammen organisieren möchtest,
 dann melde dich gerne bei uns.
+
+# Spenden
+
+Wer unsere Vereinsarbeit ohne weitere Verpflichtungen finanziell unterstützen möchte, kann einmalig oder regelmäßig [spenden](/kontakt). Da wir als gemeinnützig anerkannt sind, lassen sich Spenden steuerlich absetzen.
