@@ -22,7 +22,7 @@ Schatzmeisterin
 
 ## E-Mail
 
-<obfuscate email="vorstand@digitale-oberlausitz.eu"/>
+<obfuscate email="vorstand@digitale-oberlausitz.eu"></obfuscate>
 
 
 ## Persönlich bei lokalen Veranstaltungen
