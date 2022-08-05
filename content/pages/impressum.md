@@ -13,6 +13,17 @@ Manuel Mauky
 Demianiplatz 34  
 02826 Görlitz  
 
+# Vorstand
+
+**Manuel Mauky**  
+Vorsitzender
+
+**Matthias Längrich**  
+Zweiter Vorsitzender
+
+**Anja Schaffhirt**  
+Schatzmeisterin
+
 ## Kontakt:
 
 Tel.: <obfuscate tel="+49 (0) 1525 6322383"/>

@@ -6,20 +6,6 @@ title: Kontakt
 
 Wie du mit uns in Kontakt treten kannst? Hier erfährst du es!
 
-
-**Manuel Mauky**  
-Vorsitzender
-
-
-**Matthias Längrich**  
-Zweiter Vorsitzender
-
-
-**Anja Schaffhirt**  
-Schatzmeisterin
-
-
-
 ## E-Mail
 
 <obfuscate email="vorstand@digitale-oberlausitz.eu"></obfuscate>
