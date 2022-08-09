@@ -70,6 +70,7 @@ const config = {
       resolve: "gatsby-plugin-typography",
       options: {
         pathToConfigModule: "src/utils/typography.ts",
+        omitGoogleFont: true
       },
     },
   ],
