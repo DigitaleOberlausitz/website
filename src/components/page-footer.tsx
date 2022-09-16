@@ -5,7 +5,7 @@ import { Link } from "gatsby"
 const PageFooter = () => (
   <footer className="footer" style={{ marginTop: "4em" }}>
     <p>
-      {'© Digitale Oberlausitz e.V. 2018 | '}
+      {'© Digitale Oberlausitz e.V. 2022 | '}
       <Link to="/impressum">Impressum</Link>
       {' | '}
       <Link to="/datenschutz">Datenschutz</Link>

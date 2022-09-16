@@ -20,3 +20,8 @@ rund um Programmierung und Software-Entwicklung.
 dem sich Technik- und Informatik-Interessierte in wechselnden Gaststätten in Görlitz zum lockeren Austausch
 und geselligem Beisammensein treffen. Dazu sind aber nicht nur Linux-Benutzer\*innen sondern auch alle anderen herzlich
 eingeladen.
+
+---
+
+**[Hackathon](https://hackathon.digitale-oberlausitz.eu/)** 2022 organisieren wir unseren ersten Hackathon in Görlitz, der gewissermaßen der Nachfolger des
+Junction Hackathons 2021 ist, der auch in Görlitz in der Rabryka stattgefunden hat.
