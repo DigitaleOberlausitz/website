@@ -3,12 +3,14 @@ title: "Chaostreff Dezember 2022"
 date: "2022-12-02"
 ical: 'linux-stammtisch'
 location: "Ristorante DaVinci, Demianiplatz 54, 02826 Görlitz"
-startTime: "19:00"
+startTime: "19:30"
 endTime: "21:30"
 ---
 
+Update: Wir treffen uns erst 19:30 Uhr!
+
 Der nächste Chaostreff steht an! 
-Termin ist der 02.12.2022 um 19 Uhr und wir treffen uns im Ristorante DaVinci, am Demianiplatz 54 in 02826 Görlitz. 
+Termin ist der 02.12.2022 um 19:30 Uhr und wir treffen uns im Ristorante DaVinci, am Demianiplatz 54 in 02826 Görlitz. 
 
 Hier der Link zur Website des Restaurants: https://www.ristorante-davinci.com/
 
