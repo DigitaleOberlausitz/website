@@ -14,7 +14,7 @@ Demianiplatz 34
 **Manuel Mauky**  
 Vorsitzender
 
-**Matthias Längrich**  
+**Max Wielsch**  
 Zweiter Vorsitzender
 
 **Anja Schaffhirt**  
