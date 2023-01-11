@@ -30,7 +30,7 @@
     "gatsby-remark-images": "^6.11.1",
     "gatsby-source-atom": "^0.3.0",
     "gatsby-source-filesystem": "^4.11.0",
-    "gatsby-transformer-remark": "^5.11.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^4.11.0",
     "ical-generator": "^3.4.1",
     "luxon": "^2.3.1",
