@@ -11,18 +11,28 @@ Es war ein tolles Feedback, dass das Ostercamp auf soviel Interesse stößt.
 <!--more-->
 
 Programm 💣
+
 Wir werden mehrere Workshops anbieten, aus denen die Teilnehmer*innen vor Ort frei wählen können. Es werden kleine Gruppen sein und die Workshops werden von erfahrenen Designer*innen, Programmierer*innen und Künstler*innen geleitet. Es besteht die Möglichkeit an zwei Workshops teilzunehmen:
 
-💎 - Virtual Realities – Bau' dir die Welt, wie sie Dir gefällt!
-🧨 - It’s lit! - Kerzen gießen mit dem 3D Drucker
-💈 - Electric Farblabor – Farbe unter Strom
-🕶️ - Virtual Reality im Osterland — Am Computer mit der VR Brille eine Welt bauen.
-🤖 - KI Robo Challenge - wer baut den besten selbstlernenden Roboter?
-👘 - Custom Fashion - Wir entwerfen eigenen Stickmotive und gestalten unsere Kleidung.
-🚐 - Renn Drohnen - Basteln und fliegen
-💡- Design mit LED Stripes – Programmieren und Animieren von LED Streifen
-🥸 - Co-Creating with AI – Dein künstliches Ich
-✍️ - Digitales Zeichnen – Wir zeichnen Kostüme, Monster und Roboter für einen Film
+💎 Virtual Realities – Bau' dir die Welt, wie sie Dir gefällt!
+
+🧨 It’s lit! – Kerzen gießen mit dem 3D Drucker
+
+💈 Electric Farblabor – Farbe unter Strom
+
+🕶️ Virtual Reality im Osterland – Am Computer mit der VR Brille eine Welt bauen.
+
+🤖 KI Robo Challenge – wer baut den besten selbstlernenden Roboter?
+
+👘 Custom Fashion – Wir entwerfen eigenen Stickmotive und gestalten unsere Kleidung.
+
+🚐 Renn Drohnen – Basteln und fliegen
+
+💡 Design mit LED Stripes – Programmieren und Animieren von LED Streifen
+
+🥸 Co-Creating with AI – Dein künstliches Ich
+
+✍️ Digitales Zeichnen – Wir zeichnen Kostüme, Monster und Roboter für einen Film
 
 Und das FABMOBIL ist auch da!!!
 
