@@ -11,4 +11,4 @@ Da am nächsten Freitag Via Thea ist (das tolle Straßentheaterfestival in Görl
 
 Dieses Mal geht's für uns ins Salü, Schwarze Straße 7, 02826 Görlitz! 
 
-Damit ich einen Tisch mit ausreichend Plätzen reservieren kann, gebt mir doch bitte eine verbindliche Zusage in folgender Umfrage: https://nuudel.digitalcourage.de/mzkAxZGsfsM14Hg4
+Damit ich einen Tisch mit ausreichend Plätzen reservieren kann, gebt mir doch bitte eine verbindliche Zusage bis 7. Juli 2023 in folgender Umfrage: https://nuudel.digitalcourage.de/mzkAxZGsfsM14Hg4
