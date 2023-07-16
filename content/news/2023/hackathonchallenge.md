@@ -11,9 +11,9 @@ Das ist unsere diesjährige Challenge! Welche Daten könnten Rathäusern helfen,
 
 <!--more-->
 
-Dieser Hackathon steht im Zeichen der Smart City. Wir stellen Sensoren, Mikroprozessoren und Cloud-Zugänge bereit, damit die Challenge-TeilnehmerInnen direkt Daten erfassen und auswerten können. So kann die Idee gleich praktisch erprobt werden!
+Dieser Hackathon steht im Zeichen der Smart City. Wir stellen Sensoren, Mikrocontroller und Cloud-Zugänge bereit, damit die Challenge-TeilnehmerInnen direkt Daten erfassen und auswerten können. So kann die Idee gleich praktisch erprobt werden!
 
-Ausdrücklich möchten wir auch Nicht-TechnikerInnen willkommen heißen. Technologie ist das eine - gute Ideen und der Mensch im Mittelpunkt einer Stadt das Andere. Beide Welten sollen sich hier ergänzen und gemeinsam an einer Umsetzung arbeiten.
+Ausdrücklich möchten wir auch Nicht-TechnikerInnen willkommen heißen. Technologie ist das Eine - gute Ideen und der Mensch im Mittelpunkt einer Stadt das Andere. Beide Welten sollen sich hier ergänzen und gemeinsam an einer Umsetzung arbeiten.
 
 Hast du kreative Ideen, wo Daten das Leben der Menschen bewegen können? Fasziniert dich die Arbeit mit Sensoren und Mikrocontrollern?
 
