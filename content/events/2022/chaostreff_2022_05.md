@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Mai 2022"
 date: "2022-05-06"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Casa Nova, Untermarkt 11, 02826 Görlitz"
 startTime: "19:30"
 endTime: "21:30"

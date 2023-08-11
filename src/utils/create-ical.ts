@@ -25,7 +25,21 @@ type EventNode = {
   excerpt: string
 }
 
-export const createIcal = ({ graphql, icalName, icalTargetPath }) => {
+export const createIcal = ({
+  graphql,
+  icalFrontmatterName,
+  icalTargetPath,
+  icalUrl,
+  icalName,
+  icalTimezone = "Europe/Berlin",
+}: {
+  graphql: any
+  icalFrontmatterName: string
+  icalTargetPath: string
+  icalUrl: string
+  icalName: string
+  icalTimezone?: string
+}) => {
   return graphql(`
     {
       events: allMarkdownRemark(
@@ -35,7 +49,7 @@ export const createIcal = ({ graphql, icalName, icalTargetPath }) => {
                 sourceName: { eq: "events"}
             }
             frontmatter: {
-                ical: { eq: "${icalName}"}
+                ical: { eq: "${icalFrontmatterName}"}
             }
         }
   ) {
@@ -63,9 +77,9 @@ export const createIcal = ({ graphql, icalName, icalTargetPath }) => {
     const events: Array<EventNode> = result.data.events.edges.map((edge) => edge.node)
 
     const cal = ical({
-      url: "linux-stammtisch-goerlitz.digitale-oberlausitz.eu",
-      name: "Linux-Stammtisch Görlitz",
-      timezone: "Europe/Berlin",
+      url: icalUrl,
+      name: icalName,
+      timezone: icalTimezone,
     })
 
     events.forEach((event) => {

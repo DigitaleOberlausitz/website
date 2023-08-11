@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff August 2021"
 date: "2021-08-06"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Krishna, Dr.-Friedrichs-Str. 3, 02826 Görlitz"
 startTime: "19:30"
 endTime: "21:30"

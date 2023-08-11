@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff März 2023"
 date: "2023-03-10"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Restaurant Destille, Nikolaistraße 6, 02826 Görlitz"
 startTime: "19:15"
 endTime: "21:30"

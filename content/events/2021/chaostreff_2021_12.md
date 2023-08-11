@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff (Virtueller Stammtisch) Dezember 2021"
 date: "2021-12-10"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "https://meet.digitale-oberlausitz.eu/chaostreff"
 startTime: "19:00"
 endTime: "21:30"

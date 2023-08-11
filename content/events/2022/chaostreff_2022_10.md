@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Oktober 2022"
 date: "2022-10-07"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Krishna, Dr. Friedrichs-Str. 3, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

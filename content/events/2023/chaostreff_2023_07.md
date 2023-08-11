@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Juli 2023"
 date: "2023-07-14"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Salü, Schwarze Straße 7, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

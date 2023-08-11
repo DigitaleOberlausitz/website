@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff (Virtueller Stammtisch) April 2022"
 date: "2022-04-01"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "https://meet.digitale-oberlausitz.eu/chaostreff"
 startTime: "19:00"
 endTime: "21:30"

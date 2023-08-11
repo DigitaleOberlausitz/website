@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Juli 2021"
 date: "2021-07-09"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Casa Nova, Untermarkt, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

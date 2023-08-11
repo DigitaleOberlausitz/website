@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Oktober 2021"
 date: "2021-10-29"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Xin Chao, Hildegard-Burjan-Platz 1, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"
