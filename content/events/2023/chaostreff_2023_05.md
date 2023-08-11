@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Mai 2023"
 date: "2023-05-12"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Krishna, Dr.-Friedrichs-Straße 3, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

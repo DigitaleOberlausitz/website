@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff September 2021"
 date: "2021-09-10"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Obermühle, An der Obermühle 5, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Januar 2023"
 date: "2023-01-13"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Namaste India Görlitz, Dresdner Straße 4, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

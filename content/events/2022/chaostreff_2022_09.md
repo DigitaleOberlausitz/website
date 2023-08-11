@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff September 2022"
 date: "2022-09-02"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "La Galeria Italiana, Annengasse, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

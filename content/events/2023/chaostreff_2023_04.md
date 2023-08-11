@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff April 2023"
 date: "2023-04-14"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Obermühle Görlitz, An der Obermühle 5, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

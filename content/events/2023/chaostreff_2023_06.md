@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Mai 2023"
 date: "2023-06-02"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Xin Chao, Hildegard-Burjan-Platz 1, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

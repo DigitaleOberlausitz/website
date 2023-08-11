@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff Dezember 2022"
 date: "2022-12-02"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Ristorante DaVinci, Demianiplatz 54, 02826 Görlitz"
 startTime: "19:30"
 endTime: "21:30"

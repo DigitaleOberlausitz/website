@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff März 2022"
 date: "2022-03-04"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Namaste India, Dresdener Straße 4, 02826 Görlitz"
 startTime: "19:00"
 endTime: "21:30"

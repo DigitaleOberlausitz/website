@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff August 2022"
 date: "2022-08-05"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "Espresso, Daszyńskiego 10, 59-900 Zgorzelec, Polen"
 startTime: "19:00"
 endTime: "21:30"

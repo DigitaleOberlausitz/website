@@ -1,7 +1,7 @@
 ---
 title: "Chaostreff November 2021"
 date: "2021-11-05"
-ical: 'linux-stammtisch'
+ical: 'chaostreff-goerlitz'
 location: "China-Thai-Restaurant, Promenadenstraße 99, 02728 Görlitz"
 startTime: "19:00"
 endTime: "21:30"
