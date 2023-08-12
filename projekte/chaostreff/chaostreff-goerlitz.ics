@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+URL:https://digitale-oberlausitz.eu/projekte/chaostreff
+NAME:Chaostreff Görlitz
+X-WR-CALNAME:Chaostreff Görlitz
+TIMEZONE-ID:Europe/Berlin
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:166506f9-46c0-496d-a520-8c891be19527
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20230714T190000
+DTEND:20230714T213000
+SUMMARY:Chaostreff Juli 2023
+LOCATION:Salü\, Schwarze Straße 7\, 02826 Görlitz
+DESCRIPTION:Da am nächsten Freitag Via Thea ist (das tolle Straßentheate
+ rfestival in Görlitz) verschieben wir unseren Stammtisch um eine Woche na
+ ch…
+X-ALT-DESC;FMTTYPE=text/html:<p>Da am nächsten Freitag Via Thea ist (das 
+ tolle Straßentheaterfestival in Görlitz) verschieben wir unseren Stammti
+ sch um eine Woche nach hinten auf den 14. Juli 2023 um 19 Uhr!</p>\n<p>Die
+ ses Mal geht's für uns ins Salü\, Schwarze Straße 7\, 02826 Görlitz!</
+ p>\n<p>Damit ich einen Tisch mit ausreichend Plätzen reservieren kann\, g
+ ebt mir doch bitte eine verbindliche Zusage bis 7. Juli 2023 in folgender 
+ Umfrage: <a href="https://nuudel.digitalcourage.de/mzkAxZGsfsM14Hg4">https
+ ://nuudel.digitalcourage.de/mzkAxZGsfsM14Hg4</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:1d26f795-3156-4696-a5af-73a61f782991
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20230602T190000
+DTEND:20230602T213000
+SUMMARY:Chaostreff Mai 2023
+LOCATION:Xin Chao\, Hildegard-Burjan-Platz 1\, 02826 Görlitz
+DESCRIPTION:Der nächste Chaostreff ist wieder am ersten Freitag des Monat
+ s - am 2. Juni 2023\, 19 Uhr!\nWir treffen uns deises Mal im Xin Chao am
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Der nächste Chaostreff ist wieder am erst
+ en Freitag des Monats - am 2. Juni 2023\, 19 Uhr!\nWir treffen uns deises 
+ Mal im Xin Chao am Hildegard-Burjan-Platz 1 in 02826 Görlitz.</p>\n<p>Hie
+ r geht's zur Speisekarte: <a href="https://xinchaorestaurant.de/">https://
+ xinchaorestaurant.de/</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:7a2247ca-2993-4362-ae93-2e89d737cd12
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20230512T190000
+DTEND:20230512T213000
+SUMMARY:Chaostreff Mai 2023
+LOCATION:Krishna\, Dr.-Friedrichs-Straße 3\, 02826 Görlitz
+DESCRIPTION:Der Mai bereitet uns - wie auch schon die letzten beiden Monat
+ e - einen Stammtisch am 2. Freitag des Monats! Wir sehen uns also am 12. M
+ ai…
+X-ALT-DESC;FMTTYPE=text/html:<p>Der Mai bereitet uns - wie auch schon die 
+ letzten beiden Monate - einen Stammtisch am 2. Freitag des Monats! Wir seh
+ en uns also am 12. Mai 2023 um 19 Uhr im Restaurant Krishna\,  Dr.-Friedri
+ chs-Straße 3\, 02826 Görlitz.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:2338a02b-8c1c-49d0-9818-13fc17708645
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20230414T190000
+DTEND:20230414T213000
+SUMMARY:Chaostreff April 2023
+LOCATION:Obermühle Görlitz\, An der Obermühle 5\, 02826 Görlitz
+DESCRIPTION:Aufgrund der kommenden Feiertage verschieben wir den Chaostref
+ f um eine Woche auf den 14. April 2023! Wie gewohnt\, treffen wir uns 19 U
+ hr…
+X-ALT-DESC;FMTTYPE=text/html:<p>Aufgrund der kommenden Feiertage verschieb
+ en wir den Chaostreff um eine Woche auf den 14. April 2023! Wie gewohnt\, 
+ treffen wir uns 19 Uhr - dieses Mal soll es wieder einmal zur Obermühle g
+ ehen!</p>\n<p>Obermühle Görlitz\, An der Obermühle 5\, 02826 Görlitz</
+ p>\n<p><a href="https://www.obermuehle-goerlitz.de/">https://www.obermuehl
+ e-goerlitz.de/</a></p>\n<p>Du willst dabei sein? Dann trage dich bitte bis
+  zum 9. April in folgende Umfrage ein: <a href="https://nuudel.digitalcour
+ age.de/hNIsPPsXBYxD9WrM">https://nuudel.digitalcourage.de/hNIsPPsXBYxD9WrM
+ </a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:95271729-1fea-4192-ae2e-eb410647bbf3
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20230310T191500
+DTEND:20230310T213000
+SUMMARY:Chaostreff März 2023
+LOCATION:Restaurant Destille\, Nikolaistraße 6\, 02826 Görlitz
+DESCRIPTION:Liebe Alle! Wir treffen uns das nächste Mal am 10. März 2023
+  um 19:15 Uhr in der Destille\, Nikolaistraße 6 in 02826 Görlitz! Wenn d
+ u dabei…
+X-ALT-DESC;FMTTYPE=text/html:<p>Liebe Alle!</p>\n<p>Wir treffen uns das n
+ ächste Mal am 10. März 2023 um 19:15 Uhr in der Destille\, Nikolaistraß
+ e 6 in 02826 Görlitz!</p>\n<p>Wenn du dabei sein möchtest\, trage dich f
+ ür die Reservierung bitte bis zum 6. März in folgende Umfrage ein:</p>\n
+ <p><a href="https://nuudel.digitalcourage.de/K2bGEi4ccNlHKbJy">https://nuu
+ del.digitalcourage.de/K2bGEi4ccNlHKbJy</a></p>\n<p>Viele Grüße\nMarlene 
+ vom Chaostreff</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0b552d-3c45-4bc3-a053-90e969f6398f
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20230203T190000
+DTEND:20230203T213000
+SUMMARY:Chaostreff Februar 2023
+LOCATION:Miódmaliny\, Daszyńskiego 17\, 59-900 Zgorzelec\, Polen
+DESCRIPTION:Am kommenden Freitag\, den 3. Februar 2023 ist wieder Chaostre
+ ff. Wir wollen zum Miódmaliny gehen in Zgorzelec!\nHier die Adresse:…
+X-ALT-DESC;FMTTYPE=text/html:<p>Am kommenden Freitag\, den 3. Februar 2023
+  ist wieder Chaostreff.</p>\n<p>Wir wollen zum Miódmaliny gehen in Zgorze
+ lec!\nHier die Adresse: Daszyńskiego 17\, 59-900 Zgorzelec\, Polen</p>\n<
+ p>Bis dahin!\nMarlene</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:3d069194-60f1-47f8-b25b-64bc31449dc3
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20230113T190000
+DTEND:20230113T213000
+SUMMARY:Chaostreff Januar 2023
+LOCATION:Namaste India Görlitz\, Dresdner Straße 4\, 02826 Görlitz
+DESCRIPTION:Frohes neues Jahr! Der Einstieg in den Stammtisch verschiebt s
+ ich aufgrund Terminüberlappungen um eine Woche. Das heißt wir treffen un
+ s am…
+X-ALT-DESC;FMTTYPE=text/html:<p>Frohes neues Jahr!</p>\n<p>Der Einstieg in
+  den Stammtisch verschiebt sich aufgrund Terminüberlappungen um eine Woch
+ e. Das heißt wir treffen uns am 13.01.2023 um 19 Uhr im Namaste India auf
+  der Dresdener Str. 4\, 02826 Görlitz</p>\n<p>Wenn du dabei sein möchtes
+ t\, trage dich bitte bis zum 08.01.2023 in folgendes nuudel ein:</p>\n<p><
+ a href="https://nuudel.digitalcourage.de/SGN3oE3cWb9rqkiK">https://nuudel.
+ digitalcourage.de/SGN3oE3cWb9rqkiK</a></p>\n<p>Viele Grüße\nMarlene vom 
+ Chaostreff</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6340096c-45c7-43c0-90a5-c41d93d62325
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20221202T193000
+DTEND:20221202T213000
+SUMMARY:Chaostreff Dezember 2022
+LOCATION:Ristorante DaVinci\, Demianiplatz 54\, 02826 Görlitz
+DESCRIPTION:Update: Wir treffen uns erst 19:30 Uhr! Der nächste Chaostref
+ f steht an!\nTermin ist der 02.12.2022 um 19:30 Uhr und wir treffen uns im
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Update: Wir treffen uns erst 19:30 Uhr!</p
+ >\n<p>Der nächste Chaostreff steht an!\nTermin ist der 02.12.2022 um 19:3
+ 0 Uhr und wir treffen uns im Ristorante DaVinci\, am Demianiplatz 54 in 02
+ 826 Görlitz.</p>\n<p>Hier der Link zur Website des Restaurants: <a href="
+ https://www.ristorante-davinci.com/">https://www.ristorante-davinci.com/</
+ a></p>\n<p>Bitte tragt euch bis 27.11.2022 in folgende Umfrage ein\, damit
+  ich einen Tisch reservieren kann:\n<a href="https://nuudel.digitalcourage
+ .de/k9MbuaD5jLp5txde">https://nuudel.digitalcourage.de/k9MbuaD5jLp5txde</a
+ ></p>\n<p>Marlene</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:f1dfe7d0-11ed-4818-96ea-5dd5933c1379
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20221104T190000
+DTEND:20221104T213000
+SUMMARY:Chaostreff November 2022
+LOCATION:Xin Chao\, Hildegard-Burjan-Platz 1\, 02826 Görlitz
+DESCRIPTION:Der nächste Chaostreff steht an!\nTermin ist der 04.11.2022 u
+ m 19 Uhr und wir treffen uns im Restaurant Xin Chao am Hildegard-Burjan-Pl
+ atz…
+X-ALT-DESC;FMTTYPE=text/html:<p>Der nächste Chaostreff steht an!\nTermin 
+ ist der 04.11.2022 um 19 Uhr und wir treffen uns im Restaurant Xin Chao am
+  Hildegard-Burjan-Platz 1 in 02826 Görlitz.</p>\n<p>Hier der Link zur Web
+ site des Restaurants: <a href="https://www.xinchao-goerlitz.de/">https://w
+ ww.xinchao-goerlitz.de/</a></p>\n<p>Bitte tragt euch bis 30.10.2022 in fol
+ gende Umfrage ein\, damit ich einen Tisch reservieren kann:\n<a href="http
+ s://nuudel.digitalcourage.de/3hz4qR1Xb5u21SCH">https://nuudel.digitalcoura
+ ge.de/3hz4qR1Xb5u21SCH</a></p>\n<p>Marlene</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:735ecc40-fc12-42b3-b8c4-97509752f837
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20221007T190000
+DTEND:20221007T213000
+SUMMARY:Chaostreff Oktober 2022
+LOCATION:Krishna\, Dr. Friedrichs-Str. 3\, 02826 Görlitz
+DESCRIPTION:Am 7. Oktober 2022 wollen wir ins Restaurant Krishna auf der D
+ r. Friedrich-Straße 3\, 02826 Görlitz gehen! Wer gern dabei sein möchte
+ \, trage…
+X-ALT-DESC;FMTTYPE=text/html:<p>Am 7. Oktober 2022 wollen wir ins Restaura
+ nt Krishna auf der Dr. Friedrich-Straße 3\, 02826 Görlitz gehen!</p>\n<p
+ >Wer gern dabei sein möchte\, trage sich bis 3.10. bitte hier ein: <a hre
+ f="https://nuudel.digitalcourage.de/vI17coOWe6rtjeOP">https://nuudel.digit
+ alcourage.de/vI17coOWe6rtjeOP</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:13de43f2-3130-4180-8976-dd9b4795d969
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20220902T190000
+DTEND:20220902T213000
+SUMMARY:Chaostreff September 2022
+LOCATION:La Galeria Italiana\, Annengasse\, 02826 Görlitz
+DESCRIPTION:Am 2. September 2022\, 19 Uhr ist wieder Chaostreff und wir wo
+ llen das neue Restaurant in der Annengasse ausprobieren. Das La Galeria…
+X-ALT-DESC;FMTTYPE=text/html:<p>Am 2. September 2022\, 19 Uhr ist wieder C
+ haostreff und wir wollen das neue Restaurant in der Annengasse ausprobiere
+ n. Das La Galeria Italiana befindet sich neben dem Kartoffelhaus.</p>\n<p>
+ Adresse:\nLa Galeria Italiana\nAnnengasse\n02826 Görlitz</p>\n<p>Damit da
+ s mit der Reservierung auch klar geht - hier nun die obligatorische "Bist 
+ du dabei?"-Umfrage:</p>\n<p><a href="https://nuudel.digitalcourage.de/K5KA
+ AIcaGQGqgJiF">https://nuudel.digitalcourage.de/K5KAAIcaGQGqgJiF</a></p>\n<
+ p>Bitte meldet euch bis zum 31.08. (Mittwoch) an.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:d6eaad7a-da3a-4c8c-bd19-453cc0b55506
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20220805T190000
+DTEND:20220805T213000
+SUMMARY:Chaostreff August 2022
+LOCATION:Espresso\, Daszyńskiego 10\, 59-900 Zgorzelec\, Polen
+DESCRIPTION:Am 5. August 2022\, 19 Uhr ist wieder Chaostreff und wir haben
+  beim letzten Treffen überlegt\, dass wir mal wieder nach Zgorzelec ins E
+ spresso…
+X-ALT-DESC;FMTTYPE=text/html:<p>Am 5. August 2022\, 19 Uhr ist wieder Chao
+ streff und wir haben beim letzten Treffen überlegt\, dass wir mal wieder 
+ nach Zgorzelec ins Espresso essen gehen sollten!</p>\n<p>Adresse:\nDaszyń
+ skiego 10\n59-900 Zgorzelec\nPolen</p>\n<p>Website und Speisekarte:\n<a hr
+ ef="http://espresso.zgorzelec.pl/de/home-2/">http://espresso.zgorzelec.pl/
+ de/home-2/</a></p>\n<p>Damit das mit der Reservierung auch klar geht - hie
+ r nun die obligatorische "Bist du dabei?"-Umfrage:</p>\n<p><a href="https:
+ //nuudel.digitalcourage.de/l8NN1kH9Nbx1PITy">https://nuudel.digitalcourage
+ .de/l8NN1kH9Nbx1PITy</a></p>\n<p>Bitte meldet euch bis zum 31.07. (Sonntag
+ ) an.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:41fac1a4-37c5-43d3-b7b1-286a345f0b43
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20220715T190000
+DTEND:20220715T213000
+SUMMARY:Chaostreff Juli 2022
+LOCATION:Salü\, Schwarze Straße 7\, 02826 Görlitz
+DESCRIPTION:Wir wollen uns am 15.07.2022 um 19:00 Uhr im Salü\, Schwarze 
+ Straße 7\, 02826 Görlitz zum nächsten Stammtisch treffen. Wenn ihr dabe
+ i sein…
+X-ALT-DESC;FMTTYPE=text/html:<p>Wir wollen uns am 15.07.2022 um 19:00 Uhr 
+ im Salü\, Schwarze Straße 7\, 02826 Görlitz zum nächsten Stammtisch tr
+ effen.</p>\n<p>Wenn ihr dabei sein möchtet\, meldet euch bitte hier bis D
+ ienstag\, den 12. Juli\, in der Umfrage an: <a href="https://nuudel.digita
+ lcourage.de/9zOQrwwqMEfbPYgb">https://nuudel.digitalcourage.de/9zOQrwwqMEf
+ bPYgb</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:a87befa5-0adc-4e09-ad66-cdebf50884ca
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20220506T193000
+DTEND:20220506T213000
+SUMMARY:Chaostreff Mai 2022
+LOCATION:Casa Nova\, Untermarkt 11\, 02826 Görlitz
+DESCRIPTION:Wir wollen uns am 6.5. 2022 um 19:30 Uhr im Casa Nova\, Unterm
+ arkt 11\, 02826 Görlitz zum nächsten Stammtisch treffen. Wenn ihr dabei 
+ sein…
+X-ALT-DESC;FMTTYPE=text/html:<p>Wir wollen uns am 6.5. 2022 um 19:30 Uhr i
+ m Casa Nova\, Untermarkt 11\, 02826 Görlitz zum nächsten Stammtisch tref
+ fen.</p>\n<p>Wenn ihr dabei sein möchtet\, meldet euch bitte hier bis Die
+ nstag\, den 3. Mai\, in der Umfrage an: <a href="https://nuudel.digitalcou
+ rage.de/CtRiXzVfevjYnMRt">https://nuudel.digitalcourage.de/CtRiXzVfevjYnMR
+ t</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:64a2feb7-1796-4f24-a0ae-f7768bfd7164
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20220401T190000
+DTEND:20220401T213000
+SUMMARY:Chaostreff (Virtueller Stammtisch) April 2022
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:UPDATE (31.03.2022) Aus organisatorischen Gründen muss der St
+ ammtisch doch virtuell stattfinden. Wir treffen uns auf unserem Jitsi-Serv
+ er…
+X-ALT-DESC;FMTTYPE=text/html:<p>UPDATE (31.03.2022)</p>\n<p>Aus organisato
+ rischen Gründen muss der Stammtisch doch virtuell stattfinden.</p>\n<p>Wi
+ r treffen uns auf unserem Jitsi-Server:</p>\n<p><a href="https://meet.digi
+ tale-oberlausitz.eu/chaostreff">https://meet.digitale-oberlausitz.eu/chaos
+ treff</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:9056b24b-ab0b-43dc-a9b7-743867f54235
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20220304T190000
+DTEND:20220304T213000
+SUMMARY:Chaostreff März 2022
+LOCATION:Namaste India\, Dresdener Straße 4\, 02826 Görlitz
+DESCRIPTION:Dieses Mal wollen wir uns wieder vor Ort treffen im neuen indi
+ schen Restaurant "Namste India". Bitte beachtet die geltenden Hygieneaufla
+ gen.
+X-ALT-DESC;FMTTYPE=text/html:<p>Dieses Mal wollen wir uns wieder vor Ort t
+ reffen im neuen indischen Restaurant "Namste India".</p>\n<p>Bitte beachte
+ t die geltenden Hygieneauflagen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc4248f-aab8-4671-8eaa-af3d69430a4a
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20220204T190000
+DTEND:20220204T213000
+SUMMARY:Chaostreff (Virtueller Stammtisch) Februar 2022
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf unserem Jitsi-Serve
+ r! - Start ist wie immer 19 Uhr.\nKommt gern auch zwischendurch vorbei. ht
+ tps…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  unserem Jitsi-Server! - Start ist wie immer 19 Uhr.\nKommt gern auch zwis
+ chendurch vorbei.</p>\n<p><a href="https://meet.digitale-oberlausitz.eu/ch
+ aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a991-8eb5-4c87-a3db-3cc592234290
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20220105T190000
+DTEND:20220105T213000
+SUMMARY:Chaostreff (Virtueller Stammtisch) Januar 2022
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf unserem Jitsi-Serve
+ r! - Start ist wie immer 19 Uhr.\nKommt gern auch zwischendurch vorbei. ht
+ tps…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  unserem Jitsi-Server! - Start ist wie immer 19 Uhr.\nKommt gern auch zwis
+ chendurch vorbei.</p>\n<p><a href="https://meet.digitale-oberlausitz.eu/ch
+ aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:f76f81fe-f0ae-4dc7-9051-25744f52f340
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20211210T190000
+DTEND:20211210T213000
+SUMMARY:Chaostreff (Virtueller Stammtisch) Dezember 2021
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf unserem Jitsi-Serve
+ r! - Start ist wie immer 19 Uhr.\nKommt gern auch zwischendurch vorbei. ht
+ tps…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  unserem Jitsi-Server! - Start ist wie immer 19 Uhr.\nKommt gern auch zwis
+ chendurch vorbei.</p>\n<p><a href="https://meet.digitale-oberlausitz.eu/ch
+ aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:1a67e14e-cbf8-46cb-9b44-a4a18d023b15
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20211105T190000
+DTEND:20211105T213000
+SUMMARY:Chaostreff November 2021
+LOCATION:China-Thai-Restaurant\, Promenadenstraße 99\, 02728 Görlitz
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - S
+ tart ist wie immer 19:00 Uhr. Ort: China-Thai-Restaurant\, Promenadenstra
+ ße 9…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  wieder vor Ort! - Start ist wie immer 19:00 Uhr.</p>\n<p>Ort: China-Thai-
+ Restaurant\, Promenadenstraße 99\, 02728 Görlitz</p>\n<p>Bitte beachtet 
+ die geltenden Hygieneauflagen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c5bec4-9f6e-49ac-bd49-1dcb268cfe32
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20211029T190000
+DTEND:20211029T213000
+SUMMARY:Chaostreff Oktober 2021
+LOCATION:Xin Chao\, Hildegard-Burjan-Platz 1\, 02826 Görlitz
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - S
+ tart ist wie immer 19:00 Uhr. Ort: Xin Chao\, Hildegard-Burjan-Platz 1\, 0
+ 2826…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  wieder vor Ort! - Start ist wie immer 19:00 Uhr.</p>\n<p>Ort: Xin Chao\, 
+ Hildegard-Burjan-Platz 1\, 02826 Görlitz</p>\n<p>Bitte beachtet die gelte
+ nden Hygieneauflagen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ccd676-9a85-4016-8992-cac06a543ef3
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20210910T190000
+DTEND:20210910T213000
+SUMMARY:Chaostreff September 2021
+LOCATION:Obermühle\, An der Obermühle 5\, 02826 Görlitz
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - S
+ tart ist wie immer Mal 19:00 Uhr. Ort: Obermühle\, An der Obermühle 5\, 
+ 02826…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  wieder vor Ort! - Start ist wie immer Mal 19:00 Uhr.</p>\n<p>Ort: Obermü
+ hle\, An der Obermühle 5\, 02826 Görlitz</p>\n<p>Bitte beachtet die gelt
+ enden Hygieneauflagen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:1305b063-8c8c-44bd-b33d-68b5d2cf67b6
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20210806T193000
+DTEND:20210806T213000
+SUMMARY:Chaostreff August 2021
+LOCATION:Krishna\, Dr.-Friedrichs-Str. 3\, 02826 Görlitz
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - S
+ tart ist  dieses Mal 19:30 Uhr. Ort: Krishna\, Dr.-Friedrichs-Str. 3\, 028
+ 26…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  wieder vor Ort! - Start ist  dieses Mal 19:30 Uhr.</p>\n<p>Ort: Krishna\,
+  Dr.-Friedrichs-Str. 3\, 02826 Görlitz</p>\n<p>Bitte beachtet die geltend
+ en Hygieneauflagen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:30a11e6d-93ca-439d-b753-de8dd5244f6d
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20210709T190000
+DTEND:20210709T213000
+SUMMARY:Chaostreff Juli 2021
+LOCATION:Casa Nova\, Untermarkt\, 02826 Görlitz
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf wieder vor Ort! - S
+ tart ist wie immer 19 Uhr. Ort: Casa Nova\, Untermarkt\, 02826 Görlitz Bi
+ tte…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  wieder vor Ort! - Start ist wie immer 19 Uhr.</p>\n<p>Ort: Casa Nova\, Un
+ termarkt\, 02826 Görlitz</p>\n<p>Bitte beachtet die geltenden Hygieneaufl
+ agen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:58e1364f-3ff2-4a00-b6ae-e89ddc46b7fd
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20210604T190000
+DTEND:20210604T213000
+SUMMARY:Chaostreff (Virtueller Stammtisch) Juni 2021
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf unserem Jitsi-Serve
+ r! - Start ist wie immer 19 Uhr.\nKommt gern auch zwischendurch vorbei. ht
+ tps…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  unserem Jitsi-Server! - Start ist wie immer 19 Uhr.\nKommt gern auch zwis
+ chendurch vorbei.</p>\n<p><a href="https://meet.digitale-oberlausitz.eu/ch
+ aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:b918f629-afda-42d7-938d-c74ac84e08ac
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20210507T190000
+DTEND:20210507T213000
+SUMMARY:Chaostreff (Virtueller Stammtisch) Mai 2021
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf unserem Jitsi-Serve
+ r! - Start ist wie immer 19 Uhr.\nKommt gern auch zwischendurch vorbei. ht
+ tps…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  unserem Jitsi-Server! - Start ist wie immer 19 Uhr.\nKommt gern auch zwis
+ chendurch vorbei.</p>\n<p><a href="https://meet.digitale-oberlausitz.eu/ch
+ aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:f715fac4-debe-4b60-b105-418d80fc5661
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20210409T190000
+DTEND:20210409T213000
+SUMMARY:Chaostreff (Virtueller Stammtisch) April 2021
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf unserem Jitsi-Serve
+ r! - Start ist wie immer 19 Uhr.\nKommt gern auch zwischendurch vorbei. ht
+ tps…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  unserem Jitsi-Server! - Start ist wie immer 19 Uhr.\nKommt gern auch zwis
+ chendurch vorbei.</p>\n<p><a href="https://meet.digitale-oberlausitz.eu/ch
+ aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:f26f900e-6e36-4d15-a076-69731a6a7ccd
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20210305T190000
+DTEND:20210305T213000
+SUMMARY:Chaostreff (Virtueller Stammtisch) März 2021
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf unserem Jitsi-Serve
+ r! - Start ist wie immer 19 Uhr.\nKommt gern auch zwischendurch vorbei. ht
+ tps…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  unserem Jitsi-Server! - Start ist wie immer 19 Uhr.\nKommt gern auch zwis
+ chendurch vorbei.</p>\n<p><a href="https://meet.digitale-oberlausitz.eu/ch
+ aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd0241f-fe4b-4a5e-8cfb-5710c7357667
+SEQUENCE:0
+DTSTAMP:20230812T080446
+DTSTART:20210205T190000
+DTEND:20210205T213000
+SUMMARY:Virtueller Stammtisch (Chaostreff) Februar 2021
+LOCATION:https://meet.digitale-oberlausitz.eu/chaostreff
+DESCRIPTION:Für diesen Stammtisch treffen wir uns auf unserem Jitsi-Serve
+ r! - Start ist wie immer 19 Uhr.\nKommt gern auch zwischendurch vorbei. ht
+ tps…
+X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
+  unserem Jitsi-Server! - Start ist wie immer 19 Uhr.\nKommt gern auch zwis
+ chendurch vorbei.</p>\n<p><a href="https://meet.digitale-oberlausitz.eu/ch
+ aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
+END:VEVENT
+END:VCALENDAR
