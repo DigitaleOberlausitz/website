@@ -25,7 +25,7 @@ type EventNode = {
   excerpt: string
 }
 
-export const createIcal = ({
+export const createIcal = async ({
   graphql,
   icalFrontmatterName,
   icalTargetPath,
