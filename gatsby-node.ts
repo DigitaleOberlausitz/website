@@ -180,10 +180,10 @@ const createStaticPages = async ({ actions, graphql }: Pick<CreatePagesArgs, "ac
 }
 
 export const onPostBuild: GatsbyNode["onPostBuild"] = async ({ graphql }) => {
-  createChaostreffIcal({ graphql })
+  await createChaostreffIcal({ graphql })
 }
 
-const createChaostreffIcal = ({ graphql }) => {
+const createChaostreffIcal = async ({ graphql }) => {
   const icalFrontmatterName = "chaostreff-goerlitz"
   const icalTargetPath = "./public/projekte/chaostreff/chaostreff-goerlitz.ics"
   const icalUrl = "https://digitale-oberlausitz.eu/projekte/chaostreff"
