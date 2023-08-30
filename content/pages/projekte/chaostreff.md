@@ -4,7 +4,7 @@ title: Chaostreff
 
 # Chaostreff Görlitz
 
-Der Chaostreff, hervorgegangen aus dem Linux-Stammtisch, ist regelmäßig stattfindender Stammtisch-Abend, zu dem sich
+Der Chaostreff, hervorgegangen aus dem Linux-Stammtisch, ist ein seit 2011 regelmäßig stattfindender Stammtisch-Abend, zu dem sich
 Technik- und Informatik-Interessierte in lockerer Runde in einem Lokal in Görlitz zusammenfinden. Dabei wird zu
 Getränken und Essen in entspannter Atmosphäre zu allem möglichen Themen diskutiert und gesprochen.
 
