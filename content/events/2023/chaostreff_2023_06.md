@@ -1,5 +1,5 @@
 ---
-title: "Chaostreff Mai 2023"
+title: "Chaostreff Juni 2023"
 date: "2023-06-02"
 ical: 'chaostreff-goerlitz'
 location: "Xin Chao, Hildegard-Burjan-Platz 1, 02826 Görlitz"
