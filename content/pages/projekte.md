@@ -23,5 +23,5 @@ eingeladen.
 
 ---
 
-**[Hackathon](https://hackathon.digitale-oberlausitz.eu/)** 2022 organisieren wir unseren ersten Hackathon in Görlitz, der gewissermaßen der Nachfolger des
-Junction Hackathons 2021 ist, der auch in Görlitz in der Rabryka stattgefunden hat.
+**[Hackathon](https://hackathon.digitale-oberlausitz.eu/)** Seit 2022 organisieren wir unsere eigenen Hackathons in Görlitz, die gewissermaßen der Nachfolger des
+Junction Hackathons 2021 sind, der auch in Görlitz in der Rabryka stattgefunden hat.
