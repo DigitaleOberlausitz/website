@@ -9,4 +9,5 @@ yarn-error.log
 
 .idea/
 
+/.yarn/cache
 /.yarn/install-state.gz
