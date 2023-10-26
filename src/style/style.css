@@ -15,6 +15,12 @@ a {
   & figcaption.gatsby-resp-image-figcaption {
     font-size: 0.9em;
     font-style: italic;
+
+    max-width: 600px;
+
+  margin-left: auto;
+  margin-right: auto;
+
   }
 }
 
