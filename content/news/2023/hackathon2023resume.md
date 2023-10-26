@@ -22,7 +22,7 @@ anzunehmen, womit sich auch die Teilnehmenden des Hackathons mit ihren Projekten
 ![Oberbürgermeister Octavian Ursu spricht ein paar Worte zur Eröffnung des Hackathons. Im Hintergrund sieht man eine Videowand mit dem Hackathon-Schriftzug. Im Vordergrund sitzen zahlreiche Leute und hören zu.](../../images/2023-hackathon/h23-eroeffnung-buergermeister_03_mk.jpg "Oberbürgermeister Octavian Ursu spricht auf der Eröffnungsveranstaltung - Foto von Marlene Knoche")
 
 Desweiteren haben zur Eröffnung Sven Mimus, Geschäftsführer der Entwicklungsgesellschaft Niederschlesische Oberlausitz ENO und 
-Prof. Dr. Jörg Lessig vom Fachbereich Informatik der Hochschule Görlitz/Zittau weitere Perspektiven zum Thema der Digitalisierung und 
+Prof. Dr. Jörg Lässig vom Fachbereich Informatik der Hochschule Zittau/Görlitz weitere Perspektiven zum Thema der Digitalisierung und 
 Smart City eingebracht.
 
 ![Manuel und Max vom Vorstand des Vereins eröffnen die Veranstaltung. Im Hintergrund sieht man das Logo des Hackathons und im Vordergrund zahlreiche Leute auf Stühlen sitzend.](../../images/2023-hackathon/h23-eroeffnungsrede-vorstand_mk.jpg "Manuel und Max vom Vorstand des Vereins eröffnen die Veranstaltung - Foto von Marlene Knoche")
@@ -30,7 +30,7 @@ Smart City eingebracht.
 
 Nach der Eröffnung und der Vorstellung unserer Sponsoren, 
 ging es in die praktische Arbeit. Der erste Schritt war die Ideenfindung:
-Dabei waren mindestens zwei Verschiedene Wege der Annäherung an das Thema möglich.
+Dabei waren mindestens zwei verschiedene Wege der Annäherung an das Thema möglich.
 Zum Einen eine Diskussion über das Thema "Smart City", was man darunter alles verstehen kann
 und welche Probleme es denn zu lösen gäbe. Hierbei gab es auch externen Input 
 von Autohausbesitzer Silvio Arndt, der eine Idee für ein neues Mitfahrt-Angebot vorstellte.
@@ -44,7 +44,7 @@ gemacht werden konnte.
 
 Mit der Ideenfindung haben sich auch 3 Teams gefunden und der restliche Freitagabend
 wurde für die ersten Schritte und insbesondere zum Vertrautmachen mit den Sensoren und Microcontrollern genutzt.
-Der Samstag war schließlich für die eigentliche produktive Arbeit an den Projekten
+Der Samstag war schließlich für die produktive Arbeit an den Projekten
 angedacht, wobei wir als Verein wo immer möglich unterstützt haben.
 Am Sonntag schließlich mussten die Projekt-Präsentationen vorbereitet und letzte
 Schritte bei der Fertigstellung der Projekte gemacht werden.
@@ -70,24 +70,8 @@ insbesondere des Vorstands des Vereins.
 
 # Ergebnisse
 
-## Smarte Ampelsteuerung
-Im ersten Projekt wurde eine intelligente Straßenbeleuchtung entwickelt, die automatisch abschaltet, wenn keine Passanten oder Fahrzeuge in der Nähe sind. 
-Hierbei kamen eine Reihe unserer bereitgestellten Sensoren und Mikrocontroller zum Einsatz. 
-Die Teilnehmer tobten sich mit Schallpegel-, Lichtstärke- und Abstandssensoren aus. 
-Sie entwickelten eine IoT-Lösung auf Basis von [MQTT](https://de.wikipedia.org/wiki/MQTT) und [AWS](https://de.wikipedia.org/wiki/Amazon_Web_Services), 
-um eine flexible Beleuchtung zu schaffen, bei der "auch das BackEnd skalieren kann" (sagen die Informatiker). 
-Vielleicht hat sie der ein oder andere Autofahrer bei unser diesjährigen Location, der UnbezahlbarLounge der ENO bei Innolabs, an der Straße gesehen.
-
-![Das Team auf dem ersten Platz. Die Team-Mitglieder schauen in die Kamera und halten die Siegerurkunden vor sich](../../images/2023-hackathon/h23-platz1_pl.jpg "Das Team auf dem ersten Platz - Foto von Patryk Lewandowski")
-*Der Verein meint: In diesem Projekt arbeiteten Sensoren, Mikrocontroller und Cloud-Technologien Hand in Hand. 
-Die Fähigkeiten, solche Systeme aufzubauen, zu skalieren und zu warten sind in der Industrie gerade sehr gefragt. 
-Hier brauchen Informatiker, Automatisierungstechniker, Anlagenbauer, Maschinenbauer, etc. ein gemeinsames Verständnis, 
-was geht, wie es geht und was möglich ist.*
-
-Link zum Github-Repo: https://github.com/dudziec/hackathon2023-frischefische
-
 ## Smartes Mitfahren
-Das zweite Projekt widmete sich einer Lösung für die sogenannte "letzte Meile" des öffentlichen Personennahverkehrs. 
+Das erste Projekt widmete sich einer Lösung für die sogenannte "letzte Meile" des öffentlichen Personennahverkehrs. 
 Es wurde eine App entwickelt, die Autofahrer, die sowieso eine bestimmte Strecke fahren, mit Nicht-Autofahrern verbindet, die das gleiche Ziel haben. 
 Der Autofahrer gibt sein Ziel in die App ein, genauso wie der Nicht-Autofahrer. 
 Die App matcht dann die beiden Personen, sodass der Nicht-Autofahrer eine spontane(!!) Mitfahrgelegenheit zum gewünschten Ziel erhält. 
@@ -96,11 +80,27 @@ Als Beispiel diente hier die Strecke zwischen Niesky und Görlitz.
 Die App wurde dabei speziell so gestaltet, dass sie auch für ältere Personen leicht bedienbar ist, die kein Auto mehr fahren, 
 aber dennoch gelegentlich mobil sein müssen, beispielsweise für Arztbesuche.
 
-![Das Team auf dem zweiten Platz. Die Team-Mitglieder schauen in die Kamera und halten die Siegerurkunden vor sich](../../images/2023-hackathon/h23-platz2_pl.jpg "Das Team auf dem ersten Platz - Foto von Patryk Lewandowski")
+![Das Team auf dem ersten Platz. Die Team-Mitglieder schauen in die Kamera und halten die Siegerurkunden vor sich](../../images/2023-hackathon/h23-platz1_pl.jpg "Das Team auf dem ersten Platz - Foto von Patryk Lewandowski")
 *Der Verein meint: Bei großen Anbietern muss die Fahrt im Voraus gebucht werden. Das hat wenig Raum für Spontanität. 
 Bei dieser Art der digitalen Nachbarschaftshilfe sollte die Regionalität und Spontanität über dem kommerziellen Interesse der Anbieter stehen.*
 
 Link zum Github-Repo: https://github.com/supermarche/flotteLotte
+
+## Smarte Ampelsteuerung
+Im zweiten Projekt wurde eine intelligente Straßenbeleuchtung entwickelt, die automatisch abschaltet, wenn keine Passanten oder Fahrzeuge in der Nähe sind. 
+Hierbei kamen eine Reihe unserer bereitgestellten Sensoren und Mikrocontroller zum Einsatz. 
+Die Teilnehmer tobten sich mit Schallpegel-, Lichtstärke- und Abstandssensoren aus. 
+Sie entwickelten eine IoT-Lösung auf Basis von [MQTT](https://de.wikipedia.org/wiki/MQTT) und [AWS](https://de.wikipedia.org/wiki/Amazon_Web_Services), 
+um eine flexible Beleuchtung zu schaffen, bei der "auch das BackEnd skalieren kann" (sagen die Informatiker). 
+Vielleicht hat sie der ein oder andere Autofahrer bei unser diesjährigen Location, der UnbezahlbarLounge der ENO bei Innolabs, an der Straße gesehen.
+
+![Das Team auf dem zweiten Platz. Die Team-Mitglieder schauen in die Kamera und halten die Siegerurkunden vor sich](../../images/2023-hackathon/h23-platz2_pl.jpg "Das Team auf dem zweiten Platz - Foto von Patryk Lewandowski")
+*Der Verein meint: In diesem Projekt arbeiteten Sensoren, Mikrocontroller und Cloud-Technologien Hand in Hand. 
+Die Fähigkeiten, solche Systeme aufzubauen, zu skalieren und zu warten sind in der Industrie gerade sehr gefragt. 
+Hier brauchen Informatiker, Automatisierungstechniker, Anlagenbauer, Maschinenbauer, etc. ein gemeinsames Verständnis, 
+was geht, wie es geht und was möglich ist.*
+
+Link zum Github-Repo: https://github.com/dudziec/hackathon2023-frischefische
 
 ## Smart City Dashboard
 Das dritte Projekt im Hackathon war die Entwicklung eines Dashboards mit lokalem Bezug, 
@@ -114,12 +114,11 @@ Im Rahmen des Projekts wurden beispielsweise die Zugverbindungen zwischen Görli
 bei den Königshainer Tunneln abgefragt und die gesammelten Informationen direkt im Dashboard angezeigt.
 Im Rahmen des Dashboard-Projekts wurde auch ein Widget implementiert, das Sensordaten verarbeiten kann.
 
-![Das Team auf dem dritten Platz. Die Team-Mitglieder schauen in die Kamera und halten die Siegerurkunden vor sich](../../images/2023-hackathon/h23-platz3_pl.jpg "Das Team auf dem ersten Platz - Foto von Patryk Lewandowski")
+![Das Team auf dem dritten Platz. Die Team-Mitglieder schauen in die Kamera und halten die Siegerurkunden vor sich](../../images/2023-hackathon/h23-platz3_pl.jpg "Das Team auf dem dritten Platz - Foto von Patryk Lewandowski")
 *Der Verein meint: Das Dashboard-Projekt hat uns insbesondere hinsichtlich Design und Styling gefallen.
-Wir sehen auch Potential für die Integration von KI-Systemen wie ChatGPT oder DALL-E in ein Dashboard. 
+Wir sehen Potential für die Integration von KI-Systemen wie ChatGPT oder DALL-E in ein Dashboard. 
 Man könnte sich beispielsweise täglich ein vom KI-System generiertes Bild anzeigen lassen. 
-Ein konkretes Beispiel könnte "Das KI-Bild des Tages: So stellt sich DALL-E ein Umgebindehaus vor" sein, wodurch nicht nur informative, 
-sondern auch unterhaltsame und kreative Elemente in das Dashboard integriert würden.*
+Ein konkretes Beispiel könnte "Das KI-Bild des Tages: So stellt sich DALL-E ein Umgebindehaus vor" sein, wodurch nicht nur informative, sondern auch unterhaltsame und kreative Elemente in das Dashboard integriert würden.*
 
 Link zum Github-Repo: https://github.com/JonathanZopf/hackathon-23
 
@@ -133,7 +132,7 @@ Diese haben einen wesentlichen Beitrag zur guten Athmosphäre geleistet.
 Für ihre Redebeiträge zur Eröffnungsveranstaltung an 
 - Octavian Ursu, Oberbürgermeister der Stadt Görlitz
 - Sven Mimus, Geschäftsführer der Entwicklungsgesellschaft Niederschlesische Oberlausitz mbH (ENO)
-- Prof. Dr. Jörg Lessig, Fachbereich Informatik der Hochschule Zittau/Görlitz
+- Prof. Dr. Jörg Lässig, Fachbereich Informatik der Hochschule Zittau/Görlitz
 
 Unsere Sponsoren:
 
@@ -157,7 +156,7 @@ Wir freuen uns bereits auf den nächsten Hackathon 2024 :)
 ![Das Orga-Team ist beim Aufbau und Vorbereitung. Im Vordergrund sind Papiertüten mit Goodies für die Teilnehmden, in der Mitte ein Tresen und im Hintergrund die Videowand sowie Stuhlreihen für die Gäste zu sehen.](../../images/2023-hackathon/h23-aufbau_02_mm.jpg "Aufbau und Vorbereitung - Foto von Manuel Mauky")
 ![Marco vom Orga-Team erklärt einigen Teilnehmenden die Sensoren und Microcontroller. In der Mitte sieht man einen Tisch, auf dem alle Sensoren, Kabel und weitere Materialien ausliegen. Die Teilnehmenden stehen um den Tisch herum verteilt.](../../images/2023-hackathon/h23-erklaerung-sensoren_mk.jpg "Marco erklärt den Teilnehmenden die Sensoren und Microcontroller - Foto von Marlene Knoche")
 ![Oberbürgermeister Octavian Ursu bei der Eröffnung.](../../images/2023-hackathon/h23-eroeffnung-buergermeister_01_mk.jpg "Oberbürgermeister Octavian Ursu bei der Eröffnung - Foto von Marlene Knoche")
-![Professor Jörg Lessig spricht bei der Eröffnung zum Publikum](../../images/2023-hackathon/h23-eroeffnung-joerg-lessig_mk.jpg "Prof. Jörg Lessig bei der Eröffnung - Foto von Marlene Knoche")
+![Professor Jörg Lässig spricht bei der Eröffnung zum Publikum](../../images/2023-hackathon/h23-eroeffnung-joerg-laessig_mk.jpg "Prof. Jörg Lessig bei der Eröffnung - Foto von Marlene Knoche")
 ![Der Vorstandsvorsitzende des Digitale Oberlausitz e.V. stellt die Sponsoren vor. Im Hintergrund sieht man an der Videowand eine Übersicht mit allen Logos der Sponsoren. Im Vordergrund sieht man einige Teilnehmende von hinten.](../../images/2023-hackathon/h23-eroeffnung-manuel_03_mk.jpg "Vorstandsvorsitzender Manuel Mauky stellt die Sponsoren vor - Foto von Marlene Knoche")
 ![Ein Projektteam bei der Arbeit. Die Teammitglieder sitzen an einem Tisch und schauen konzentriert auf ihre Laptops.](../../images/2023-hackathon/h23-konzentriertes-arbeiten_mw.jpg "Ein Projektteam bei der Arbeit - Foto von Max Wielsch")
 ![Marlene vom Orga-Team hockt vor einem Papier-Flipchart. Darauf hat sie einen Aufruf zum Abgeben von Feedback gemalt. Nun malt sie einen QR-Code per Hand auf das Papier. Der Link ist "https://forms.gle/vPtBySLzeg677Qx9A"](../../images/2023-hackathon/h23-marlene-mals-qrcode-01_mm.jpg "Marlene malt einen QR-Code für die Feedback-Umfrage - Foto von Manuel Mauky")
