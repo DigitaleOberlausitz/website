@@ -1,5 +1,5 @@
 ---
-title: "Resume Hackathon 2023"
+title: "Résumé Hackathon 2023"
 date: "2023-10-26"
 ---
 
