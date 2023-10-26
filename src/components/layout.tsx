@@ -1,4 +1,4 @@
-import React, { FC } from "react"
+import React, { FC, PropsWithChildren } from "react"
 import Helmet from "react-helmet"
 import { StaticQuery, graphql } from "gatsby"
 
@@ -9,7 +9,7 @@ import PageFooter from "./page-footer"
 
 import "../style/style.css"
 
-const Layout: FC = ({ children }) => {
+const Layout: FC<PropsWithChildren> = ({ children }) => {
   return (
     <StaticQuery
       query={graphql`
