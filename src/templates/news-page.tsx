@@ -2,13 +2,14 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
+import { renderAst } from "../utils/custom-components"
 
 export default ({ data }) => {
   const {
     html,
+    htmlAst,
     frontmatter: { title, date },
   } = data.markdownRemark
-
   return (
     <Layout>
       <article className="news-article">
@@ -18,7 +19,9 @@ export default ({ data }) => {
             <time dateTime={date}>{date}</time>
           </strong>
         </header>
-        <div dangerouslySetInnerHTML={{ __html: html }} />
+        <div>
+          {renderAst(htmlAst)}
+        </div>
       </article>
     </Layout>
   )
@@ -28,6 +31,7 @@ export const query = graphql`
   query ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
+      htmlAst
       frontmatter {
         title
         date
