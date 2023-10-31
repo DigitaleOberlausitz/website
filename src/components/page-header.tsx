@@ -39,9 +39,11 @@ const PageHeader: FC = (props) => {
   return (
     <div>
       <Navbar color="light" light expand="md">
-        <NavbarBrand to="/" tag={(props) => <Link {...props} />} className="mr-auto">
-          <img alt="Digitale Oberlausitz e.V." src={require("../../content/images/logo_transparent.png")?.default} />
-          Digitale Oberlausitz e.V.
+        <NavbarBrand tag={"div"} className="mr-auto">
+          <Link to="/interactive-logo">
+            <img alt="Digitale Oberlausitz e.V." src={require("../../content/images/logo_transparent.png")?.default} />
+          </Link>
+          <Link to="/">Digitale Oberlausitz e.V.</Link>
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
 
