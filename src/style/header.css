@@ -1,19 +1,30 @@
-.navbar > .navbar-brand > img {
-  max-width: 3rem;
-  margin-bottom: 0.3em;
-  margin-right: 0.5em;
-  margin-top: 0.3em;
-}
-
 .navbar {
   padding-bottom: 0;
   border-bottom: 1px solid #eee;
-}
 
-.navbar .nav-item {
-  font-size: 1.2rem;
-  font-weight: 500;
-  margin-bottom: 0;
+  & > .navbar-brand {
+    & img {
+      max-width: 3rem;
+      margin-bottom: 0.3em;
+      margin-right: 0.5em;
+      margin-top: 0.3em;
+    }
+  }
+
+  & .nav-item {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0;
+
+    & > a {
+      margin-bottom: 5px;
+    }
+
+    & .active {
+      margin-bottom: 0;
+      border-bottom: #0848a5 5px solid;
+    }
+  }
 }
 
 @media (min-width: 768px) {
@@ -26,12 +37,4 @@
   .navbar .nav-item {
     font-size: 1.2rem;
   }
-}
-
-.navbar .nav-item > a {
-  margin-bottom: 5px;
-}
-.navbar .nav-item .active {
-  margin-bottom: 0;
-  border-bottom: #0848a5 5px solid;
 }

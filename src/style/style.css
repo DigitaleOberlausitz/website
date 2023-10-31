@@ -18,12 +18,10 @@ a {
 
     max-width: 600px;
 
-  margin-left: auto;
-  margin-right: auto;
-
+    margin-left: auto;
+    margin-right: auto;
   }
 }
-
 
 .news-article {
   margin-top: 1rem;
