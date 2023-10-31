@@ -3,11 +3,25 @@
   border-bottom: 1px solid #eee;
 
   & > .navbar-brand {
+    padding: 0;
+    display: flex;
+    align-items: stretch;
+
     & img {
       max-width: 3rem;
       margin-bottom: 0.3em;
       margin-right: 0.5em;
       margin-top: 0.3em;
+    }
+
+    & a {
+      color: rgba(0, 0, 0, 0.9);
+      display: flex;
+      align-items: center;
+
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
 
