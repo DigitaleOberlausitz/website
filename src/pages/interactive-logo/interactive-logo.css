@@ -1,0 +1,26 @@
+#cities {
+  & a {
+    text-decoration: none;
+  }
+
+  & [data-city] {
+    & > rect,
+    & > path {
+      fill: white;
+    }
+
+    & text {
+      fill: black;
+      font-weight: 200;
+    }
+  }
+}
+
+#conducting-paths {
+  & path {
+    fill: none;
+    fill-rule: nonzero;
+    stroke: white;
+    stroke-width: 4;
+  }
+}
