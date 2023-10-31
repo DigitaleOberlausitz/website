@@ -1,6 +1,6 @@
 import React from "react"
 
-import { useMousePosition } from "./use-mouse-position"
+import { useMousePosition } from "../../utils/use-mouse-position"
 import { useEffect, forwardRef, ForwardedRef, useRef } from "react"
 
 import "./interactive-logo.css"
