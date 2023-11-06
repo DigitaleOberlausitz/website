@@ -49,6 +49,9 @@ const config = {
               showCaptions: true,
             },
           },
+          {
+            resolve: "gatsby-remark-autolink-headers"
+          }
         ],
       },
     },
