@@ -106,7 +106,7 @@ export const createIcal = async ({
   })
 }
 
-const writeIcalFile = (content, icalTargetPath) => {
+function writeIcalFile(content: string, icalTargetPath: string): Promise<void>{
   const outputDir = path.dirname(icalTargetPath)
 
   if (!fs.existsSync(outputDir)) {

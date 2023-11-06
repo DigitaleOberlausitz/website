@@ -34,7 +34,7 @@
     "gatsby-source-filesystem": "^4.11.0",
     "gatsby-transformer-remark": "^5.11.0",
     "gatsby-transformer-sharp": "^4.11.0",
-    "ical-generator": "^3.4.1",
+    "ical-generator": "^6.0.0",
     "luxon": "^3.4.3",
     "mkdirp": "^1.0.4",
     "ramda": "^0.28.0",

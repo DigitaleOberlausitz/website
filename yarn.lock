@@ -7343,7 +7343,7 @@ __metadata:
     gatsby-source-filesystem: ^4.11.0
     gatsby-transformer-remark: ^5.11.0
     gatsby-transformer-sharp: ^4.11.0
-    ical-generator: ^3.4.1
+    ical-generator: ^6.0.0
     identity-obj-proxy: ^3.0.0
     jest: ^29.7.0
     luxon: ^3.4.3
@@ -10457,16 +10457,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ical-generator@npm:^3.4.1":
-  version: 3.4.3
-  resolution: "ical-generator@npm:3.4.3"
+"ical-generator@npm:^6.0.0":
+  version: 6.0.0
+  resolution: "ical-generator@npm:6.0.0"
   dependencies:
     uuid-random: ^1.3.2
   peerDependencies:
     "@touch4it/ical-timezones": ">=1.6.0"
     "@types/luxon": ">= 1.26.0"
     "@types/mocha": ">= 8.2.1"
-    "@types/node": ">= 15.0.0"
     dayjs: ">= 1.10.0"
     luxon: ">= 1.26.0"
     moment: ">= 2.29.0"
@@ -10491,7 +10490,7 @@ __metadata:
       optional: true
     rrule:
       optional: true
-  checksum: faee864927f7a548f5fd38d2714799864074878a549b9624f89795cf86e17782892a7282c879712472dd9ef0d40e4dfc067ea22b6c172701ec2abe6ae70baa77
+  checksum: 3e585c1eb6216547265c054a87a286244d734570dc51c265bfff1d271bd3d71e7a0bf2128a71b34b46872f886b71e00858c2f55d797fb63d2e65df4b7aa519b0
   languageName: node
   linkType: hard
 
