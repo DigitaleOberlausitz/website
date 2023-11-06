@@ -4165,10 +4165,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/luxon@npm:^2.3.1":
-  version: 2.3.2
-  resolution: "@types/luxon@npm:2.3.2"
-  checksum: b9fe79118681f4bb9f2e37696a7df992a82683ba4448e7ad1af8cc241443ffc64ef08fdeaad749de9e6259b42b0d4b6540d7e880bca39bb504e0f3863d503c98
+"@types/luxon@npm:^3.3.3":
+  version: 3.3.3
+  resolution: "@types/luxon@npm:3.3.3"
+  checksum: 072dd39eea3f63453788fab2fcfc83eb33917afcaffe178ce08ecd8b016824b8ab3bfa991f66266f2fc1927768a56b4334945f2eb1d83638e325c0c43d7d0e86
   languageName: node
   linkType: hard
 
@@ -7344,7 +7344,7 @@ __metadata:
     "@fortawesome/free-solid-svg-icons": ^6.4.2
     "@fortawesome/react-fontawesome": ^0.2.0
     "@types/jest": ^29.5.7
-    "@types/luxon": ^2.3.1
+    "@types/luxon": ^3.3.3
     anchorate: ^1.2.4
     babel-jest: ^29.7.0
     babel-preset-gatsby: ^2.11.1
@@ -7367,7 +7367,7 @@ __metadata:
     ical-generator: ^3.4.1
     identity-obj-proxy: ^3.0.0
     jest: ^29.7.0
-    luxon: ^2.3.1
+    luxon: ^3.4.3
     mkdirp: ^1.0.4
     prettier: ^2.6.2
     ramda: ^0.28.0
@@ -12562,10 +12562,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"luxon@npm:^2.3.1":
-  version: 2.5.0
-  resolution: "luxon@npm:2.5.0"
-  checksum: 2fccce6bbdfc8f13c5a8c148ff045ab3b10f4f80cac28dd92575588fffce9b2d7197096d7fedcc61a6245b59f4233507797f530e63f22b9ae4c425dff2909ae3
+"luxon@npm:^3.4.3":
+  version: 3.4.3
+  resolution: "luxon@npm:3.4.3"
+  checksum: 3eade81506224d038ed24035a0cd0dd4887848d7eba9361dce9ad8ef81380596a68153240be3988721f9690c624fb449fcf8fd8c3fc0681a6a8496faf48e92a3
   languageName: node
   linkType: hard
 
