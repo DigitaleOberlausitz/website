@@ -67,28 +67,26 @@ export const createPages: GatsbyNode["createPages"] = async ({ actions, graphql 
 const createNewsPages = async ({ actions, graphql }: Pick<CreatePagesArgs, "actions" | "graphql">) => {
   const { createPage } = actions
 
-  const result = await graphql(`
-    {
-      allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: { fields: { sourceName: { eq: "news" } } }
-      ) {
-        edges {
-          node {
-            id
-            frontmatter {
-              title
-              date
-            }
-            html
-            fields {
-              slug
-            }
-          }
+  const result = await graphql(`{
+  allMarkdownRemark(
+    sort: {frontmatter: {date: DESC}}
+    filter: {fields: {sourceName: {eq: "news"}}}
+  ) {
+    edges {
+      node {
+        id
+        frontmatter {
+          title
+          date
+        }
+        html
+        fields {
+          slug
         }
       }
     }
-  `)
+  }
+}`)
 
   const edges = (result.data as any).allMarkdownRemark.edges
 
@@ -114,28 +112,26 @@ const createNewsPages = async ({ actions, graphql }: Pick<CreatePagesArgs, "acti
 
 const createEventPages = async ({ actions, graphql }: Pick<CreatePagesArgs, "actions" | "graphql">) => {
   const { createPage } = actions
-  const result = await graphql(`
-    {
-      allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: { fields: { sourceName: { eq: "events" } } }
-      ) {
-        edges {
-          node {
-            id
-            frontmatter {
-              title
-              date
-            }
-            html
-            fields {
-              slug
-            }
-          }
+  const result = await graphql(`{
+  allMarkdownRemark(
+    sort: {frontmatter: {date: DESC}}
+    filter: {fields: {sourceName: {eq: "events"}}}
+  ) {
+    edges {
+      node {
+        id
+        frontmatter {
+          title
+          date
+        }
+        html
+        fields {
+          slug
         }
       }
     }
-  `)
+  }
+}`)
 
   const edges = (result.data as any).allMarkdownRemark.edges
 

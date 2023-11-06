@@ -4,9 +4,20 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { renderAst } from "../utils/custom-components"
 
-export default ({ data }) => {
+type Props = {
+  data: {
+    markdownRemark: {
+      htmlAst: any
+      frontmatter: {
+        title: string
+        date: string
+      }
+    }
+  }
+}
+
+export default ({ data }: Props) => {
   const {
-    html,
     htmlAst,
     frontmatter: { title, date },
   } = data.markdownRemark
@@ -19,9 +30,7 @@ export default ({ data }) => {
             <time dateTime={date}>{date}</time>
           </strong>
         </header>
-        <div>
-          {renderAst(htmlAst)}
-        </div>
+        <div>{renderAst(htmlAst)}</div>
       </article>
     </Layout>
   )

@@ -152,7 +152,7 @@ const ListEntry = ({ children, icon, date }) => (
 )
 
 export const query = graphql`
-  query {
+  {
     jugEvents: allAtomEntry {
       edges {
         node {
@@ -163,9 +163,8 @@ export const query = graphql`
         }
       }
     }
-
     events: allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
       filter: { fields: { sourceName: { eq: "events" } } }
     ) {
       edges {

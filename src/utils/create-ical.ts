@@ -40,18 +40,10 @@ export const createIcal = async ({
   icalName: string
   icalTimezone?: string
 }) => {
-  return graphql(`
-    {
-      events: allMarkdownRemark(
-        sort: {fields: [frontmatter___date], order:DESC}
-        filter: {
-    	    fields: { 
-                sourceName: { eq: "events"}
-            }
-            frontmatter: {
-                ical: { eq: "${icalFrontmatterName}"}
-            }
-        }
+  return graphql(`{
+  events: allMarkdownRemark(
+    sort: {frontmatter: {date: DESC}}
+    filter: {fields: {sourceName: {eq: "events"}}, frontmatter: {ical: {eq: "${icalFrontmatterName}"}}}
   ) {
     edges {
       node {
@@ -68,8 +60,7 @@ export const createIcal = async ({
       }
     }
   }
-    }
-  `).then((result) => {
+}`).then((result) => {
     if (result.errors) {
       return Promise.reject(result.errors)
     }
@@ -106,7 +97,7 @@ export const createIcal = async ({
   })
 }
 
-function writeIcalFile(content: string, icalTargetPath: string): Promise<void>{
+function writeIcalFile(content: string, icalTargetPath: string): Promise<void> {
   const outputDir = path.dirname(icalTargetPath)
 
   if (!fs.existsSync(outputDir)) {
