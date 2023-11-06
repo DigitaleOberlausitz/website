@@ -7,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import PageHeader from "./page-header"
 import PageFooter from "./page-footer"
 
-import "../style/style.css"
+import "../style/style.scss"
 
 const Layout: FC<PropsWithChildren> = ({ children }) => {
   return (
