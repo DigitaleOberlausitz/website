@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkdigitale_oberlausitz_ev=self.webpackChunkdigitale_oberlausitz_ev||[]).push([[386],{5902:function(e,t,a){a.r(t);var l=a(7294),r=a(1658),u=a(441);t.default=function(e){var t=e.data.markdownRemark.htmlAst;return l.createElement(u.Z,null,(0,r.i)(t))}}}]);
-//# sourceMappingURL=component---src-templates-static-page-tsx-e980395f02af94119e3f.js.map
