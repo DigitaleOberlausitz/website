@@ -67,28 +67,35 @@ export const createPages: GatsbyNode["createPages"] = async ({ actions, graphql 
 const createNewsPages = async ({ actions, graphql }: Pick<CreatePagesArgs, "actions" | "graphql">) => {
   const { createPage } = actions
 
-  const result = await graphql(`{
-  allMarkdownRemark(
-    sort: {frontmatter: {date: DESC}}
-    filter: {fields: {sourceName: {eq: "news"}}}
-  ) {
-    edges {
-      node {
-        id
-        frontmatter {
-          title
-          date
-        }
-        html
-        fields {
-          slug
+  const result = await graphql(`
+    {
+      allMarkdownRemark(
+        sort: { frontmatter: { date: DESC } }
+        filter: { fields: { sourceName: { in: ["news", "events"] } } }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              title
+              date
+              show_as_news
+            }
+            html
+            fields {
+              slug
+              sourceName
+            }
+          }
         }
       }
     }
-  }
-}`)
+  `)
 
-  const edges = (result.data as any).allMarkdownRemark.edges
+  const edges = (result.data as any).allMarkdownRemark.edges.filter(({ node }) =>
+    // we also want to show events that are marked with "show_as_news"
+    node.fields.sourceName === "events" ? !!node.frontmatter.show_as_news : true
+  )
 
   createPaginatedPage({
     edges: edges,
@@ -112,26 +119,25 @@ const createNewsPages = async ({ actions, graphql }: Pick<CreatePagesArgs, "acti
 
 const createEventPages = async ({ actions, graphql }: Pick<CreatePagesArgs, "actions" | "graphql">) => {
   const { createPage } = actions
-  const result = await graphql(`{
-  allMarkdownRemark(
-    sort: {frontmatter: {date: DESC}}
-    filter: {fields: {sourceName: {eq: "events"}}}
-  ) {
-    edges {
-      node {
-        id
-        frontmatter {
-          title
-          date
-        }
-        html
-        fields {
-          slug
+  const result = await graphql(`
+    {
+      allMarkdownRemark(sort: { frontmatter: { date: DESC } }, filter: { fields: { sourceName: { eq: "events" } } }) {
+        edges {
+          node {
+            id
+            frontmatter {
+              title
+              date
+            }
+            html
+            fields {
+              slug
+            }
+          }
         }
       }
     }
-  }
-}`)
+  `)
 
   const edges = (result.data as any).allMarkdownRemark.edges
 

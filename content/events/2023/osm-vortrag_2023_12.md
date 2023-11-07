@@ -1,11 +1,10 @@
 ---
-title: "Open-Street-Map - Vortrag"
+title: "Vortrag: Einführung in OpenStreetMap"
 date: "2023-12-06"
 location: "Hochschule Görlitz, Brückenstraße 1, Raum 010"
 icon: "logo_transparent.png"
+show_as_news: true
 ---
-
-# Einführung in OpenStreetMap
 
 Ort: Hochschule Zittau/Görlitz, Fachbereich Informatik  
 Brückenstraße 1, Raum 010  
