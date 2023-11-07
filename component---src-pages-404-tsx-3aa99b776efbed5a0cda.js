@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkdigitale_oberlausitz_ev=self.webpackChunkdigitale_oberlausitz_ev||[]).push([[218],{7735:function(e,t,l){l.r(t);var i=l(7294),n=l(4543);t.default=function(){return i.createElement(n.Z,null,i.createElement("h1",null,"404 - NOT FOUND"),i.createElement("p",null,"Diese Seite existiert nicht."))}}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-3aa99b776efbed5a0cda.js.map
