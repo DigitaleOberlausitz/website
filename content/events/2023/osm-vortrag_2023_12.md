@@ -7,7 +7,8 @@ show_as_news: true
 ---
 
 Ort: Hochschule Zittau/Görlitz, Fachbereich Informatik  
-Brückenstraße 1, Raum 010  
+Brückenstraße 1, Raum 010 
+02826 Görlitz 
 Zeit: 06.12.2023 um 19:00 Uhr
 
 Der Eintritt ist frei, für Snacks und Getränke ist gesorgt.
