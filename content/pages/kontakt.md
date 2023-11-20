@@ -19,7 +19,7 @@ Wie du mit uns in Kontakt treten kannst? Hier erfährst du es!
 
 ## Persönlich bei lokalen Veranstaltungen
 
-Wenn du uns persönlich treffen möchtest, komm einfach bei einer unserer [Veranstaltungen](/veranstaltungen) vorbei und sprich uns an.
+Wenn du uns persönlich treffen möchtest, komm einfach bei einer unserer [Veranstaltungen](/events) vorbei und sprich uns an.
 
 # Spenden
 
