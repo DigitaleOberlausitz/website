@@ -1,5 +1,5 @@
 ---
-title: "Game Release Party "Hilbert's Holidays"
+title: "Game Release Party Hilbert's Holidays"
 date: "2023-11-21"
 icon: "logo_kolabor.png"
 location: "KoLABORacja e.V., Hospitalstraße 29, 02826 Görlitz"
