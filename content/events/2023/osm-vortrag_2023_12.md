@@ -15,6 +15,8 @@ Der Eintritt ist frei, für Snacks und Getränke ist gesorgt.
 
 Der Vortrag richtet sich an alle interessierten Personen. Technisches Know-How ist nicht notwendig.
 
+![Poster Vortrag Open Street Map](../../images/OSM-Vortrag-12-2023.png)
+
 # Thema
 
 OpenStreetMap (https://www.openstreetmap.org/) ist eine freie Weltkarte. Das Projekt begann als Straßenkarte. Inzwischen
