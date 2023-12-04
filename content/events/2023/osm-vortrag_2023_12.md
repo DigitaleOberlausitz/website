@@ -20,8 +20,8 @@ Der Vortrag richtet sich an alle interessierten Personen. Technisches Know-How i
 # Thema
 
 OpenStreetMap (https://www.openstreetmap.org/) ist eine freie Weltkarte. Das Projekt begann als Straßenkarte. Inzwischen
-ist es die größte Geodatenbank der Welt, die unter einer freien Lizenz steht. Daraus können Karten für Radfahrer,
-Wanderer, Segler, Skifahrer und viele Spezialkarten für besondere Interessengruppen erstellt werden.
+ist es die größte Geodatenbank der Welt, die unter einer freien Lizenz steht. Daraus können Karten für Radfahrende, zum
+Wandern, Segeln, Skifahren und viele Spezialkarten für besondere Interessengruppen erstellt werden.
 
 Der Vortrag zeigt die vielfältigen Nutzungsmöglichkeiten von OpenStreetMap anhand von ausgesuchten Beispiel-Karten und
 stellt Apps zur mobilen Nutzung vor, die teilweise sogar offline voll funktionsfähig sind. Darüber hinaus gibt er einen
