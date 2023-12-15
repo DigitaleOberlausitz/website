@@ -33,6 +33,9 @@ Android-Apps zur Datenerfassung und -aktualisierung im Feld.
 Im Anschluss ist Zeit für individuelle Fragen und Austausch vorgesehen und es darf die Frage diskutiert werden, ob es
 Bedarf an einem regelmäßigen Treffen für OSM-Interessierte und Aktive in Görlitz gibt.
 
+
+Die Folien vom Vortrag findet ihr hier: http://osm.sebastian-klemm.eu/stammtisch-zittau/20231206_OSM-Vortrag_DigitaleOL_v2.pdf
+
 # Zum Vortragenden
 
 Sebastian Klemm ist derzeit als Software-Entwickler für Webanwendungen tätig. Seit 2008 ist er bei OpenStreetMap aktiv
