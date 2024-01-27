@@ -1,6 +1,6 @@
 ---
 title: "Chaostreff Januar 2024"
-date: "2023-01-12"
+date: "2024-01-12"
 ical: 'chaostreff-goerlitz'
 location: "Krishna, Dr.-Friedrichs-Straße 3, 02826 Görlitz"
 startTime: "19:00"
