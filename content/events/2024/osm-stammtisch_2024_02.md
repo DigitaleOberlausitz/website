@@ -6,6 +6,8 @@ icon: "logo_transparent.png"
 show_as_news: true
 ---
 
+![](../../images/2024-02-19-osm-stammtisch-sharepic.jpeg)
+
 Ort: Hochschule Zittau/Görlitz, Fachbereich Informatik  
 Brückenstraße 1, Raum 010  
 02826 Görlitz  
