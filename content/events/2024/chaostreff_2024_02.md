@@ -1,5 +1,5 @@
 ---
-title: "Chaostreff Januar 2024"
+title: "Chaostreff Februar 2024"
 date: "2024-02-02"
 ical: 'chaostreff-goerlitz'
 location: "Ristorante da Vinci, Demianiplatz 54, 02826 Görlitz"
