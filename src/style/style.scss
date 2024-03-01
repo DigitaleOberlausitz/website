@@ -30,3 +30,8 @@ a {
 .news-article header {
   margin-bottom: 1rem;
 }
+
+p + h2,
+p + h3 {
+  margin-top: 2rem;
+}
