@@ -7,28 +7,29 @@ X-WR-CALNAME:Chaostreff Görlitz
 TIMEZONE-ID:Europe/Berlin
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:521ebd41-0561-4254-8f36-66cb90553d08
+UID:b27f972b-1bc6-45fd-92af-a84730bf59d6
 SEQUENCE:0
-DTSTAMP:20240328T123607
-DTSTART:20240405T190000
+DTSTAMP:20240402T184838
+DTSTART:20240405T184500
 DTEND:20240405T213000
 SUMMARY:Chaostreff April 2024
 LOCATION:Salü\, Schwarze Straße 7\, 02826 Görlitz
-DESCRIPTION:Hallo zusammen\, Unser nächster Chaostreff wird am 5. April 2
- 024\, 19 Uhr stattfinden!\nDazu möchten wir uns im Salü\, Schwarze Stra
- ße 7\, 0282…
-X-ALT-DESC;FMTTYPE=text/html:<p>Hallo zusammen\,</p>\n<p>Unser nächster C
- haostreff wird am 5. April 2024\, 19 Uhr stattfinden!\nDazu möchten wir u
- ns im Salü\, Schwarze Straße 7\, 02826 Görlitz treffen.</p>\n<p>Trag di
- ch doch bitte bis 31.03.2024 in folgende Umfrage ein\, wenn du dabei sein 
- möchtest: <a href="https://nuudel.digitalcourage.de/fpG5IbXqNGvNe51v">htt
- ps://nuudel.digitalcourage.de/fpG5IbXqNGvNe51v</a></p>\n<p>Bis dahin!\nMar
- lene vom Chaostreff</p>
+DESCRIPTION:Update 02.04.2024:\nStart ist schon um 18:45 Uhr! Hallo zusamm
+ en\, Unser nächster Chaostreff wird am 5. April 2024\, 18:45 Uhr stattfin
+ den…
+X-ALT-DESC;FMTTYPE=text/html:<p>Update 02.04.2024:\nStart ist schon um 18:
+ 45 Uhr!</p>\n<p>Hallo zusammen\,</p>\n<p>Unser nächster Chaostreff wird a
+ m 5. April 2024\, 18:45 Uhr stattfinden!\nDazu möchten wir uns im Salü\,
+  Schwarze Straße 7\, 02826 Görlitz treffen.</p>\n<p>Trag dich doch bitte
+  bis 31.03.2024 in folgende Umfrage ein\, wenn du dabei sein möchtest: <a
+  href="https://nuudel.digitalcourage.de/fpG5IbXqNGvNe51v">https://nuudel.d
+ igitalcourage.de/fpG5IbXqNGvNe51v</a></p>\n<p>Bis dahin!\nMarlene vom Chao
+ streff</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:532a9677-b661-4bac-b888-90c1869c2b92
+UID:f21cbdc3-c3f7-4ca4-9c3f-90daf56e1c75
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20240308T190000
 DTEND:20240308T213000
 SUMMARY:Chaostreff März 2024
@@ -45,9 +46,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Hallo zusammen\,</p>\n<p>unser nächster C
  lene vom Chaostreff</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:3a931a40-7544-4ade-a40b-9a4e4e8cb49b
+UID:def102d0-45a8-41db-ae88-1129ff29b672
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20240202T193000
 DTEND:20240202T213000
 SUMMARY:Chaostreff Februar 2024
@@ -67,9 +68,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Update (30.01.2024): Wir treffen uns erst
  ></p>\n<p>Ich freue mich auf euch!</p>\n<p>Marlene vom Chaostreff</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:008faaa1-40d0-4536-8e1b-33b0da0e8c40
+UID:559edd5c-2b26-475e-bfba-e35590c63d97
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20240112T190000
 DTEND:20240112T213000
 SUMMARY:Chaostreff Januar 2024
@@ -86,9 +87,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Ein frohes neues Jahr euch!</p>\n<p>Wir st
  de/gMObrcGfxf8wzJe7</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:32abd06b-59d8-4138-be03-bbf30bb9a249
+UID:e07be688-dc2e-4fee-b15a-c2e1364ebfaf
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20231208T190000
 DTEND:20231208T213000
 SUMMARY:Chaostreff September 2023
@@ -107,9 +108,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>UPDATE 5.12.2023</p>\n<p>Der Chaostreff w
  z3f3dsZiZmSU</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:495b8e00-0b25-4d96-8d5b-9ca81ac34987
+UID:8aaebeb0-d960-47df-9a31-1a772bea87d3
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20231110T190000
 DTEND:20231110T213000
 SUMMARY:Chaostreff November 2023
@@ -127,9 +128,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Unser nächster Chaostreff wird am 10. Nov
  h58Ic3gt</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:3a72fe62-7f9d-42ac-839d-6a52cba3115d
+UID:6ffda3c0-23c1-46b7-be2c-b1bd1ce77288
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20231013T183000
 DTEND:20231013T213000
 SUMMARY:Chaostreff Oktober 2023
@@ -145,9 +146,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>UPDATE 09. Oktober 2023: Wir treffen uns s
  alcourage.de/Pz9kXVYVVzJLIlLx</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:e5c7d2fe-f642-4606-b6e0-8a8e040f404d
+UID:572539db-2d14-4f25-9c0a-78b06bc5264e
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20230901T190000
 DTEND:20230901T213000
 SUMMARY:Chaostreff September 2023
@@ -159,9 +160,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>UPDATE 30.08.2023</p>\n<p>Wir treffen uns
  Uhr!</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5f9ed4dc-b80b-4374-8767-9426e12cebb6
+UID:45e89468-083b-4965-a140-581f764d44ae
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20230714T190000
 DTEND:20230714T213000
 SUMMARY:Chaostreff Juli 2023
@@ -179,9 +180,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Da am nächsten Freitag Via Thea ist (das
  ://nuudel.digitalcourage.de/mzkAxZGsfsM14Hg4</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:9342e7b4-123f-45ae-8594-5f1883e6cb74
+UID:8f572ac1-b5e6-4398-bd7b-2be6d9a4538a
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20230602T190000
 DTEND:20230602T213000
 SUMMARY:Chaostreff Juni 2023
@@ -196,9 +197,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Der nächste Chaostreff ist wieder am erst
  xinchaorestaurant.de/</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5c1ffada-0b44-4f17-ae28-8bc00205e613
+UID:4f34e4d2-e567-4720-90eb-7b130d941148
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20230512T190000
 DTEND:20230512T213000
 SUMMARY:Chaostreff Mai 2023
@@ -212,9 +213,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Der Mai bereitet uns - wie auch schon die
  chs-Straße 3\, 02826 Görlitz.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:164d4029-0731-4a11-a775-bd1e3c5b621d
+UID:b621e65e-845c-4143-a261-d7518766ea4b
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20230414T190000
 DTEND:20230414T213000
 SUMMARY:Chaostreff April 2023
@@ -233,9 +234,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Aufgrund der kommenden Feiertage verschieb
  </a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:c65a3820-9d01-4fd2-8d69-c9e7fc3be0e0
+UID:48b310d1-211e-4197-8206-9d7877790a48
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20230310T191500
 DTEND:20230310T213000
 SUMMARY:Chaostreff März 2023
@@ -252,9 +253,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Liebe Alle!</p>\n<p>Wir treffen uns das n
  vom Chaostreff</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:b211f00c-ec5e-462e-8890-dcf814d10c26
+UID:e5882d3c-0689-4a60-833f-eaa3a1d6cacd
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20230203T190000
 DTEND:20230203T213000
 SUMMARY:Chaostreff Februar 2023
@@ -267,9 +268,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Am kommenden Freitag\, den 3. Februar 2023
  p>Bis dahin!\nMarlene</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:812167b0-1d9c-4e32-b696-7397de81af1e
+UID:69c116e9-217b-49c7-ba12-65eb4f0e1afc
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20230113T190000
 DTEND:20230113T213000
 SUMMARY:Chaostreff Januar 2023
@@ -287,9 +288,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Frohes neues Jahr!</p>\n<p>Der Einstieg in
  Chaostreff</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:29a522a7-acdc-4062-99a6-3ca0efe311c0
+UID:d302fe99-0fd9-4882-87c5-8c73f654efe3
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20221202T193000
 DTEND:20221202T213000
 SUMMARY:Chaostreff Dezember 2022
@@ -308,9 +309,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Update: Wir treffen uns erst 19:30 Uhr!</p
  ></p>\n<p>Marlene</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:e48e33d1-9479-4588-8fd3-de14ad4ee8ba
+UID:cfd25a91-8ac1-4f64-8fe8-541b0cae84b3
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20221104T190000
 DTEND:20221104T213000
 SUMMARY:Chaostreff November 2022
@@ -328,9 +329,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Der nächste Chaostreff steht an!\nTermin
  ge.de/3hz4qR1Xb5u21SCH</a></p>\n<p>Marlene</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:cc4a2beb-2881-4245-8f33-66c771247baf
+UID:726b946c-8406-4b59-9ce0-5b2b59dae66e
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20221007T190000
 DTEND:20221007T213000
 SUMMARY:Chaostreff Oktober 2022
@@ -345,9 +346,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Am 7. Oktober 2022 wollen wir ins Restaura
  alcourage.de/vI17coOWe6rtjeOP</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:be863b45-1919-40e3-a4eb-6cf5f89cc6d6
+UID:d1a261af-f66e-4822-9f7f-e5cbbcde1ba6
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20220902T190000
 DTEND:20220902T213000
 SUMMARY:Chaostreff September 2022
@@ -364,9 +365,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Am 2. September 2022\, 19 Uhr ist wieder C
  p>Bitte meldet euch bis zum 31.08. (Mittwoch) an.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:aba04f0a-c6a4-479d-aa4d-f95c23cab363
+UID:3b77012d-10d4-4c07-8a9b-9cdb50f36756
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20220805T190000
 DTEND:20220805T213000
 SUMMARY:Chaostreff August 2022
@@ -386,9 +387,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Am 5. August 2022\, 19 Uhr ist wieder Chao
  ) an.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:39ec38ad-d915-4494-a4a7-2e7bbedac27f
+UID:d29f41ff-3fb9-4263-bc25-278e5069b15a
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20220715T190000
 DTEND:20220715T213000
 SUMMARY:Chaostreff Juli 2022
@@ -404,9 +405,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Wir wollen uns am 15.07.2022 um 19:00 Uhr
  bPYgb</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:db71c51b-d8fa-4b79-aba9-c47d7029f450
+UID:916eb7a4-c2e9-4ee6-915b-f46f2cba9ceb
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20220506T193000
 DTEND:20220506T213000
 SUMMARY:Chaostreff Mai 2022
@@ -422,9 +423,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Wir wollen uns am 6.5. 2022 um 19:30 Uhr i
  t</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:efb3dff7-02bd-4320-8d10-4207dc0d6a21
+UID:657a56d5-88fa-4518-baca-2f3d7ab92ecb
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20220401T190000
 DTEND:20220401T213000
 SUMMARY:Chaostreff (Virtueller Stammtisch) April 2022
@@ -439,9 +440,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>UPDATE (31.03.2022)</p>\n<p>Aus organisato
  treff</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:14a0f3cb-fbd8-46b6-adee-9aaf63d020e8
+UID:9b8c5de1-88d1-4bb6-8573-f2fe949cd664
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20220304T190000
 DTEND:20220304T213000
 SUMMARY:Chaostreff März 2022
@@ -454,9 +455,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Dieses Mal wollen wir uns wieder vor Ort t
  t die geltenden Hygieneauflagen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:0c72b816-68ce-49a8-8e4f-252a23822417
+UID:431b7acb-7e6d-4de2-a2d7-382924e436c2
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20220204T190000
 DTEND:20220204T213000
 SUMMARY:Chaostreff (Virtueller Stammtisch) Februar 2022
@@ -470,9 +471,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:99844c35-30ce-4c4d-9ff1-05d4401ba9e3
+UID:4392e9ff-919d-415d-aa43-de4138906fd6
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20220105T190000
 DTEND:20220105T213000
 SUMMARY:Chaostreff (Virtueller Stammtisch) Januar 2022
@@ -486,9 +487,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:d15b8743-7d41-4532-b78d-cde04d0926ac
+UID:3f661123-b213-405b-97d9-8dfef661a85f
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20211210T190000
 DTEND:20211210T213000
 SUMMARY:Chaostreff (Virtueller Stammtisch) Dezember 2021
@@ -502,9 +503,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:736dc861-48f1-4306-980c-38dd3aadebda
+UID:95331695-61ce-4733-9d1c-ad3a6cae9b28
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20211105T190000
 DTEND:20211105T213000
 SUMMARY:Chaostreff November 2021
@@ -518,9 +519,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  die geltenden Hygieneauflagen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:7fe3454a-8b6b-4b6c-90ea-eca134df663c
+UID:3e1f8002-af2f-48d9-8d0d-8524d9ad958f
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20211029T190000
 DTEND:20211029T213000
 SUMMARY:Chaostreff Oktober 2021
@@ -534,9 +535,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  nden Hygieneauflagen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:3ec83ea6-2666-4b12-ab49-9b972bfc1131
+UID:ddf1c16a-bcd9-48b7-94d2-8a9153cbc0ef
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20210910T190000
 DTEND:20210910T213000
 SUMMARY:Chaostreff September 2021
@@ -550,9 +551,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  enden Hygieneauflagen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:2ac15b47-ded2-4d59-96d0-176f2024beae
+UID:2e4a294c-17b4-4a4c-a84e-964befd1a1cf
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20210806T193000
 DTEND:20210806T213000
 SUMMARY:Chaostreff August 2021
@@ -566,9 +567,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  en Hygieneauflagen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:ea27c4ee-f1e2-4b51-911f-e6156c71d4e6
+UID:5749167d-6411-4c43-ad93-561a07d37cd9
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20210709T190000
 DTEND:20210709T213000
 SUMMARY:Chaostreff Juli 2021
@@ -582,9 +583,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  agen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:9b7830d3-c95e-487e-b666-dfb4528a7811
+UID:a2c6772c-abba-4e73-a7b7-ebf7dd066c45
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20210604T190000
 DTEND:20210604T213000
 SUMMARY:Chaostreff (Virtueller Stammtisch) Juni 2021
@@ -598,9 +599,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:fed644c8-23ed-4727-a635-2fbaf8d96925
+UID:dd5e6d2f-f22d-451e-9978-6d60139563ff
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20210507T190000
 DTEND:20210507T213000
 SUMMARY:Chaostreff (Virtueller Stammtisch) Mai 2021
@@ -614,9 +615,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:0c969e1b-8d1a-4679-9cf1-5645c9f0dbb1
+UID:5fbb3f35-bf96-4acd-afe8-bdf5e0302fb3
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20210409T190000
 DTEND:20210409T213000
 SUMMARY:Chaostreff (Virtueller Stammtisch) April 2021
@@ -630,9 +631,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:269aa2d3-32a9-49ba-ab40-ed1e9b61000c
+UID:9aa2a0d6-52e7-4eda-89b3-d6aa8b98c637
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20210305T190000
 DTEND:20210305T213000
 SUMMARY:Chaostreff (Virtueller Stammtisch) März 2021
@@ -646,9 +647,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Für diesen Stammtisch treffen wir uns auf
  aostreff">https://meet.digitale-oberlausitz.eu/chaostreff</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:211c4aca-f76a-4d8e-88fd-c34f69d0aa22
+UID:f470ec26-f002-4bc8-a5d0-fa3f30b97b46
 SEQUENCE:0
-DTSTAMP:20240328T123607
+DTSTAMP:20240402T184838
 DTSTART:20210205T190000
 DTEND:20210205T213000
 SUMMARY:Virtueller Stammtisch (Chaostreff) Februar 2021
