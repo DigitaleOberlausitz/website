@@ -5,6 +5,7 @@ location: "Langenstraße 23, 02826 Görlitz, Raum 15"
 startTime: "17:00"
 endTime: "18:30"
 icon: "logo_vhs_goerlitz.png"
+show_as_news: true
 ---
 
 Unser Vereinsmitglied Marco Gotthans hält einen Vortrag für die Volkshochschule Görlitz zum Thema "ChatGPT, Alexa und
