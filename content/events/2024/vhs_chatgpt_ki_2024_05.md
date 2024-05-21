@@ -17,7 +17,10 @@ Co: KI im Alltag".
 > besucht werden. Um Anmeldung wird gebeten.
 
 Wann: 28.05.2024 von 17:00 Uhr bis 18:30 Uhr  
-Wo: VHS Görlitz, Langenstraße 23, 02826 Görlitz, Raum 15
+Wo:  
+VHS Görlitz, Raum 15  
+Langenstraße 23  
+02826 Görlitz
 
 Die Organisation und Buchung des Kurses läuft über die VHS. Bitte unbedingt vorher buchen.  
 Link zum Kurs: https://www.vhs-goerlitz.de/suche/kursdetails.html?courseId=595-C-24F53207
