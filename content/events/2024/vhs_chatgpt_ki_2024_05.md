@@ -1,12 +1,13 @@
 ---
-title: "VHS Vortrag: ChatGPT, Alexa und Co: KI im Alltag "
+title: "Entfällt - VHS Vortrag: ChatGPT, Alexa und Co: KI im Alltag "
 date: "2024-05-28"
 location: "Langenstraße 23, 02826 Görlitz, Raum 15"
 startTime: "17:00"
 endTime: "18:30"
 icon: "logo_vhs_goerlitz.png"
-show_as_news: true
 ---
+
+**Dieser Vortrag fällt leider aus!**
 
 Unser Vereinsmitglied Marco Gotthans hält einen Vortrag für die Volkshochschule Görlitz zum Thema "ChatGPT, Alexa und
 Co: KI im Alltag".
