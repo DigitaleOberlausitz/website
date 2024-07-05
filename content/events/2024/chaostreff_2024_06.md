@@ -2,7 +2,7 @@
 title: "Chaostreff Juni 2024"
 date: "2024-06-07"
 ical: 'chaostreff-goerlitz'
-location: "Namaste India, Dresdener Straße 4, 02826 Görlitz"
+location: "Salumeria Casa Italiana, Brüderstraße 14,, 02826 Görlitz"
 startTime: "18:00"
 endTime: "21:00"
 ---
