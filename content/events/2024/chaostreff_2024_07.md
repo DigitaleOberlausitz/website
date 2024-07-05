@@ -1,5 +1,5 @@
 ---
-title: "Chaostreff April 2024"
+title: "Chaostreff Juli 2024"
 date: "2024-07-12"
 ical: 'chaostreff-goerlitz'
 location: "Salü, Schwarze Straße 7, 02826 Görlitz"
