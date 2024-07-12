@@ -16,8 +16,9 @@ Unser Vereinsmitglied Manuel Mauky hält einen Vortrag für die Volkshochschule 
 > aussehen und wie man sich schützen kann. Auch die sichere Speicherung von Passwörtern spielt eine wichtige Rolle in
 > dem Kurs. Der Kurs kann mit der vhsCard besucht werden. Um Anmeldung wird gebeten.
 
-Wann: 04.03.2024 von 17:00 Uhr bis 18:30 Uhr  
-Wo:  
+Zeit: 04.03.2024 von 17:00 Uhr bis 18:30 Uhr  
+
+Ort:  
 VHS Görlitz, Raum 15  
 Langenstraße 23  
 02826 Görlitz  

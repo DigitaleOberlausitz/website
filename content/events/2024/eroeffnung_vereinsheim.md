@@ -1,5 +1,5 @@
 ---
-title: "VHS Eröffnungsfeier zum Vereinsheim des Digitale Oberlausitz e. V."
+title: "Eröffnungsfeier zum Vereinsheim des Digitale Oberlausitz e. V."
 date: "2024-08-02"
 location: "Lutherstraße 50, 02826 Görlitz, Ladengeschäfft an der Ecke"
 startTime: "17:00"
@@ -7,10 +7,12 @@ icon: "logo_transparent.png"
 show_as_news: true
 ---
 
-Wir laden am 02.08.2024 ab 17:00 Uhr herzlich zur Eröffnungsveranstaltung unseres neuen [Vereinsheims](https://www.openstreetmap.org/?mlat=51.14581&mlon=14.97133#map=19/51.14581/14.97133) ein. Lasst uns bei (veganen und vegetarischen) Häppchen und Getränken über das bisher Erreichte und neue Ideen und Ziele sprechen. Es sind nicht nur Vereinsmitglieder, sondern auch ausdrücklich alle Bekannten und Interessierten eingeladen. Gemeinsam wollen wir dieses Vereinsheim als Ort für Austausch, Kreativität, Fleiß, Spaß und Witz einweihen!
+Wir laden am 02.08.2024 ab 17:00 Uhr herzlich zur Eröffnungsveranstaltung unseres neuen [Vereinsheims](https://www.openstreetmap.org/?mlat=51.14581&mlon=14.97133#map=19/51.14581/14.97133) ein. Lasst uns bei Häppchen und Getränken über das bisher Erreichte und neue Ideen und Ziele sprechen. Es sind nicht nur Vereinsmitglieder, sondern auch ausdrücklich alle Bekannten und Interessierten eingeladen. Gemeinsam wollen wir dieses Vereinsheim als Ort für Austausch, Kreativität, Fleiß, Spaß und Witz einweihen!
 
-Wann: 02.08.2024 ab 17:00 Uhr
-Wo: [Lutherstraße 50 (Eckhaus, Ladengeschäft mit großen Fenstern an der Ecke), 02826 Görlitz](https://www.openstreetmap.org/?mlat=51.14581&mlon=14.97133#map=19/51.14581/14.97133 "Eintrag der Adresse auf Open Street Maps")
+Zeit: 02.08.2024 ab 17:00 Uhr
+
+Ort: 
+[Lutherstraße 50 (Eckhaus, Ladengeschäft mit großen Fenstern an der Ecke), 02826 Görlitz](https://www.openstreetmap.org/?mlat=51.14581&mlon=14.97133#map=19/51.14581/14.97133 "Eintrag der Adresse auf Open Street Maps")
 
 <!--more-->
 
