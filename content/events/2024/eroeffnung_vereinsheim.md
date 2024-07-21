@@ -9,6 +9,8 @@ show_as_news: true
 
 Wir laden am 02.08.2024 ab 17:00 Uhr herzlich zur Eröffnungsveranstaltung unseres neuen [Vereinsheims](https://www.openstreetmap.org/?mlat=51.14581&mlon=14.97133#map=19/51.14581/14.97133) ein. Lasst uns bei Häppchen und Getränken über das bisher Erreichte und neue Ideen und Ziele sprechen. Es sind nicht nur Vereinsmitglieder, sondern auch ausdrücklich alle Bekannten und Interessierten eingeladen. Gemeinsam wollen wir dieses Vereinsheim als Ort für Austausch, Kreativität, Fleiß, Spaß und Witz einweihen!
 
+![](../../images/2024-08-02 - Vereinsheimeroeffnung.jpg)
+
 Zeit: 02.08.2024 ab 17:00 Uhr
 
 Ort: 
