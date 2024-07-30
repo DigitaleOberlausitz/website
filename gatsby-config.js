@@ -44,7 +44,7 @@ const config = {
           {
             resolve: "gatsby-remark-images",
             options: {
-              maxWidth: 600,
+              maxWidth: 800,
               linkImagesToOriginal: true,
               showCaptions: true,
             },

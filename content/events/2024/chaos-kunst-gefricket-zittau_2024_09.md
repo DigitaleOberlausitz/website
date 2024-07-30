@@ -1,5 +1,5 @@
 ---
-title: "ChaosKunstGefrickel - Veranstaltung vom Polytechnischem Werkraum Zittau"
+title: "ChaosKunstGefrickel - Veranstaltung vom Polytechnischen Werkraum Zittau"
 date: "2024-09-07"
 location: "Innere Weberstraße 16, 02763 Zittau"
 startTime: "14:00"
@@ -8,10 +8,9 @@ icon: "werkraum_zittau_logo.png"
 show_as_news: true
 ---
 
-<div style="display: flex">
-<img alt="Logo vom Freiraum Zittau" src="../../images/werkraum_zittau_logo.png" />
-</div>
-
+<a href="https://chaoskunstgefrickel.werkraum.space/">
+    <img alt="Veranstaltungsflyer (Hintergrund-Motiv: Maik Sobetzko/Nachbarladen)" src="../../images/2024-09-07-flyer-10-jahre-werkraum.png" />
+</a>
 
 Unsere Freunde vom Polytechnischen Werkraum Zittau feiern ihr 10-jähriges Bestehen und wir möchten die Einladung gerne
 teilen:
@@ -24,7 +23,7 @@ teilen:
 **Termin**: Samstag 07.09.2024
 
 **Adresse**:
-[Innere Weberstraße 17, 02763 Zitta](https://www.openstreetmap.org/?mlat=50.89725&mlon=14.80431#map=19/50.89725/14.80431)
+[Innere Weberstraße 17, 02763 Zittau](https://www.openstreetmap.org/?mlat=50.89725&mlon=14.80431#map=19/50.89725/14.80431)
 
 Weitere Infos findet ihr unter:
 
