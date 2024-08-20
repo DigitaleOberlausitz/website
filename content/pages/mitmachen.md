@@ -9,9 +9,11 @@ Die Arbeit des Vereins lebt von den Menschen, die sich engagieren. Es gibt viele
 
 ## Besuche unsere Veranstaltungen
 
-Wir organisieren regelmäßig verschiedene Veranstaltungen, zu denen du herzlich eingeladen bist. 
+Wir organisieren regelmäßig verschiedene [Veranstaltungen](/events), zu denen du herzlich eingeladen bist. 
 Wir freuen uns über alle, die uns besuchen, unsere Angebote wahrnehmen und damit auch zeigen, dass ein breites Interesse und Nachfrage nach derartigen 
 Veranstaltungen existiert. 
+
+Insbesondere findet jeden ersten Dienstag des Monats um 19 Uhr ein offenes Plenum im [Vereinsheim](https://www.openstreetmap.org/?mlat=51.14581&mlon=14.97133#map=19/51.14581/14.97133) statt, zu dem alle Leute mit Fragen, Ideen oder Gesprächbedarf gern gesehen sind.
 
 In diesem Zuge freuen wir uns natürlich auch über Feedback, Lob und Kritik, die uns dabei helfen, unsere Tätigkeiten weiter zu verbessern. 
 
