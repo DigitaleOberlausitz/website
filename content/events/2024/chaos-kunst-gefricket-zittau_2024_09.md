@@ -5,7 +5,6 @@ location: "Innere Weberstraße 16, 02763 Zittau"
 startTime: "14:00"
 endTime: "24:00"
 icon: "werkraum_zittau_logo.png"
-show_as_news: true
 ---
 
 <a href="https://chaoskunstgefrickel.werkraum.space/">
