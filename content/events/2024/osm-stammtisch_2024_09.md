@@ -5,7 +5,7 @@ location: "Vereinsheim Digitale Oberlausitz, Lutherstraße 50, 02826 Görlitz"
 icon: "logo_transparent.png"
 show_as_news: true
 ---
-
+![](../../images/2024-09-17-osm-stammtisch-sharepic.png)
 
 Ort: Vereinsheim Digitale Oberlausitz e.V.
 Lutherstraße 50
