@@ -1,5 +1,5 @@
 ---
-title: "Chaostreff März 2024"
+title: "Chaostreff Oktober 2024"
 date: "2024-10-04"
 ical: 'chaostreff-goerlitz'
 location: "Xin Chao, Hildegard-Burjan-Platz 1, 02826 Görlitz"
