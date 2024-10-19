@@ -16,6 +16,7 @@ Wie du mit uns in Kontakt treten kannst? Hier erfährst du es!
 - [Facebook](https://www.facebook.com/DigitaleOL)
 - [LinkedIn](https://www.linkedin.com/company/digitale-oberlausitz-e-v)
 - [Bluesky: @digitaleOL.bsky.social](https://bsky.app/profile/digitaleol.bsky.social)
+- [Fediverse: @digitaleOL@social.la10cy.net](https://social.la10cy.net/@digitaleOL)
 
 ## Persönlich bei lokalen Veranstaltungen
 
