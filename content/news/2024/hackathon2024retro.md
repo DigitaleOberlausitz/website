@@ -1,6 +1,6 @@
 ---
 title: "Ergebnisbetrachtung zum Hackathon 2024"
-date: "2024-10-23
+date: "2024-10-23"
 ---
 
 Am 18.10.2024 startete der nunmehr [3. Hackathon](https://hackathon2024.digitale-oberlausitz.eu) in der Stadtbibliothek Görlitz. Die thematische Ausrichtung hat dieses Jahr einen klaren Fokus auf Themen der nachhaltigen Stadtentwicklung bzw. auch Open-Data. Die Challenges waren einerseits aus einem Treffen der [TRUST](https://trust-goerlitz.de/)-Arena entstanden bzw. von der Europastadt [GörlitzZgorcelec GmbH](https://www.goerlitz.de/Europastadt-GoerlitzZgorzelec.html) zugearbeitet worden und andererseits von der [Erdmann Software GmbH](https://www.erdmannsoftware.com/) eingereicht worden.
