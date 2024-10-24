@@ -4,7 +4,7 @@ date: "2024-10-23"
 ---
 
 Am 18.10.2024 startete der nunmehr [3. Hackathon](https://hackathon2024.digitale-oberlausitz.eu) in der Stadtbibliothek Görlitz. Die thematische Ausrichtung hat dieses Jahr einen klaren Fokus auf Themen der nachhaltigen Stadtentwicklung bzw. auch Open-Data. Die Challenges waren einerseits aus einem Treffen der [TRUST](https://trust-goerlitz.de/)-Arena entstanden bzw. von der Europastadt [GörlitzZgorcelec GmbH](https://www.goerlitz.de/Europastadt-GoerlitzZgorzelec.html) zugearbeitet worden und andererseits von der [Erdmann Software GmbH](https://www.erdmannsoftware.com/) eingereicht worden.
-Viele der Themen hatten einen Fokus zu Karten- oder Geo-Daten, die man aus offenen Datenquellen beziehen könnte, weswegen schnell die Idee entstand, Open-Data als gemeinsames Motto zu definieren. Außerdem sind alle Themen im Bereich der Nachhaltigkeit bzw. der nachhaltigen Stadtentwicklung einzuordnen. Neben den Themen Zur Förderung von Urban Gardening, Reparierbarkeit, der Analyse von Dachflächen für die Eignung für Solaranlagen oder der Bewertung von Reparaturmaßnahmen im Gleisnetz der Eisenbahn, war es die [Challenge zur Verarbeitung und Darstellung von Hitzeproblembereichen](https://hackathon2024.digitale-oberlausitz.eu/challenge-hitzeprobleme/), die die Teilnehmenden begeistert hat.
+Viele der Themen hatten einen Fokus zu Karten- oder Geo-Daten, die man aus offenen Datenquellen beziehen könnte, weswegen schnell die Idee entstand, Open-Data als gemeinsames Motto zu definieren. Außerdem sind alle Themen im Bereich der Nachhaltigkeit bzw. der nachhaltigen Stadtentwicklung einzuordnen. Neben den Themen zur Förderung von Urban Gardening, Reparierbarkeit, der Analyse von Dachflächen für die Eignung für Solaranlagen oder der Bewertung von Reparaturmaßnahmen im Gleisnetz der Eisenbahn, war es die [Challenge zur Verarbeitung und Darstellung von Hitzeproblembereichen](https://hackathon2024.digitale-oberlausitz.eu/challenge-hitzeprobleme/), die die Teilnehmenden am meisten begeistert hat.
 
 ![Ein Schatten von einem Netzteil auf auf der Präsentation mit der Darstellung eines Micro-Chips, Schatten eines Netzteils](../../images/2024-hackathon/hackathon2024-1.jpg  "Das Abbild von Technik - Foto von Max Wielsch")
 
@@ -22,10 +22,3 @@ Zuletzt möchten wir auf diesem Wege ein paar Eindrücke von der Veranstaltung i
 
 
 ![Der Sponsoring-Vertreter der Zeiss Digital Innovation GmbH präsentiert das Unternehmen, Sponsor ZDI](../../images/2024-hackathon/hackathon2024-3.jpg  "Herr Adaszewski von der Zeiss Digital Innovation GmbH präsentiert den Sponsor - Foto von Max Wielsch")
-
-
-
-
-
-
-
