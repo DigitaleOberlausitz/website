@@ -1,6 +1,6 @@
 ---
 title: "Chaostreff November 2024"
-date: "2024-11-031"
+date: "2024-11-01"
 ical: 'chaostreff-goerlitz'
 location: "Miódmaliny, Daszyńskiego 17, 59-900 Zgorzelec, Polen"
 startTime: "18:00"
