@@ -20,7 +20,7 @@ Zuletzt möchten wir auf diesem Wege ein paar Eindrücke von der Veranstaltung i
 
 ![Max Wielsch eröffnet den Hackathon](../../images/2024-hackathon/hackathon2024-6.jpg  "Eröffnungsrede zum Hackathons - Foto von Marlene Knoche")
 
-![Der Challenge-Owner von Erdmann Software stellt seine Challenge vor, Challenge-Owner Erdmann](../../images/2024-hackathon/hackathon2024-7.jpg  "Herr Schwar von der Erdmann Software GmbH präsentiert seine Challenge - Foto von Max Wielsch")
+![Der Challenge-Owner von Erdmann Software stellt seine Challenge vor, Challenge-Owner Erdmann](../../images/2024-hackathon/hackathon2024-7.jpg  "Herr Schwar von der Erdmann Software GmbH präsentiert seine Challenge - Foto von Marlene Knoche")
 
 
 ![Der Sponsoring-Vertreter der Zeiss Digital Innovation GmbH präsentiert das Unternehmen, Sponsor ZDI](../../images/2024-hackathon/hackathon2024-3.jpg  "Herr Adaszewski von der Zeiss Digital Innovation GmbH präsentiert den Sponsor - Foto von Max Wielsch")
