@@ -7,7 +7,7 @@ Am 23. Januar waren wir im Deutschen Zentrum für Astrophysik in Görlitz zu Gas
 
 ![Urheber: Frank Riedel](../../images/2025-01-23-spendenuebergabe-dza.jpg  "Übergabe der Spende von den Freunden des DZA im Gebäude des Deutschen Zentrum für Astrophysik in Görlitz")
 
-Wir freuen uns sehr über diese Summe Geld und bedanken uns herzlich für diese großzügige Spende an unseren Verein und die Unterstützung unserer Bildungsveranstaltungen, die wir kontinuierlich treiben. In Abstimmung mit den Spendern wird dieses Geld für die Organisation des nächsten Hackathon (2025) eingesetzt werden.
+Wir freuen uns sehr über diese Summe Geld und bedanken uns herzlich für diese großzügige Spende an unseren Verein und die Unterstützung unserer Bildungsveranstaltungen, die wir weiterentwickeln möchten. In Abstimmung mit den Spendern wird dieses Geld für die Organisation des nächsten Hackathon (2025) eingesetzt werden.
 
 <!--more-->
 
@@ -18,10 +18,3 @@ Liebe geht durch den Magen – und das Geld aus der Spenden-Kochaktion im Advent
 Einige der inzwischen knapp 60 DZA-Mitarbeitenden haben am Samstag vor Weihnachten selbst mit angepackt, Zwiebeln geschnippelt oder Petersilie atomisiert und einen Abend im Advent nicht nur gemeinsam verbracht, sondern gleich noch Gutes bewirkt und so eine beeindruckende Spendensumme zusammenbekommen. Der zweite Teil der Einnahmen von Axel Krüger geht übrigens an die Görlitzer Segeljugend am Berzdorfer See. Damit unterstützt er Jugend und Sport rund um Görlitz.
  
 Einen der Schecks in Höhe von 700 Euro übergab der designierte DZA-Gründungsdirektor Günther Hasinger an Mitglieder des Vereins Digitale Oberlausitz in Görlitz.
-
-
-
-
-
-
-
