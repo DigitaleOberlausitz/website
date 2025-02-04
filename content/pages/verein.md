@@ -84,3 +84,4 @@ die ähnliche Dinge machen, entstehen Synergien. Dies ist die Idee eines Hackers
 * [2018](/berichte/taetigkeitsbericht_2018)
 * [2019](/berichte/taetigkeitsbericht_2019)
 * [2023](/berichte/taetigkeitsbericht_2023)
+* [2024](/berichte/taetigkeitsbericht_2024)
