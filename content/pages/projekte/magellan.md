@@ -1,5 +1,5 @@
 ---
-title: "Magellan 4.0" - Digitale Innovation im Austausch
+title: "Magellan 4.0"
 ---
 
 # Magellan 4.0 - Digitale Innovation im Austausch
