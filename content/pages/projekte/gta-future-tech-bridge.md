@@ -4,9 +4,7 @@ title: "GTA 'FutureTechBridge'"
 
 # Ganztagsangebot „FutureTechBrigde“ für Informatik (Klassenstufe 7)
 
-## Wie Elterninitiative den Informatikunterricht an der Scultetus Oberschule unterstützen
-
-An der Scultetus Oberschule in Görlitz fiel in diesem Schuljahr der Informatikunterricht für die siebte Klasse aufgrund von Lehrermangel aus. Um den Schülerinnen und Schülern dennoch den Zugang zu digitaler Bildung zu ermöglichen, haben wir ein Informatikangebot im Rahmen eines Ganztagsangebots (GTA) initiiert. Mittlerweile profitieren alle sieben Klassen der Jahrgangsstufe von diesem Angebot.
+An der Scultetus Oberschule in Görlitz fiel im Schuljahr (2024/2025) der Informatikunterricht für die siebte Klasse aufgrund von Lehrermangels aus. Um den Schülerinnen und Schülern dennoch den Zugang zu digitaler Bildung zu ermöglichen, haben wir ein Informatikangebot im Rahmen eines Ganztagsangebots (GTA) initiiert. Mittlerweile profitieren alle siebten Klassen der Jahrgangsstufe von diesem Angebot.
 
 ## Unsere Initiative im Überblick
 
