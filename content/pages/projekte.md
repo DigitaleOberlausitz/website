@@ -29,3 +29,7 @@ Junction Hackathons 2021 sind, der auch in Görlitz in der Rabryka stattgefunden
 ---
 
 **[Magellan 4.0](/projekte/magellan)** *Magellan 4.0* ist ein Austauschformat für IT-Fachkräfte in der Oberlausitz. Gemeinsam setzen wir die Segel und entdecken die neuen Kontinente der Industrie 4.0! Mit unserem innovativen Austauschformat „Magellan 4.0“ laden wir IT-Fachkräfte, Unternehmen und Interessierte ein, die Chancen und Herausforderungen der digitalen Transformation zu erforschen.
+
+---
+
+**[GTA 'FutureTechBridge'](/projekte/gta-future-tech-bridge)** Das Projekt "GTA FutureTechBridge" ist aus der Not von komplett ausgefallenem Informatikunterricht entstanden und verdeutlicht, wie durch Zusammenarbeit von Eltern, Studierenden und Vereinen innovative Lösungen gefunden werden können. Die Lernmaterialien orientieren sich an den Aufgaben des Sächsischen Informatikwettbewerbs und so auch am sächsischen Lehrplan. Die Materialien werden mit Unterstützung der Initiative ZUKLOS https://zuklos.hszg.de entwickelt und stehen über die Plattform des Digitale Oberlausitz e. V. zur Verfügung. Das Projekt bietet Potential zum Nachmachen: Es könnte auch anderen Schulen als Modell dienen – regional und darüber hinaus.
