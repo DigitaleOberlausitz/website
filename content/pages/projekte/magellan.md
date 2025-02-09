@@ -1,13 +1,5 @@
 ---
-<<<<<<< Updated upstream
-title: "Magellan 4.0"
----
-
-*Magellan 4.0* ist ein Austauschformat für IT-Fachkräfte in der Oberlausitz. Gemeinsam setzen wir die Segel und entdecken die neuen Kontinente der Industrie 4.0! Mit unserem innovativen Austauschformat „Magellan 4.0“ laden wir IT-Fachkräfte, Unternehmen und Interessierte ein, die Chancen und Herausforderungen der digitalen Transformation zu erforschen.
-
-Weitere Infos folgen.
-=======
-title: Magellan 4.0 - Digitale Innovation im Austausch
+title: "Magellan 4.0" - Digitale Innovation im Austausch
 ---
 
 # Magellan 4.0 - Digitale Innovation im Austausch
@@ -40,6 +32,3 @@ Melden Sie sich jetzt an und werden Sie Teil des Netzwerks, das die Zukunft der 
 **Anmeldung / Abmeldung**: E-Mail an magellan@digitale-oberlausitz.eu
 
 Lassen Sie uns gemeinsam aufbrechen – für eine digitale Zukunft, die keine Grenzen kennt!
-
-
->>>>>>> Stashed changes

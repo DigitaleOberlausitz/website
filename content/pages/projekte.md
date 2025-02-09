@@ -28,8 +28,4 @@ Junction Hackathons 2021 sind, der auch in Görlitz in der Rabryka stattgefunden
 
 ---
 
-<<<<<<< Updated upstream
 **[Magellan 4.0](/projekte/magellan)** *Magellan 4.0* ist ein Austauschformat für IT-Fachkräfte in der Oberlausitz. Gemeinsam setzen wir die Segel und entdecken die neuen Kontinente der Industrie 4.0! Mit unserem innovativen Austauschformat „Magellan 4.0“ laden wir IT-Fachkräfte, Unternehmen und Interessierte ein, die Chancen und Herausforderungen der digitalen Transformation zu erforschen.
-=======
-**[Magellan 4.0](/projekte/magellan)** *Magellan 4.0* ist ein Austauschformat für IT-Fachkräfte in der Oberlausitz. Gemeinsam setzen wir die Segel und entdecken die neuen Kontinente der Industrie 4.0! Mit unserem innovativen Austauschformat „Mangelan 4.0“ laden wir IT-Fachkräfte, Unternehmen und Interessierte ein, die Chancen und Herausforderungen der digitalen Transformation zu erforschen.
->>>>>>> Stashed changes
